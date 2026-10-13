@@ -13,6 +13,7 @@ import json
 import re
 import sys
 import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -80,7 +81,8 @@ def unduh(url):
             with urllib.request.urlopen(req, timeout=30) as r:
                 return r.read()
         except Exception as e:  # noqa: BLE001 - coba lagi untuk semua jenis gangguan jaringan
-            if percobaan == 2:
+            # 4xx (mis. 403 ditolak, 404 tidak ada) tidak akan berubah kalau dicoba lagi.
+            if percobaan == 2 or (isinstance(e, urllib.error.HTTPError) and 400 <= e.code < 500):
                 raise
             print(f"  gagal ({e}), coba lagi...")
             time.sleep(3)
@@ -239,6 +241,11 @@ def main():
         berita.append(b)
     berita = berita[:MAKS_BERITA]
 
+    # Berita dari sumber yang sudah dikeluarkan dari SUMBER tidak perlu dibuka.
+    nama_sumber = {s["nama"] for s in SUMBER}
+    for b in berita:
+        if "gambar_besar" not in b and b["sumber"] not in nama_sumber:
+            b["gambar_besar"], b["penulis"] = None, None
     belum = [b for b in berita if "gambar_besar" not in b][:MAKS_HALAMAN]
     print(f"Mengambil foto besar untuk {len(belum)} berita...")
     gagal = 0
