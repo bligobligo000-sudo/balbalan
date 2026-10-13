@@ -68,9 +68,41 @@ KLUB_POPULER = {
     "leverkusen": ("Bayer Leverkusen", ["leverkusen"]),
     "bayer-leverkusen": ("Bayer Leverkusen", ["leverkusen"]),
     "paris-saint-germain": ("Paris Saint-Germain", ["psg", "paris saint-germain", "paris saint germain"]),
+    # Eropa: nama resmi yang terlalu panjang atau berbeda dari sebutan media Indonesia
+    "brighton-hove-albion": ("Brighton", ["brighton"]),
+    "real-betis-balompie": ("Real Betis", ["real betis", "betis"]),
+    "deportivo-alaves": ("Alaves", ["alaves", "alavés"]),
+    "real-racing-club-de-santander": ("Racing Santander", ["racing santander"]),
+    "athletic-club": ("Athletic Bilbao", ["athletic bilbao", "athletic club"]),
+    "borussia-monchengladbach": ("Borussia Monchengladbach", ["gladbach", "monchengladbach", "mönchengladbach"]),
+    "racing-club-de-lens": ("Lens", ["rc lens"]),
+    "sporting-clube-de-portugal": ("Sporting CP", ["sporting cp", "sporting lisbon"]),
+    "pae-aek": ("AEK Athens", ["aek"]),
+    "aek": ("AEK Athens", ["aek"]),
+    "psv": ("PSV Eindhoven", ["psv"]),
+    "feyenoord-rotterdam": ("Feyenoord", ["feyenoord"]),
+    "real-sociedad-de-futbol": ("Real Sociedad", ["real sociedad"]),
+    # Nama yang di berita Indonesia biasanya berarti hal lain (Viking = suporter Persib, Sabah = klub Malaysia)
+    "viking": ("Viking FK", ["viking fk", "viking stavanger"]),
+    "sabah": ("Sabah FK", ["sabah fk"]),
+    "espanyol-de-barcelona": ("Espanyol", ["espanyol"]),
+    "rayo-vallecano-de-madrid": ("Rayo Vallecano", ["rayo vallecano"]),
 }
-AWALAN = r"^(?:1\.\s*)?(?:FC|AFC|AC|AS|SS|SSC|SL|RC|RCD|CF|SC)\s+"
-AKHIRAN = r"\s+(?:FC|CF|AFC|SC|CFC|KV|FK)$"
+AWALAN = r"^(?:1\.\s*)?(?:FC|FSV|AFC|AC|ACF|AS|SS|SSC|SL|RC|RCD|CF|SC|CA|US|SV|SK|FK|ŠK|PAE|\d{2,4})\s+"
+AKHIRAN = r"\s+(?:FC|CF|AFC|SC|CFC|KV|FK|SK|UD|OSC|BC|Calcio|\d{2,4})$"
+
+
+def tanpa_aksen(teks):
+    return unicodedata.normalize("NFKD", teks).encode("ascii", "ignore").decode()
+
+
+def nama_bersih(nama):
+    """'FC Bayern München' -> 'Bayern München', 'Bologna FC 1909' -> 'Bologna'."""
+    sebelum = None
+    while sebelum != nama:
+        sebelum = nama
+        nama = re.sub(AKHIRAN, "", re.sub(AWALAN, "", nama)).strip()
+    return nama
 
 
 def slug(teks):
@@ -92,15 +124,16 @@ def siapkan_klub(data):
     """Lengkapi setiap tim dengan nama tampilan, slug halaman, kompetisi, dan pola pencocokan berita."""
     klub = {}
     for tid, t in data["tim"].items():
-        if tid.startswith("idn-"):
-            bersih = t["nama"]
-        else:
-            bersih = re.sub(AKHIRAN, "", re.sub(AWALAN, "", t["nama"]))
-            if len(bersih) > 20 or re.search(r"\d", bersih):
-                bersih = t.get("pendek") or bersih
-        populer = KLUB_POPULER.get(slug(bersih)) or KLUB_POPULER.get(slug(t.get("pendek") or ""))
+        bersih = t["nama"] if tid.startswith("idn-") else nama_bersih(t["nama"])
+        kandidat = [slug(bersih), slug(t["nama"]), slug(t.get("pendek") or "")]
+        populer = next((KLUB_POPULER[s] for s in kandidat if s in KLUB_POPULER), None)
+        if not populer and (len(bersih) > 24 or re.search(r"\d", bersih)):
+            bersih = t.get("pendek") or bersih
         nama = populer[0] if populer else bersih
-        alias = {nama.lower(), bersih.lower()} | set(populer[1] if populer else [])
+        if populer:  # klub populer: hanya nama tampilan + nama panggilan yang ditentukan
+            alias = {nama.lower(), *populer[1]}
+        else:
+            alias = {nama.lower(), bersih.lower(), tanpa_aksen(bersih).lower()}
         if tid.startswith("idn-") and not populer:
             alias.add(nama.split()[0].lower())
         pola = [a[3:] if a.startswith("re:") else re.escape(a) for a in alias if len(a) >= 3 or a.startswith("re:")]
@@ -182,7 +215,7 @@ def tabel_klasemen(komp, klub, akar, sorot=None, baris=None):
     for r in komp["klasemen"]:
         if baris is not None and r["posisi"] not in baris:
             continue
-        if r.get("grup") and r["grup"] != grup_sebelum:
+        if str(r.get("grup") or "").startswith("GROUP") and r["grup"] != grup_sebelum:
             grup_sebelum = r["grup"]
             isi.append(f'<tr class="grup"><td colspan="10">{escape(r["grup"].replace("GROUP_", "Grup "))}</td></tr>')
         k = klub[r["tim"]]
@@ -235,7 +268,9 @@ def halaman_hub(data, klub, atur, info):
         tgl = ke_wib(berikut[0]["waktu"]).date() if berikut else None
         judul_laga = "Tidak ada laga hari ini · Laga berikutnya"
         laga_tampil = [m for m in berikut if ke_wib(m["waktu"]).date() == tgl]
-    kemarin = [m for m in semua if m["status"] == "selesai" and ke_wib(m["waktu"]).date() in (hari_ini, hari_ini - timedelta(days=1))]
+    sudah_tampil = {m["id"] for m in laga_tampil}
+    kemarin = [m for m in semua if m["status"] == "selesai" and m["id"] not in sudah_tampil
+               and ke_wib(m["waktu"]).date() in (hari_ini, hari_ini - timedelta(days=1))]
 
     kartu = []
     for k in data["kompetisi"]:
@@ -364,10 +399,23 @@ def indeks_klub(data, klub, atur, info):
                    akar="../", isi=isi, aktif="klub", kanonik=f"{atur['alamat_website']}klub/", halaman_info=info)
 
 
+def lengkapi_form(komp):
+    """Versi gratis football-data tidak memberi 5 laga terakhir; hitung dari hasil yang tersimpan."""
+    for r in komp["klasemen"]:
+        if r["form"]:
+            continue
+        selesai = [m for m in komp["laga"] if m["status"] == "selesai" and r["tim"] in (m["kandang"], m["tamu"])]
+        for m in selesai[-5:]:
+            gol, kebobolan = m["skor"] if m["kandang"] == r["tim"] else m["skor"][::-1]
+            r["form"].append("M" if gol > kebobolan else "S" if gol == kebobolan else "K")
+
+
 def main(atur, info, berita, tulisan, kartu_tulisan):
     """Buat semua halaman liga & klub. Mengembalikan (daftar URL untuk sitemap, data klub)."""
     berkas = SITUS / "data" / "liga.json"
     data = json.loads(berkas.read_text(encoding="utf-8")) if berkas.exists() else {"kompetisi": [], "tim": {}, "diperbarui": None}
+    for komp in data["kompetisi"]:
+        lengkapi_form(komp)
     klub = siapkan_klub(data)
     for folder in ("liga", "klub"):
         shutil.rmtree(SITUS / folder, ignore_errors=True)

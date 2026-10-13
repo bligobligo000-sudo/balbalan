@@ -199,7 +199,7 @@ def ambil_eropa(kode, slug_liga, nama, token, semua_tim):
                 "posisi": r["position"], "tim": tim_eropa(semua_tim, r["team"]), "main": r["playedGames"],
                 "menang": r["won"], "seri": r["draw"], "kalah": r["lost"], "gm": r["goalsFor"],
                 "gk": r["goalsAgainst"], "sg": r["goalDifference"], "poin": r["points"], "form": form[-5:],
-                "grup": s.get("group"),
+                "grup": s.get("group") if str(s.get("group") or "").startswith("GROUP") else None,
             })
 
     status_map = {"FINISHED": "selesai", "IN_PLAY": "berlangsung", "PAUSED": "berlangsung", "LIVE": "berlangsung",
