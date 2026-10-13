@@ -10,17 +10,12 @@ import math
 import re
 import shutil
 from collections import Counter
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from html import escape
-from pathlib import Path
 from urllib.parse import quote
 
-AKAR = Path(__file__).resolve().parent.parent / "site"
-ALAMAT = "https://bligobligo000-sudo.github.io/balbalan/"
-WIB = timezone(timedelta(hours=7))
-HARI = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"]
-BULAN = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli",
-         "Agustus", "September", "Oktober", "November", "Desember"]
+from tata_letak import BULAN, SITUS, SKRIP_SALIN, WIB, daftar_halaman_info, dokumen, pengaturan, tanggal_panjang
+
 JUMLAH_TERKAIT = 6
 JUMLAH_TERBARU = 6
 
@@ -40,17 +35,9 @@ akui bilang tegaskan minta beber bongkar tantang hadapi jamu tamu kandang tandan
 inilah daftar link gratis malam pagi sore dini wib singgung soroti incar bidik rumor kabarnya
 """.split())
 
-FAVICON = ("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>"
-           "<text y='.9em' font-size='90'>⚽</text></svg>")
-
 
 def waktu_wib(iso):
     return datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc).astimezone(WIB)
-
-
-def tanggal_panjang(iso):
-    t = waktu_wib(iso)
-    return f"{HARI[t.weekday()]}, {t.day} {BULAN[t.month - 1]} {t.year}, {t:%H.%M} WIB"
 
 
 def tanggal_pendek(iso):
@@ -97,15 +84,16 @@ def gambar_html(src, alt="", besar=False):
             f'referrerpolicy="no-referrer" onerror="this.parentNode.classList.add(\'kosong\');this.remove()"></div>')
 
 
-def kartu_html(b):
-    return (f'<a class="kartu" href="{b["id"]}.html">{gambar_html(b.get("gambar"))}'
+def kartu_html(b, folder_baca=""):
+    """Kartu berita; folder_baca = jalur ke folder baca/ dari halaman yang memuat kartu ini."""
+    return (f'<a class="kartu" href="{folder_baca}{b["id"]}.html">{gambar_html(b.get("gambar"))}'
             f'<div class="teks"><div class="info"><span class="sumber">{escape(b["sumber"])}</span>'
             f'<span class="titik"></span><time datetime="{b["waktu"]}">{tanggal_pendek(b["waktu"])}</time></div>'
             f'<h4>{escape(b["judul"])}</h4><p>{escape(b["ringkasan"])}</p></div></a>')
 
 
-def halaman_html(b, terkait, terbaru):
-    alamat = f"{ALAMAT}baca/{b['id']}.html"
+def halaman_html(b, terkait, terbaru, atur, halaman_info):
+    alamat = f"{atur['alamat_website']}baca/{b['id']}.html"
     foto = b.get("gambar_besar") or b.get("gambar")
     judul, sumber = escape(b["judul"]), escape(b["sumber"])
     penulis = escape(b["penulis"]) if b.get("penulis") else None
@@ -114,7 +102,7 @@ def halaman_html(b, terkait, terbaru):
     info = f'<span class="sumber">{sumber}</span>'
     if penulis:
         info += f'<span class="titik"></span><span>{penulis}</span>'
-    info += f'<span class="titik"></span><time datetime="{b["waktu"]}">{tanggal_panjang(b["waktu"])}</time>'
+    info += f'<span class="titik"></span><time datetime="{b["waktu"]}">{tanggal_panjang(waktu_wib(b["waktu"]))}</time>'
 
     bagian = ""
     if terkait:
@@ -124,38 +112,15 @@ def halaman_html(b, terkait, terbaru):
     kredit = f"Judul, ringkasan, dan foto berita ini milik {sumber}"
     kredit += f" (penulis: {penulis})." if penulis else "."
 
-    return f"""<!doctype html>
-<html lang="id">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{judul} — Balbalan</title>
-  <meta name="description" content="{escape(b['ringkasan'])}">
-  <link rel="canonical" href="{escape(b['link'])}">
-  <meta property="og:title" content="{judul}">
+    meta = f"""<meta property="og:title" content="{judul}">
   <meta property="og:description" content="{escape(b['ringkasan'])}">
   <meta property="og:url" content="{alamat}">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Balbalan">
   {f'<meta property="og:image" content="{escape(foto)}">' if foto else ''}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="theme-color" content="#075a31">
-  <link rel="icon" href="{FAVICON}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../style.css">
-</head>
-<body>
-  <header class="kepala">
-    <div class="wadah kepala-isi">
-      <a class="logo" href="../" aria-label="Balbalan, ke halaman utama"><span class="logo-bola" aria-hidden="true">⚽</span>Balbalan</a>
-      <a class="kembali" href="../">← Semua berita</a>
-    </div>
-  </header>
+  <meta name="twitter:card" content="summary_large_image">"""
 
-  <main class="wadah">
-    <article class="artikel">
+    isi = f"""    <article class="artikel">
       <nav class="jejak" aria-label="Lokasi halaman"><a href="../">Beranda</a>{jejak}</nav>
       <h1>{judul}</h1>
       <div class="info">{info}</div>
@@ -169,36 +134,26 @@ def halaman_html(b, terkait, terbaru):
       </div>
     </article>
     {bagian}
-    <p class="kredit">{kredit} Balbalan hanya menampilkan cuplikan; artikel lengkapnya ada di <a href="{escape(b['link'])}" target="_blank" rel="noopener">situs {sumber}</a>.</p>
-  </main>
+    <p class="kredit">{kredit} Balbalan hanya menampilkan cuplikan; artikel lengkapnya ada di <a href="{escape(b['link'])}" target="_blank" rel="noopener">situs {sumber}</a>.</p>"""
 
-  <footer class="kaki">
-    <div class="wadah"><p><a href="../"><strong>Balbalan</strong></a> · Berita bola terbaru dari media Indonesia, diperbarui otomatis setiap 3 jam.</p></div>
-  </footer>
-
-  <script>
-    document.getElementById("salin").addEventListener("click", async (e) => {{
-      const t = e.currentTarget;
-      try {{ await navigator.clipboard.writeText(t.dataset.alamat); t.textContent = "Tersalin ✓"; }}
-      catch {{ prompt("Salin tautan ini:", t.dataset.alamat); }}
-    }});
-  </script>
-</body>
-</html>
-"""
+    # Kanonik ke artikel asli: memberi tahu Google bahwa sumber aslinya ada di situs media.
+    return dokumen(judul=f"{b['judul']} — Balbalan", deskripsi=b["ringkasan"], akar="../", isi=isi,
+                   aktif="berita", kanonik=b["link"], meta=meta, skrip=SKRIP_SALIN, halaman_info=halaman_info)
 
 
 def main():
-    data = json.loads((AKAR / "data" / "berita.json").read_text(encoding="utf-8"))
-    berita = data["berita"]
+    atur = pengaturan()
+    halaman_info = daftar_halaman_info()
+    berita = json.loads((SITUS / "data" / "berita.json").read_text(encoding="utf-8"))["berita"]
     terkait = cari_terkait(berita)
 
-    folder = AKAR / "baca"
+    folder = SITUS / "baca"
     shutil.rmtree(folder, ignore_errors=True)
     folder.mkdir(parents=True)
     for b in berita:
         terbaru = [x for x in berita if x is not b and x not in terkait[b["id"]]][:JUMLAH_TERBARU]
-        (folder / f"{b['id']}.html").write_text(halaman_html(b, terkait[b["id"]], terbaru), encoding="utf-8")
+        html = halaman_html(b, terkait[b["id"]], terbaru, atur, halaman_info)
+        (folder / f"{b['id']}.html").write_text(html, encoding="utf-8")
     punya = sum(1 for v in terkait.values() if v)
     print(f"Dibuat {len(berita)} halaman baca ({punya} punya berita terkait) di {folder}")
 

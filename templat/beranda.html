@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Balbalan — Berita Bola Terbaru, Prediksi & Opini</title>
+  <meta name="description" content="{{DESKRIPSI}}">
+  <link rel="canonical" href="{{ALAMAT}}">
+  <meta property="og:title" content="Balbalan — Berita Bola Terbaru, Prediksi & Opini">
+  <meta property="og:description" content="{{DESKRIPSI}}">
+  <meta property="og:url" content="{{ALAMAT}}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Balbalan">
+  {{HEAD_UMUM}}
+</head>
+<body>
+  {{KEPALA}}
+
+  <main class="wadah">
+    <section class="pembuka">
+      <h1>Berita bola terbaru</h1>
+      <p id="keterangan">Dikumpulkan otomatis dari media olahraga Indonesia, diperbarui setiap 3 jam.</p>
+    </section>
+
+{{TULISAN_BERANDA}}
+
+    <div class="alat">
+      <label class="cari">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input type="search" id="cari" placeholder="Cari klub, pemain, atau liga…" aria-label="Cari berita" autocomplete="off">
+      </label>
+      <nav class="saringan" id="saringan" aria-label="Pilih kategori"></nav>
+    </div>
+
+    <div id="isi" aria-live="polite"></div>
+    <p id="kosong" class="kosong" hidden></p>
+    <button id="muat" class="muat" type="button" hidden>Tampilkan berita lainnya</button>
+  </main>
+
+  {{KAKI}}
+
+  <script src="app.js" defer></script>
+</body>
+</html>

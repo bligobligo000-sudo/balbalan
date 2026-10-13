@@ -1,0 +1,151 @@
+# Pengaturan editor Pages CMS (https://app.pagescms.org).
+# Menentukan formulir yang muncul saat menulis tulisan, mengubah halaman info,
+# dan mengubah pengaturan website. Setiap kali disimpan, website dipasang ulang otomatis.
+
+media:
+  input: site/gambar
+  output: /gambar
+  rename: safe
+  categories: [image]
+
+content:
+  - name: tulisan
+    label: Tulisan Saya
+    type: collection
+    path: konten/tulisan
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [judul, jenis, tanggal, draf]
+      primary: judul
+      sort: [tanggal, judul]
+      default:
+        sort: tanggal
+        order: desc
+    fields:
+      - name: judul
+        label: Judul
+        type: string
+        required: true
+        description: "Jelas dan memuat kata yang dicari orang, misalnya: Prediksi Persib vs Persija, Liga 1 Pekan 8."
+      - name: jenis
+        label: Jenis tulisan
+        type: select
+        required: true
+        options:
+          values: [Prediksi, Opini, Analisis, Catatan]
+      - name: tanggal
+        label: Tanggal terbit
+        type: date
+        options:
+          format: yyyy-MM-dd
+      - name: ringkasan
+        label: Ringkasan
+        type: text
+        required: true
+        description: "1–2 kalimat. Tampil di daftar tulisan dan di hasil pencarian Google."
+      - name: gambar
+        label: Foto sampul
+        type: image
+        description: "Pakai foto milik sendiri atau foto bebas pakai (Unsplash, Pexels, Wikimedia Commons). Jangan ambil foto dari situs berita."
+      - name: kredit_gambar
+        label: Keterangan foto
+        type: string
+        description: "Contoh: Foto: dokumen pribadi, atau Foto: Unsplash/nama fotografer."
+      - name: pertandingan
+        label: Data pertandingan (isi hanya untuk Prediksi)
+        type: object
+        fields:
+          - name: kompetisi
+            label: Kompetisi
+            type: string
+            description: "Contoh: Liga Champions, BRI Super League"
+          - name: kandang
+            label: Tim tuan rumah
+            type: string
+          - name: tamu
+            label: Tim tamu
+            type: string
+          - name: jadwal
+            label: Jadwal (WIB)
+            type: date
+            default: ""
+            options:
+              time: true
+              format: yyyy-MM-dd HH:mm
+          - name: skor
+            label: Prediksi skor
+            type: string
+            description: "Contoh: 2-1 (kandang-tamu)"
+      - name: draf
+        label: Simpan sebagai draf (belum tampil di website)
+        type: boolean
+      - name: body
+        label: Isi tulisan
+        type: rich-text
+        options:
+          format: html
+
+  - name: halaman
+    label: Halaman Info
+    type: collection
+    path: konten/halaman
+    filename: "{primary}.md"
+    view:
+      fields: [judul, urutan]
+      primary: judul
+      default:
+        sort: urutan
+        order: asc
+    fields:
+      - name: judul
+        label: Judul halaman
+        type: string
+        required: true
+      - name: deskripsi
+        label: Deskripsi singkat (untuk Google)
+        type: text
+      - name: urutan
+        label: Urutan di bagian bawah website
+        type: number
+      - name: body
+        label: Isi halaman
+        type: rich-text
+        description: "Kata dalam kurung kurawal ganda, misalnya {{penulis}} atau {{kontak_email}}, otomatis diganti dari Pengaturan Website."
+        options:
+          format: html
+
+  - name: pengaturan
+    label: Pengaturan Website
+    type: file
+    path: konten/pengaturan.json
+    fields:
+      - name: nama_website
+        label: Nama website
+        type: string
+        required: true
+      - name: alamat_website
+        label: Alamat website
+        type: string
+        required: true
+        description: "Ganti hanya kalau sudah memakai domain sendiri, misalnya https://balbalan.my.id/"
+      - name: deskripsi
+        label: Deskripsi website (untuk Google)
+        type: text
+      - name: penulis
+        label: Nama penulis
+        type: string
+        required: true
+      - name: profil_penulis
+        label: Profil singkat penulis
+        type: text
+      - name: email
+        label: Email kontak (tampil di halaman Kontak)
+        type: string
+      - name: google_verifikasi
+        label: Kode verifikasi Google Search Console
+        type: string
+        description: "Tempel tag HTML dari Search Console (metode 'Tag HTML'), atau isi kodenya saja."
+      - name: adsense_id
+        label: ID penayang AdSense
+        type: string
+        description: "Contoh: ca-pub-1234567890123456. Isi setelah punya akun AdSense; kode iklan dan ads.txt dipasang otomatis."

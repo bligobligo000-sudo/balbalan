@@ -133,16 +133,14 @@ async function muatData() {
 
     const diperbarui = new Date(data.diperbarui);
     const hariIni = kunciHari.format(diperbarui) === kunciHari.format(new Date());
-    el("diperbarui").textContent = `Diperbarui ${hariIni ? "" : fmtPendek.format(diperbarui) + ", "}${fmtJam.format(diperbarui)} WIB`;
+    const jam = `${hariIni ? "" : fmtPendek.format(diperbarui) + ", "}${fmtJam.format(diperbarui)} WIB`;
     const nama = (data.sumber || []).map((s) => s.nama);
-    el("keterangan").textContent = `${semua.length} berita dari ${nama.join(", ")}. Diperbarui otomatis setiap 3 jam.`;
-    el("daftar-sumber").textContent = `Sumber: ${nama.join(" · ")}`;
+    el("keterangan").textContent = `${semua.length} berita dari ${nama.join(", ")}. Diperbarui otomatis setiap 3 jam, terakhir ${jam}.`;
 
     tampilkanChip();
     tampilkan();
   } catch (e) {
     el("isi").innerHTML = "";
-    el("diperbarui").textContent = "";
     el("kosong").hidden = false;
     el("kosong").textContent = "Berita belum bisa dimuat. Periksa koneksi internet lalu muat ulang halaman.";
   }
