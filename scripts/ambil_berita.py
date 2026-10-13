@@ -22,10 +22,9 @@ UA = "Mozilla/5.0 (compatible; BalbalanBot/1.0; +https://github.com/bligobligo00
 
 # "link" (opsional) = pola alamat berita yang diterima. Dipakai untuk sumber yang
 # RSS-nya bercampur olahraga lain, supaya yang masuk hanya berita sepak bola.
+# CNN Indonesia sengaja tidak dipakai: RSS-nya menolak akses dari server GitHub (HTTP 403).
 SUMBER = [
     {"nama": "detikSport", "url": "https://sport.detik.com/sepakbola/rss"},
-    {"nama": "CNN Indonesia", "url": "https://www.cnnindonesia.com/olahraga/rss",
-     "link": r"/olahraga/\d+-(142|144|145)-\d+/"},
     {"nama": "Liputan6", "url": "https://feed.liputan6.com/rss/bola"},
     {"nama": "VIVA", "url": "https://www.viva.co.id/get/bola", "link": r"viva\.co\.id/bola/"},
     {"nama": "iNews", "url": "https://www.inews.id/feed/sport", "link": r"/sport/soccer/"},
@@ -120,7 +119,7 @@ def cari_gambar(item):
     for url in kandidat:
         if url and url.startswith("http"):
             url = url.strip().replace("http://", "https://", 1)
-            # detik/CNN memberi gambar kecil (w=360); minta versi yang lebih tajam.
+            # detik memberi gambar kecil (w=360); minta versi yang lebih tajam.
             return re.sub(r"([?&])w=360\b", r"\g<1>w=640", url)
     return None
 

@@ -7,7 +7,7 @@ Website berita sepak bola terbaru yang **memperbarui dirinya sendiri setiap 3 ja
 ## Cara kerjanya
 
 1. Setiap 3 jam, GitHub menjalankan program kecil `scripts/ambil_berita.py` secara otomatis (gratis).
-2. Program itu mengambil daftar berita terbaru dari detikSport, CNN Indonesia, Liputan6, VIVA, iNews dan SINDOnews, lalu menyaring yang khusus sepak bola.
+2. Program itu mengambil daftar berita terbaru dari detikSport, Liputan6, VIVA, iNews dan SINDOnews, lalu menyaring yang khusus sepak bola.
 3. Hasilnya disimpan di `site/data/berita.json`, lalu website dipasang ulang.
 
 Anda tidak perlu melakukan apa-apa: biarkan saja, website akan terus terisi berita baru.
