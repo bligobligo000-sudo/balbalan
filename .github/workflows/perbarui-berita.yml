@@ -34,14 +34,21 @@ jobs:
         if: github.event_name != 'push'
         run: python scripts/ambil_berita.py
 
+      - name: Ambil jadwal, hasil & klasemen
+        if: github.event_name != 'push'
+        continue-on-error: true   # kalau gagal, data lama tetap dipakai dan berita tetap terbit
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: python scripts/ambil_liga.py
+
       - name: Simpan berita ke repositori
         if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add site/data/berita.json
+          git add site/data/berita.json site/data/liga.json
           if git diff --cached --quiet; then
-            echo "Tidak ada berita baru."
+            echo "Tidak ada data baru."
           else
             git commit -m "Perbarui berita $(date -u +'%Y-%m-%d %H:%M') UTC"
             git pull --rebase --quiet

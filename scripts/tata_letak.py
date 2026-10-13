@@ -84,6 +84,8 @@ def kepala(akar, aktif=None):
       <a class="logo" href="{akar}" aria-label="Balbalan, ke halaman utama"><span class="logo-bola" aria-hidden="true">⚽</span>Balbalan</a>
       <nav class="menu" aria-label="Menu utama">
         {tautan("berita", akar, "Berita")}
+        {tautan("jadwal", f"{akar}liga/", "Jadwal")}
+        {tautan("klub", f"{akar}klub/", "Klub")}
         {tautan("tulisan", f"{akar}tulisan/", "Tulisan")}
       </nav>
     </div>

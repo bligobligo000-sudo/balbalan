@@ -21,6 +21,7 @@ from html import escape
 from urllib.parse import quote
 
 import buat_halaman
+import buat_liga
 from tata_letak import (BULAN, KONTEN, PROYEK, SITUS, SKRIP_SALIN, WIB, baca_konten, daftar_halaman_info,
                         dokumen, head_umum, kaki, kepala, pengaturan, tanggal_panjang)
 
@@ -341,12 +342,13 @@ def halaman_404(atur, info):
                    akar=dasar, isi=isi, meta='<meta name="robots" content="noindex">', halaman_info=info)
 
 
-def sitemap(semua, atur, info):
+def sitemap(semua, atur, info, url_tambahan=()):
     alamat = atur["alamat_website"]
     hari_ini = datetime.now(WIB).date().isoformat()
     url = [(alamat, hari_ini), (f"{alamat}tulisan/", semua[0]["tanggal"].isoformat() if semua else hari_ini)]
     url += [(f"{alamat}tulisan/{t['slug']}.html", t["tanggal"].isoformat()) for t in semua]
     url += [(f"{alamat}{h['nama']}.html", None) for h in info]
+    url += [(u, hari_ini) for u in url_tambahan]
     isi = "".join(f"<url><loc>{escape(u)}</loc>{f'<lastmod>{m}</lastmod>' if m else ''}</url>\n" for u, m in url)
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{isi}</urlset>\n'
 
@@ -375,14 +377,15 @@ def main():
         ads.write_text(f"google.com, {atur['adsense_id'].removeprefix('ca-')}, DIRECT, f08c47fec0942fa0\n", encoding="utf-8")
     elif ads.exists():
         ads.unlink()
-    (SITUS / "sitemap.xml").write_text(sitemap([t for t in semua if not t["draf"]], atur, info), encoding="utf-8")
+    url_liga, klub = buat_liga.main(atur, info, berita, semua, kartu_tulisan)
+    (SITUS / "sitemap.xml").write_text(sitemap([t for t in semua if not t["draf"]], atur, info, url_liga), encoding="utf-8")
     print(f"Dibuat {len(semua)} tulisan, {len(info)} halaman info, beranda, 404 dan sitemap")
     for t in semua:
         if t["kata"] < 300 and not t["draf"]:
             print(f"  catatan: '{t['judul']}' baru {t['kata']} kata; tulisan 600+ kata lebih disukai Google")
 
     if berita:
-        buat_halaman.main()
+        buat_halaman.main(klub)
 
 
 if __name__ == "__main__":

@@ -92,7 +92,7 @@ def kartu_html(b, folder_baca=""):
             f'<h4>{escape(b["judul"])}</h4><p>{escape(b["ringkasan"])}</p></div></a>')
 
 
-def halaman_html(b, terkait, terbaru, atur, halaman_info):
+def halaman_html(b, terkait, terbaru, atur, halaman_info, klub_terkait=()):
     alamat = f"{atur['alamat_website']}baca/{b['id']}.html"
     foto = b.get("gambar_besar") or b.get("gambar")
     judul, sumber = escape(b["judul"]), escape(b["sumber"])
@@ -108,6 +108,11 @@ def halaman_html(b, terkait, terbaru, atur, halaman_info):
     if terkait:
         bagian += f'<section class="bagian"><h2>Berita terkait</h2><div class="grid">{"".join(map(kartu_html, terkait))}</div></section>'
     bagian += f'<section class="bagian"><h2>Terbaru di Balbalan</h2><div class="grid">{"".join(map(kartu_html, terbaru))}</div></section>'
+
+    klub_html = ""
+    if klub_terkait:
+        klub_html = ('<div class="klub-terkait"><span>Jadwal &amp; berita klub:</span>' + "".join(
+            f'<a class="tombol-kecil" href="../klub/{k["slug"]}.html">{escape(k["tampil"])}</a>' for k in klub_terkait) + "</div>")
 
     kredit = f"Judul, ringkasan, dan foto berita ini milik {sumber}"
     kredit += f" (penulis: {penulis})." if penulis else "."
@@ -132,6 +137,7 @@ def halaman_html(b, terkait, terbaru, atur, halaman_info):
         <a class="tombol-kecil wa" href="{escape(wa)}" target="_blank" rel="noopener">WhatsApp</a>
         <button class="tombol-kecil" type="button" id="salin" data-alamat="{alamat}">Salin tautan</button>
       </div>
+      {klub_html}
     </article>
     {bagian}
     <p class="kredit">{kredit} Balbalan hanya menampilkan cuplikan; artikel lengkapnya ada di <a href="{escape(b['link'])}" target="_blank" rel="noopener">situs {sumber}</a>.</p>"""
@@ -141,7 +147,7 @@ def halaman_html(b, terkait, terbaru, atur, halaman_info):
                    aktif="berita", kanonik=b["link"], meta=meta, skrip=SKRIP_SALIN, halaman_info=halaman_info)
 
 
-def main():
+def main(klub=None):
     atur = pengaturan()
     halaman_info = daftar_halaman_info()
     berita = json.loads((SITUS / "data" / "berita.json").read_text(encoding="utf-8"))["berita"]
@@ -152,7 +158,8 @@ def main():
     folder.mkdir(parents=True)
     for b in berita:
         terbaru = [x for x in berita if x is not b and x not in terkait[b["id"]]][:JUMLAH_TERBARU]
-        html = halaman_html(b, terkait[b["id"]], terbaru, atur, halaman_info)
+        klub_terkait = [k for k in (klub or {}).values() if k["pola"].search(f"{b['judul']} {b['ringkasan']}")][:4]
+        html = halaman_html(b, terkait[b["id"]], terbaru, atur, halaman_info, klub_terkait)
         (folder / f"{b['id']}.html").write_text(html, encoding="utf-8")
     punya = sum(1 for v in terkait.values() if v)
     print(f"Dibuat {len(berita)} halaman baca ({punya} punya berita terkait) di {folder}")

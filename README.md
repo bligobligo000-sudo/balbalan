@@ -1,6 +1,6 @@
 # ⚽ Balbalan
 
-Website sepak bola berisi **berita terbaru yang memperbarui dirinya sendiri setiap 3 jam**, plus **tulisan Anda sendiri** (prediksi, opini, analisis).
+Website sepak bola berisi **berita terbaru**, **jadwal, hasil & klasemen**, dan **halaman tiap klub** yang semuanya memperbarui diri setiap 3 jam, plus **tulisan Anda sendiri** (prediksi, opini, analisis).
 
 **Alamat website:** https://bligobligo000-sudo.github.io/balbalan/
 
@@ -28,7 +28,10 @@ Saat berita diklik, pembaca tetap di Balbalan: mereka melihat halaman baca beris
 | `site/style.css` | Warna, huruf, dan tata letak |
 | `site/app.js` | Menampilkan berita, tombol kategori, dan kolom pencarian di beranda |
 | `site/data/berita.json` | Daftar berita (dibuat otomatis, jangan diubah manual) |
+| `site/data/liga.json` | Jadwal, hasil, dan klasemen (dibuat otomatis, jangan diubah manual) |
 | `scripts/ambil_berita.py` | Pengambil berita: daftar sumber dan kategori ada di sini |
+| `scripts/ambil_liga.py` | Pengambil jadwal, hasil, dan klasemen (Liga Indonesia dari ileague.id, liga Eropa dari football-data.org) |
+| `scripts/buat_liga.py` | Penyusun halaman Jadwal (`site/liga/`) dan halaman klub (`site/klub/`), termasuk nama panggilan klub untuk mencocokkan berita |
 | `scripts/buat_situs.py` | Penyusun seluruh website (tulisan, halaman info, beranda, sitemap, 404) |
 | `scripts/buat_halaman.py` | Penyusun halaman baca berita dan pencari berita terkait |
 | `scripts/tata_letak.py` | Bagian halaman yang dipakai bersama (menu atas, bagian bawah) |
@@ -43,6 +46,12 @@ Buka tab **Actions** di halaman GitHub repositori ini, pilih **Perbarui berita**
 
 **Bagaimana kalau update gagal?**
 GitHub akan mengirim email pemberitahuan. Website tetap menampilkan berita terakhir yang berhasil diambil. Biasanya penyebabnya salah satu situs berita sedang gangguan, dan akan pulih sendiri pada update berikutnya.
+
+**Bagaimana mengaktifkan jadwal & klasemen liga Eropa?**
+Daftar gratis di https://www.football-data.org/client/register, lalu simpan token dari email sebagai rahasia GitHub bernama `FOOTBALL_DATA_TOKEN` (Settings → Secrets and variables → Actions → New repository secret). Update berikutnya otomatis mengambil Liga Inggris, Spanyol, Italia, Jerman, dan Liga Champions.
+
+**Musim Liga Indonesia berganti?**
+Ubah `ILEAGUE_MUSIM` di `scripts/ambil_liga.py` sesuai alamat halaman jadwal di ileague.id (misalnya `BRI_SUPER_LEAGUE_2027-28`).
 
 **Mau melihat hasil di komputer sendiri sebelum dipasang?**
 Jalankan `python scripts/buat_situs.py --draf` (perlu `pip install pyyaml`), lalu `python -m http.server --directory site`. Dengan `--draf`, tulisan draf dan tulisan terjadwal ikut tampil.
