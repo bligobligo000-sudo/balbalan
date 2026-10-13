@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-13T00:41:25Z",
+ "diperbarui": "2026-10-13T00:56:02Z",
  "sumber": [
   {
    "nama": "detikSport",
@@ -8,8 +8,8 @@
   },
   {
    "nama": "CNN Indonesia",
-   "ok": true,
-   "jumlah": 54
+   "ok": false,
+   "jumlah": 0
   },
   {
    "nama": "Liputan6",
@@ -33,6 +33,17 @@
   }
  ],
  "berita": [
+  {
+   "judul": "Berstatus Raja ASEAN, Timnas Indonesia Dapat Tantangan Tanding Ulang dari Bangladesh",
+   "link": "https://www.viva.co.id/bola/1935286-berstatus-raja-asean-timnas-indonesia-dapat-tantangan-tanding-ulang-dari-bangladesh",
+   "sumber": "VIVA",
+   "waktu": "2026-10-13T00:54:00Z",
+   "ringkasan": "Timnas Indonesia mendapat tantangan untuk kembali berhadapan dengan Bangladesh setelah menorehkan prestasi sebagai juara FIFA ASEAN Cup 2026. Federasi Sepak Bola Banglade",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/04/6ac20da38184b-momen-timnas-indonesia-vs-bangladesh-di-laga-pamungkas-grup-a-fifa-asean-cup-2026_gemini_665_374.jpg",
+   "kategori": [
+    "Timnas"
+   ]
+  },
   {
    "judul": "Klasemen Liga Champions Asia usai Ronaldo Antar Al Nassr Menang 3-1",
    "link": "https://www.cnnindonesia.com/olahraga/20261013064253-142-1414613/klasemen-liga-champions-asia-usai-ronaldo-antar-al-nassr-menang-3-1",
