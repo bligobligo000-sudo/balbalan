@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Balbalan — Berita Bola Terbaru</title>
+  <meta name="description" content="Kumpulan berita sepak bola terbaru dari media Indonesia: Timnas, Liga Indonesia, Liga Inggris, Liga Champions, dan lainnya. Diperbarui otomatis setiap 3 jam.">
+  <meta property="og:title" content="Balbalan — Berita Bola Terbaru">
+  <meta property="og:description" content="Berita sepak bola terbaru dari media Indonesia, diperbarui otomatis setiap 3 jam.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#075a31">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="kepala">
+    <div class="wadah kepala-isi">
+      <a class="logo" href="./" aria-label="Balbalan, ke halaman utama">
+        <span class="logo-bola" aria-hidden="true">⚽</span>Balbalan
+      </a>
+      <span class="diperbarui" id="diperbarui">Memuat berita…</span>
+    </div>
+  </header>
+
+  <main class="wadah">
+    <section class="pembuka">
+      <h1>Berita bola terbaru</h1>
+      <p id="keterangan">Dikumpulkan otomatis dari media olahraga Indonesia, diperbarui setiap 3 jam.</p>
+    </section>
+
+    <div class="alat">
+      <label class="cari">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input type="search" id="cari" placeholder="Cari klub, pemain, atau liga…" aria-label="Cari berita" autocomplete="off">
+      </label>
+      <nav class="saringan" id="saringan" aria-label="Pilih kategori"></nav>
+    </div>
+
+    <div id="isi" aria-live="polite"></div>
+    <p id="kosong" class="kosong" hidden></p>
+    <button id="muat" class="muat" type="button" hidden>Tampilkan berita lainnya</button>
+  </main>
+
+  <footer class="kaki">
+    <div class="wadah">
+      <p><strong>Balbalan</strong> hanya menampilkan judul dan ringkasan singkat. Hak cipta berita dan foto milik masing-masing media. Klik berita untuk membaca selengkapnya di situs aslinya.</p>
+      <p id="daftar-sumber"></p>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
