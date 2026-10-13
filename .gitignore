@@ -3,6 +3,8 @@ __pycache__/
 
 # Dibuat otomatis oleh scripts/buat_situs.py saat website dipasang
 site/*.html
+# kecuali file verifikasi Google Search Console (jangan dihapus)
+!site/google*.html
 site/baca/
 site/tulisan/
 site/sitemap.xml
