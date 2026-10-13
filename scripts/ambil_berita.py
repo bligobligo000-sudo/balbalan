@@ -1,8 +1,13 @@
 """Mengambil berita sepak bola terbaru dari RSS beberapa media dan menyimpannya
 ke site/data/berita.json. Dijalankan otomatis oleh GitHub Actions setiap 3 jam.
 
+Untuk setiap berita baru, halaman aslinya dibuka sekali untuk mengambil foto
+ukuran besar (og:image, foto yang memang disediakan media untuk pratinjau tautan)
+dan nama penulisnya. Isi artikel tidak diambil.
+
 Hanya memakai pustaka bawaan Python, jadi tidak perlu `pip install` apa pun.
 """
+import hashlib
 import html
 import json
 import re
@@ -17,7 +22,8 @@ from pathlib import Path
 BERKAS = Path(__file__).resolve().parent.parent / "site" / "data" / "berita.json"
 SIMPAN_HARI = 3      # berita lebih tua dari ini dibuang
 MAKS_BERITA = 500    # batas jumlah berita di berkas
-PANJANG_RINGKASAN = 220
+PANJANG_RINGKASAN = 400
+MAKS_HALAMAN = 150   # batas halaman artikel yang dibuka per sekali jalan (supaya sopan)
 UA = "Mozilla/5.0 (compatible; BalbalanBot/1.0; +https://github.com/bligobligo000-sudo/balbalan)"
 
 # "link" (opsional) = pola alamat berita yang diterima. Dipakai untuk sumber yang
@@ -119,9 +125,37 @@ def cari_gambar(item):
     for url in kandidat:
         if url and url.startswith("http"):
             url = url.strip().replace("http://", "https://", 1)
-            # detik memberi gambar kecil (w=360); minta versi yang lebih tajam.
+            # detik memberi gambar kecil (w=360) dan iNews 300 px; minta versi yang lebih tajam.
+            url = re.sub(r"^(https://img\.inews\.id)/files/", r"\1/media/600/files/", url)
             return re.sub(r"([?&])w=360\b", r"\g<1>w=640", url)
     return None
+
+
+def meta(halaman, *nama):
+    for n in map(re.escape, nama):
+        m = (re.search(rf"<meta[^>]+(?:property|name)=[\"']{n}[\"'][^>]*content=[\"']([^\"']*)", halaman, re.I)
+             or re.search(rf"<meta[^>]+content=[\"']([^\"']*)[\"'][^>]*(?:property|name)=[\"']{n}[\"']", halaman, re.I))
+        if m and m.group(1).strip():
+            return html.unescape(m.group(1)).strip()
+    return None
+
+
+def info_artikel(link):
+    """Foto besar dan nama penulis dari halaman artikel asli."""
+    halaman = unduh(link).decode("utf-8", "replace")
+    gambar = meta(halaman, "og:image", "twitter:image")
+    if gambar and gambar.startswith("//"):
+        gambar = "https:" + gambar
+    if gambar and gambar.startswith("http"):
+        gambar = gambar.replace("http://", "https://", 1)
+        gambar = re.sub(r"^(https://img\.inews\.id/media)/600/", r"\1/1200/", gambar)
+    else:
+        gambar = None
+    penulis = meta(halaman, "author", "dtk:author", "content_author")
+    # Beberapa media mengisi kolom penulis dengan nama medianya sendiri.
+    if penulis and re.sub(r"\.com$", "", penulis.lower()) in {"liputan6", "detik", "detiksport", "viva", "inews", "sindonews"}:
+        penulis = None
+    return gambar, penulis
 
 
 def kategori_untuk(judul, ringkasan):
@@ -161,6 +195,10 @@ def kunci(link):
     return re.sub(r"[?#].*$", "", link).rstrip("/").lower()
 
 
+def buat_id(link):
+    return hashlib.sha1(kunci(link).encode()).hexdigest()[:12]
+
+
 def main():
     sekarang = datetime.now(timezone.utc).replace(microsecond=0)
     lama = []
@@ -180,7 +218,12 @@ def main():
         print(f"  {len(daftar)} berita bola")
         laporan.append({"nama": sumber["nama"], "ok": True, "jumlah": len(daftar)})
         for b in daftar:
-            gabungan[kunci(b["link"])] = b
+            k = kunci(b["link"])
+            # Foto besar & penulis yang sudah pernah diambil tidak perlu diambil lagi.
+            for kolom in ("gambar_besar", "penulis"):
+                if k in gabungan and kolom in gabungan[k]:
+                    b[kolom] = gabungan[k][kolom]
+            gabungan[k] = b
 
     if not any(s["ok"] for s in laporan):
         sys.exit("Semua sumber gagal diambil; berkas lama tidak diubah.")
@@ -191,9 +234,23 @@ def main():
         if b["waktu"] < batas or b["judul"].lower() in judul_terlihat:
             continue
         judul_terlihat.add(b["judul"].lower())
+        b["id"] = buat_id(b["link"])
         b["kategori"] = kategori_untuk(b["judul"], b["ringkasan"])
         berita.append(b)
     berita = berita[:MAKS_BERITA]
+
+    belum = [b for b in berita if "gambar_besar" not in b][:MAKS_HALAMAN]
+    print(f"Mengambil foto besar untuk {len(belum)} berita...")
+    gagal = 0
+    for b in belum:
+        try:
+            b["gambar_besar"], b["penulis"] = info_artikel(b["link"])
+        except Exception as e:  # noqa: BLE001 - foto kecil dari RSS tetap dipakai
+            b["gambar_besar"], b["penulis"] = None, None
+            gagal += 1
+            print(f"  gagal {b['link']}: {e}")
+        time.sleep(0.5)
+    print(f"  selesai, {gagal} gagal")
 
     BERKAS.parent.mkdir(parents=True, exist_ok=True)
     BERKAS.write_text(json.dumps({

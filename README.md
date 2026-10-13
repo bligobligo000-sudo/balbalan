@@ -8,11 +8,12 @@ Website berita sepak bola terbaru yang **memperbarui dirinya sendiri setiap 3 ja
 
 1. Setiap 3 jam, GitHub menjalankan program kecil `scripts/ambil_berita.py` secara otomatis (gratis).
 2. Program itu mengambil daftar berita terbaru dari detikSport, Liputan6, VIVA, iNews dan SINDOnews, lalu menyaring yang khusus sepak bola.
-3. Hasilnya disimpan di `site/data/berita.json`, lalu website dipasang ulang.
+3. Untuk setiap berita baru, foto ukuran besar dan nama penulisnya diambil dari halaman berita aslinya (isi artikelnya tidak diambil).
+4. Hasilnya disimpan di `site/data/berita.json`. Program `scripts/buat_halaman.py` lalu membuat satu halaman baca untuk setiap berita (foto besar, ringkasan, tombol bagikan, berita terkait), dan website dipasang ulang.
 
 Anda tidak perlu melakukan apa-apa: biarkan saja, website akan terus terisi berita baru.
 
-Website hanya menampilkan judul, ringkasan singkat dan foto kecil. Pengunjung yang mengeklik berita dibawa ke situs aslinya untuk membaca selengkapnya.
+Saat berita diklik, pembaca tetap di Balbalan: mereka melihat halaman baca berisi judul, ringkasan dan foto dari media, berita terkait, dan tombol **Baca selengkapnya** ke situs aslinya. Isi artikel lengkap sengaja tidak disalin supaya tidak melanggar hak cipta media.
 
 ## Isi folder
 
@@ -23,6 +24,8 @@ Website hanya menampilkan judul, ringkasan singkat dan foto kecil. Pengunjung ya
 | `site/app.js` | Menampilkan berita, tombol kategori dan kolom pencarian |
 | `site/data/berita.json` | Daftar berita (dibuat otomatis, jangan diubah manual) |
 | `scripts/ambil_berita.py` | Program pengambil berita: daftar sumber dan kategori ada di sini |
+| `scripts/buat_halaman.py` | Pembuat halaman baca `site/baca/…` (dibuat otomatis, tidak disimpan di git) |
+| `site/404.html` | Halaman "berita tidak ditemukan" untuk tautan berita yang sudah lebih dari 3 hari |
 | `.github/workflows/perbarui-berita.yml` | Jadwal update otomatis |
 
 ## Pertanyaan umum

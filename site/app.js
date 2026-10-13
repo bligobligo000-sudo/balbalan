@@ -52,16 +52,21 @@ function infoHTML(berita) {
     `<time datetime="${aman(berita.waktu)}">${waktuRelatif(t)}</time></div>`;
 }
 
+// Berita dibuka di halaman baca milik Balbalan (dibuat oleh scripts/buat_halaman.py).
+function alamatBaca(berita) {
+  return berita.id ? `baca/${encodeURIComponent(berita.id)}.html` : urlAman(berita.link) || "#";
+}
+
 function kartuHTML(berita) {
-  return `<a class="kartu" href="${aman(urlAman(berita.link) || "#")}" target="_blank" rel="noopener">
+  return `<a class="kartu" href="${aman(alamatBaca(berita))}">
     ${gambarHTML(berita, false)}
     <div class="teks">${infoHTML(berita)}<h4>${aman(berita.judul)}</h4><p>${aman(berita.ringkasan)}</p></div>
   </a>`;
 }
 
 function utamaHTML(berita) {
-  return `<a class="utama" href="${aman(urlAman(berita.link) || "#")}" target="_blank" rel="noopener">
-    ${gambarHTML(berita, true)}
+  return `<a class="utama" href="${aman(alamatBaca(berita))}">
+    ${gambarHTML({ gambar: berita.gambar_besar || berita.gambar }, true)}
     <div class="teks">${infoHTML(berita)}<h2>${aman(berita.judul)}</h2><p>${aman(berita.ringkasan)}</p></div>
   </a>`;
 }
