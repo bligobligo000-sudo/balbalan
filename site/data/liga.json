@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-18T20:38:04Z",
+ "diperbarui": "2026-10-18T23:09:01Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -2551,9 +2551,9 @@
      "menang": 7,
      "seri": 0,
      "kalah": 2,
-     "gm": 21,
-     "gk": 8,
-     "sg": 13,
+     "gm": 23,
+     "gk": 9,
+     "sg": 14,
      "poin": 21,
      "form": [],
      "grup": null
@@ -2593,9 +2593,9 @@
      "menang": 4,
      "seri": 2,
      "kalah": 3,
-     "gm": 13,
-     "gk": 14,
-     "sg": -1,
+     "gm": 14,
+     "gk": 16,
+     "sg": -2,
      "poin": 14,
      "form": [],
      "grup": null
@@ -3586,12 +3586,12 @@
      "id": "fd-564709",
      "waktu": "2026-10-18T19:00:00Z",
      "jam_pasti": true,
-     "status": "berlangsung",
+     "status": "selesai",
      "kandang": "fd-86",
      "tamu": "fd-559",
      "skor": [
-      3,
-      0
+      4,
+      1
      ],
      "stadion": "",
      "pekan": 9
@@ -3981,9 +3981,9 @@
      "menang": 6,
      "seri": 1,
      "kalah": 0,
-     "gm": 13,
+     "gm": 14,
      "gk": 4,
-     "sg": 9,
+     "sg": 10,
      "poin": 19,
      "form": [],
      "grup": null
@@ -4066,8 +4066,8 @@
      "seri": 2,
      "kalah": 2,
      "gm": 9,
-     "gk": 7,
-     "sg": 2,
+     "gk": 8,
+     "sg": 1,
      "poin": 11,
      "form": [],
      "grup": null
@@ -4904,7 +4904,7 @@
      "id": "fd-558570",
      "waktu": "2026-10-18T18:45:00Z",
      "jam_pasti": true,
-     "status": "berlangsung",
+     "status": "selesai",
      "kandang": "fd-109",
      "tamu": "fd-110",
      "skor": [
