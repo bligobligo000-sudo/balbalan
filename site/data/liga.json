@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-20T00:18:57Z",
+ "diperbarui": "2026-10-20T08:29:10Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -965,7 +965,7 @@
      "kandang": "idn-isenmulang-kalteng",
      "tamu": "idn-psim-yogyakarta",
      "skor": null,
-     "stadion": "Maguwoharjo"
+     "stadion": "Kapten I Wayan Dipta"
     },
     {
      "id": "idn-2026-10-24-idn-persijap-jepara-idn-java-united",
@@ -1088,16 +1088,6 @@
      "stadion": "Kanjuruhan"
     },
     {
-     "id": "idn-2026-10-31-idn-persik-kediri-idn-persita",
-     "waktu": "2026-10-31T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
-     "kandang": "idn-persik-kediri",
-     "tamu": "idn-persita",
-     "skor": null,
-     "stadion": "Brawijaya"
-    },
-    {
      "id": "idn-2026-10-31-idn-dewa-united-banten-idn-persija-jakarta",
      "waktu": "2026-10-31T12:00:00Z",
      "jam_pasti": true,
@@ -1106,6 +1096,16 @@
      "tamu": "idn-persija-jakarta",
      "skor": null,
      "stadion": "Banten International Stadium"
+    },
+    {
+     "id": "idn-2026-11-01-idn-persik-kediri-idn-persita",
+     "waktu": "2026-11-01T08:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-persik-kediri",
+     "tamu": "idn-persita",
+     "skor": null,
+     "stadion": "Brawijaya"
     },
     {
      "id": "idn-2026-11-01-idn-psim-yogyakarta-idn-borneo-fc-samarinda",
