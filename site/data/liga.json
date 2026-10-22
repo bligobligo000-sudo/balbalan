@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-22T04:39:56Z",
+ "diperbarui": "2026-10-22T11:47:48Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -150,46 +150,66 @@
     },
     {
      "posisi": 8,
-     "tim": "idn-persebaya-surabaya",
-     "main": 5,
-     "menang": 2,
-     "seri": 3,
-     "kalah": 0,
-     "gm": 6,
+     "tim": "idn-persik-kediri",
+     "main": 6,
+     "menang": 3,
+     "seri": 1,
+     "kalah": 2,
+     "gm": 7,
      "gk": 4,
-     "sg": 2,
-     "poin": 9,
+     "sg": 3,
+     "poin": 10,
      "form": [
-      "S",
       "M",
       "S",
       "M",
-      "S"
+      "K",
+      "M"
      ],
      "potong_poin": 0
     },
     {
      "posisi": 9,
-     "tim": "idn-persik-kediri",
-     "main": 5,
+     "tim": "idn-persebaya-surabaya",
+     "main": 6,
      "menang": 2,
-     "seri": 1,
-     "kalah": 2,
-     "gm": 5,
-     "gk": 3,
-     "sg": 2,
-     "poin": 7,
+     "seri": 3,
+     "kalah": 1,
+     "gm": 6,
+     "gk": 5,
+     "sg": 1,
+     "poin": 9,
      "form": [
-      "K",
       "M",
       "S",
       "M",
+      "S",
       "K"
      ],
      "potong_poin": 0
     },
     {
      "posisi": 10,
+     "tim": "idn-psm-makassar",
+     "main": 6,
+     "menang": 2,
+     "seri": 2,
+     "kalah": 2,
+     "gm": 9,
+     "gk": 12,
+     "sg": -3,
+     "poin": 8,
+     "form": [
+      "S",
+      "S",
+      "K",
+      "M",
+      "M"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 11,
      "tim": "idn-java-united",
      "main": 6,
      "menang": 2,
@@ -209,7 +229,7 @@
      "potong_poin": 2
     },
     {
-     "posisi": 11,
+     "posisi": 12,
      "tim": "idn-arema",
      "main": 6,
      "menang": 1,
@@ -229,7 +249,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 12,
+     "posisi": 13,
      "tim": "idn-borneo-fc-samarinda",
      "main": 5,
      "menang": 2,
@@ -245,26 +265,6 @@
       "K",
       "M",
       "K"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 13,
-     "tim": "idn-psm-makassar",
-     "main": 5,
-     "menang": 1,
-     "seri": 2,
-     "kalah": 2,
-     "gm": 8,
-     "gk": 12,
-     "sg": -4,
-     "poin": 5,
-     "form": [
-      "K",
-      "S",
-      "S",
-      "K",
-      "M"
      ],
      "potong_poin": 0
     },
@@ -291,20 +291,20 @@
     {
      "posisi": 15,
      "tim": "idn-pss-sleman",
-     "main": 5,
+     "main": 6,
      "menang": 1,
      "seri": 1,
-     "kalah": 3,
-     "gm": 8,
-     "gk": 9,
-     "sg": -1,
+     "kalah": 4,
+     "gm": 9,
+     "gk": 11,
+     "sg": -2,
      "poin": 4,
      "form": [
       "K",
       "K",
-      "K",
       "M",
-      "S"
+      "S",
+      "K"
      ],
      "potong_poin": 0
     },
@@ -905,22 +905,28 @@
     },
     {
      "id": "idn-2026-10-22-idn-psm-makassar-idn-persebaya-surabaya",
-     "waktu": "2026-10-22T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-10-21T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-psm-makassar",
      "tamu": "idn-persebaya-surabaya",
-     "skor": null,
+     "skor": [
+      1,
+      0
+     ],
      "stadion": "Gelora B. J. Habibie"
     },
     {
      "id": "idn-2026-10-22-idn-persik-kediri-idn-pss-sleman",
-     "waktu": "2026-10-22T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-10-21T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-persik-kediri",
      "tamu": "idn-pss-sleman",
-     "skor": null,
+     "skor": [
+      2,
+      1
+     ],
      "stadion": "Brawijaya"
     },
     {
