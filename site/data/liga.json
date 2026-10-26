@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-26T12:56:01Z",
+ "diperbarui": "2026-10-26T20:28:38Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -11,19 +11,19 @@
     {
      "posisi": 1,
      "tim": "idn-persija-jakarta",
-     "main": 6,
-     "menang": 5,
+     "main": 7,
+     "menang": 6,
      "seri": 0,
      "kalah": 1,
-     "gm": 15,
-     "gk": 5,
-     "sg": 10,
-     "poin": 15,
+     "gm": 17,
+     "gk": 6,
+     "sg": 11,
+     "poin": 18,
      "form": [
       "M",
       "M",
-      "M",
       "K",
+      "M",
       "M"
      ],
      "potong_poin": 0
@@ -70,26 +70,6 @@
     },
     {
      "posisi": 4,
-     "tim": "idn-madura-united",
-     "main": 6,
-     "menang": 4,
-     "seri": 1,
-     "kalah": 1,
-     "gm": 11,
-     "gk": 7,
-     "sg": 4,
-     "poin": 13,
-     "form": [
-      "M",
-      "M",
-      "K",
-      "S",
-      "M"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 5,
      "tim": "idn-persib-bandung",
      "main": 7,
      "menang": 4,
@@ -105,6 +85,26 @@
       "M",
       "K",
       "M"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 5,
+     "tim": "idn-madura-united",
+     "main": 7,
+     "menang": 4,
+     "seri": 1,
+     "kalah": 2,
+     "gm": 12,
+     "gk": 10,
+     "sg": 2,
+     "poin": 13,
+     "form": [
+      "M",
+      "K",
+      "S",
+      "M",
+      "K"
      ],
      "potong_poin": 0
     },
@@ -130,46 +130,66 @@
     },
     {
      "posisi": 7,
-     "tim": "idn-bhayangkara-presisi-lampung",
-     "main": 6,
-     "menang": 2,
-     "seri": 4,
-     "kalah": 0,
-     "gm": 11,
-     "gk": 8,
-     "sg": 3,
-     "poin": 10,
-     "form": [
-      "S",
-      "M",
-      "S",
-      "S",
-      "M"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 8,
-     "tim": "idn-persik-kediri",
-     "main": 6,
+     "tim": "idn-persebaya-surabaya",
+     "main": 7,
      "menang": 3,
-     "seri": 1,
-     "kalah": 2,
-     "gm": 7,
-     "gk": 4,
+     "seri": 3,
+     "kalah": 1,
+     "gm": 9,
+     "gk": 6,
      "sg": 3,
-     "poin": 10,
+     "poin": 12,
      "form": [
-      "M",
       "S",
       "M",
+      "S",
       "K",
       "M"
      ],
      "potong_poin": 0
     },
     {
+     "posisi": 8,
+     "tim": "idn-bhayangkara-presisi-lampung",
+     "main": 7,
+     "menang": 2,
+     "seri": 5,
+     "kalah": 0,
+     "gm": 11,
+     "gk": 8,
+     "sg": 3,
+     "poin": 11,
+     "form": [
+      "M",
+      "S",
+      "S",
+      "M",
+      "S"
+     ],
+     "potong_poin": 0
+    },
+    {
      "posisi": 9,
+     "tim": "idn-persik-kediri",
+     "main": 7,
+     "menang": 3,
+     "seri": 1,
+     "kalah": 3,
+     "gm": 8,
+     "gk": 6,
+     "sg": 2,
+     "poin": 10,
+     "form": [
+      "S",
+      "M",
+      "K",
+      "M",
+      "K"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 10,
      "tim": "idn-arema",
      "main": 7,
      "menang": 2,
@@ -189,42 +209,22 @@
      "potong_poin": 0
     },
     {
-     "posisi": 10,
-     "tim": "idn-persebaya-surabaya",
-     "main": 6,
-     "menang": 2,
-     "seri": 3,
-     "kalah": 1,
-     "gm": 6,
-     "gk": 5,
-     "sg": 1,
-     "poin": 9,
-     "form": [
-      "M",
-      "S",
-      "M",
-      "S",
-      "K"
-     ],
-     "potong_poin": 0
-    },
-    {
      "posisi": 11,
      "tim": "idn-psm-makassar",
-     "main": 6,
+     "main": 7,
      "menang": 2,
-     "seri": 2,
+     "seri": 3,
      "kalah": 2,
      "gm": 9,
      "gk": 12,
      "sg": -3,
-     "poin": 8,
+     "poin": 9,
      "form": [
-      "S",
       "S",
       "K",
       "M",
-      "M"
+      "M",
+      "S"
      ],
      "potong_poin": 0
     },
@@ -370,58 +370,6 @@
     }
    ],
    "laga": [
-    {
-     "id": "idn-2026-09-12-idn-persija-jakarta-idn-persib-bandung",
-     "waktu": "2026-09-11T17:00:00Z",
-     "jam_pasti": false,
-     "status": "selesai",
-     "kandang": "idn-persija-jakarta",
-     "tamu": "idn-persib-bandung",
-     "skor": [
-      2,
-      1
-     ],
-     "stadion": "Gelora Bung Karno"
-    },
-    {
-     "id": "idn-2026-09-12-idn-pss-sleman-idn-madura-united",
-     "waktu": "2026-09-11T17:00:00Z",
-     "jam_pasti": false,
-     "status": "selesai",
-     "kandang": "idn-pss-sleman",
-     "tamu": "idn-madura-united",
-     "skor": [
-      1,
-      3
-     ],
-     "stadion": "Maguwoharjo"
-    },
-    {
-     "id": "idn-2026-09-12-idn-bali-united-idn-isenmulang-kalteng",
-     "waktu": "2026-09-11T17:00:00Z",
-     "jam_pasti": false,
-     "status": "selesai",
-     "kandang": "idn-bali-united",
-     "tamu": "idn-isenmulang-kalteng",
-     "skor": [
-      4,
-      1
-     ],
-     "stadion": "Kapten I Wayan Dipta"
-    },
-    {
-     "id": "idn-2026-09-12-idn-persijap-jepara-idn-borneo-fc-samarinda",
-     "waktu": "2026-09-11T17:00:00Z",
-     "jam_pasti": false,
-     "status": "selesai",
-     "kandang": "idn-persijap-jepara",
-     "tamu": "idn-borneo-fc-samarinda",
-     "skor": [
-      0,
-      1
-     ],
-     "stadion": "Gelora Bumi Kartini"
-    },
     {
      "id": "idn-2026-09-13-idn-persita-idn-java-united",
      "waktu": "2026-09-12T17:00:00Z",
@@ -983,32 +931,41 @@
     },
     {
      "id": "idn-2026-10-26-idn-persebaya-surabaya-idn-madura-united",
-     "waktu": "2026-10-26T12:00:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-10-25T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-persebaya-surabaya",
      "tamu": "idn-madura-united",
-     "skor": null,
+     "skor": [
+      3,
+      1
+     ],
      "stadion": "Gelora Bung Tomo"
     },
     {
      "id": "idn-2026-10-26-idn-bhayangkara-presisi-lampung-idn-psm-makassar",
-     "waktu": "2026-10-26T12:00:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-10-25T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-bhayangkara-presisi-lampung",
      "tamu": "idn-psm-makassar",
-     "skor": null,
+     "skor": [
+      0,
+      0
+     ],
      "stadion": "PKOR Sumpah Pemuda"
     },
     {
      "id": "idn-2026-10-26-idn-persija-jakarta-idn-persik-kediri",
-     "waktu": "2026-10-26T12:00:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-10-25T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-persija-jakarta",
      "tamu": "idn-persik-kediri",
-     "skor": null,
+     "skor": [
+      2,
+      1
+     ],
      "stadion": "Jakarta International Stadium"
     },
     {
@@ -2604,14 +2561,14 @@
     {
      "posisi": 6,
      "tim": "fd-559",
-     "main": 9,
+     "main": 10,
      "menang": 4,
-     "seri": 2,
+     "seri": 3,
      "kalah": 3,
      "gm": 14,
      "gk": 16,
      "sg": -2,
-     "poin": 14,
+     "poin": 15,
      "form": [],
      "grup": null
     },
@@ -2673,6 +2630,20 @@
     },
     {
      "posisi": 11,
+     "tim": "fd-79",
+     "main": 10,
+     "menang": 3,
+     "seri": 3,
+     "kalah": 4,
+     "gm": 10,
+     "gk": 18,
+     "sg": -8,
+     "poin": 12,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 12,
      "tim": "fd-560",
      "main": 10,
      "menang": 2,
@@ -2681,20 +2652,6 @@
      "gm": 13,
      "gk": 13,
      "sg": 0,
-     "poin": 11,
-     "form": [],
-     "grup": null
-    },
-    {
-     "posisi": 12,
-     "tim": "fd-79",
-     "main": 9,
-     "menang": 3,
-     "seri": 2,
-     "kalah": 4,
-     "gm": 10,
-     "gk": 18,
-     "sg": -8,
      "poin": 11,
      "form": [],
      "grup": null
@@ -2813,20 +2770,6 @@
     }
    ],
    "laga": [
-    {
-     "id": "fd-564669",
-     "waktu": "2026-09-11T19:00:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-559",
-     "tamu": "fd-95",
-     "skor": [
-      1,
-      0
-     ],
-     "stadion": "",
-     "pekan": 5
-    },
     {
      "id": "fd-564670",
      "waktu": "2026-09-12T12:00:00Z",
@@ -3629,10 +3572,13 @@
      "id": "fd-564721",
      "waktu": "2026-10-26T20:00:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "berlangsung",
      "kandang": "fd-559",
      "tamu": "fd-79",
-     "skor": null,
+     "skor": [
+      0,
+      0
+     ],
      "stadion": "",
      "pekan": 10
     },
@@ -4257,20 +4203,6 @@
     }
    ],
    "laga": [
-    {
-     "id": "fd-558606",
-     "waktu": "2026-09-11T18:45:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-454",
-     "tamu": "fd-99",
-     "skor": [
-      2,
-      4
-     ],
-     "stadion": "",
-     "pekan": 4
-    },
     {
      "id": "fd-558604",
      "waktu": "2026-09-12T13:00:00Z",
@@ -5661,20 +5593,6 @@
    ],
    "laga": [
     {
-     "id": "fd-565797",
-     "waktu": "2026-09-11T18:30:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-28",
-     "tamu": "fd-6",
-     "skor": [
-      1,
-      3
-     ],
-     "stadion": "",
-     "pekan": 3
-    },
-    {
      "id": "fd-565794",
      "waktu": "2026-09-12T13:30:00Z",
      "jam_pasti": true,
@@ -6266,13 +6184,10 @@
      "id": "fd-565835",
      "waktu": "2026-10-25T14:30:00Z",
      "jam_pasti": true,
-     "status": "selesai",
+     "status": "jadwal",
      "kandang": "fd-2",
      "tamu": "fd-3",
-     "skor": [
-      3,
-      0
-     ],
+     "skor": null,
      "stadion": "",
      "pekan": 7
     },
@@ -6280,13 +6195,10 @@
      "id": "fd-565836",
      "waktu": "2026-10-25T16:30:00Z",
      "jam_pasti": true,
-     "status": "selesai",
+     "status": "jadwal",
      "kandang": "fd-17",
      "tamu": "fd-5",
-     "skor": [
-      1,
-      3
-     ],
+     "skor": null,
      "stadion": "",
      "pekan": 7
     },
@@ -7899,6 +7811,105 @@
      "status": "jadwal",
      "kandang": "fd-7397",
      "tamu": "fd-1899",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575404",
+     "waktu": "2026-11-25T17:45:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-10233",
+     "tamu": "fd-81",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575405",
+     "waktu": "2026-11-25T17:45:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-930",
+     "tamu": "fd-94",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575406",
+     "waktu": "2026-11-25T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-108",
+     "tamu": "fd-10",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575407",
+     "waktu": "2026-11-25T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-78",
+     "tamu": "fd-5720",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575408",
+     "waktu": "2026-11-25T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-524",
+     "tamu": "fd-100",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575409",
+     "waktu": "2026-11-25T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-851",
+     "tamu": "fd-64",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575410",
+     "waktu": "2026-11-25T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-521",
+     "tamu": "fd-5",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575411",
+     "waktu": "2026-11-25T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-498",
+     "tamu": "fd-66",
+     "skor": null,
+     "stadion": "",
+     "pekan": 5
+    },
+    {
+     "id": "fd-575412",
+     "waktu": "2026-11-25T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-1887",
+     "tamu": "fd-613",
      "skor": null,
      "stadion": "",
      "pekan": 5
