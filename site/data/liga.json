@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-26T20:28:38Z",
+ "diperbarui": "2026-10-27T00:24:43Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -2562,13 +2562,13 @@
      "posisi": 6,
      "tim": "fd-559",
      "main": 10,
-     "menang": 4,
-     "seri": 3,
+     "menang": 5,
+     "seri": 2,
      "kalah": 3,
-     "gm": 14,
+     "gm": 16,
      "gk": 16,
-     "sg": -2,
-     "poin": 15,
+     "sg": 0,
+     "poin": 17,
      "form": [],
      "grup": null
     },
@@ -2630,20 +2630,6 @@
     },
     {
      "posisi": 11,
-     "tim": "fd-79",
-     "main": 10,
-     "menang": 3,
-     "seri": 3,
-     "kalah": 4,
-     "gm": 10,
-     "gk": 18,
-     "sg": -8,
-     "poin": 12,
-     "form": [],
-     "grup": null
-    },
-    {
-     "posisi": 12,
      "tim": "fd-560",
      "main": 10,
      "menang": 2,
@@ -2652,6 +2638,20 @@
      "gm": 13,
      "gk": 13,
      "sg": 0,
+     "poin": 11,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 12,
+     "tim": "fd-79",
+     "main": 10,
+     "menang": 3,
+     "seri": 2,
+     "kalah": 5,
+     "gm": 10,
+     "gk": 20,
+     "sg": -10,
      "poin": 11,
      "form": [],
      "grup": null
@@ -3572,11 +3572,11 @@
      "id": "fd-564721",
      "waktu": "2026-10-26T20:00:00Z",
      "jam_pasti": true,
-     "status": "berlangsung",
+     "status": "selesai",
      "kandang": "fd-559",
      "tamu": "fd-79",
      "skor": [
-      0,
+      2,
       0
      ],
      "stadion": "",
@@ -6184,10 +6184,13 @@
      "id": "fd-565835",
      "waktu": "2026-10-25T14:30:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-2",
      "tamu": "fd-3",
-     "skor": null,
+     "skor": [
+      3,
+      0
+     ],
      "stadion": "",
      "pekan": 7
     },
@@ -6195,10 +6198,13 @@
      "id": "fd-565836",
      "waktu": "2026-10-25T16:30:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-17",
      "tamu": "fd-5",
-     "skor": null,
+     "skor": [
+      1,
+      3
+     ],
      "stadion": "",
      "pekan": 7
     },
