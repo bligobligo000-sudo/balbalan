@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-28T12:47:47Z",
+ "diperbarui": "2026-10-28T20:16:31Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -1504,34 +1504,6 @@
    ],
    "laga": [
     {
-     "id": "fd-560578",
-     "waktu": "2026-09-13T13:00:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-1076",
-     "tamu": "fd-397",
-     "skor": [
-      0,
-      5
-     ],
-     "stadion": "",
-     "pekan": 4
-    },
-    {
-     "id": "fd-560580",
-     "waktu": "2026-09-13T15:30:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-66",
-     "tamu": "fd-65",
-     "skor": [
-      0,
-      1
-     ],
-     "stadion": "",
-     "pekan": 4
-    },
-    {
      "id": "fd-560579",
      "waktu": "2026-09-14T19:00:00Z",
      "jam_pasti": true,
@@ -2434,6 +2406,17 @@
      "skor": null,
      "stadion": "",
      "pekan": 11
+    },
+    {
+     "id": "fd-560658",
+     "waktu": "2026-11-27T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-351",
+     "tamu": "fd-61",
+     "skor": null,
+     "stadion": "",
+     "pekan": 12
     }
    ]
   },
@@ -2726,48 +2709,6 @@
     }
    ],
    "laga": [
-    {
-     "id": "fd-564675",
-     "waktu": "2026-09-13T14:15:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-88",
-     "tamu": "fd-81",
-     "skor": [
-      2,
-      4
-     ],
-     "stadion": "",
-     "pekan": 5
-    },
-    {
-     "id": "fd-564668",
-     "waktu": "2026-09-13T16:30:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-82",
-     "tamu": "fd-560",
-     "skor": [
-      1,
-      1
-     ],
-     "stadion": "",
-     "pekan": 5
-    },
-    {
-     "id": "fd-564674",
-     "waktu": "2026-09-13T19:00:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-92",
-     "tamu": "fd-78",
-     "skor": [
-      0,
-      3
-     ],
-     "stadion": "",
-     "pekan": 5
-    },
     {
      "id": "fd-564671",
      "waktu": "2026-09-14T19:00:00Z",
@@ -3809,6 +3750,20 @@
    "klasemen": [
     {
      "posisi": 1,
+     "tim": "fd-108",
+     "main": 9,
+     "menang": 8,
+     "seri": 1,
+     "kalah": 0,
+     "gm": 25,
+     "gk": 10,
+     "sg": 15,
+     "poin": 25,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 2,
      "tim": "fd-110",
      "main": 9,
      "menang": 8,
@@ -3818,20 +3773,6 @@
      "gk": 7,
      "sg": 15,
      "poin": 25,
-     "form": [],
-     "grup": null
-    },
-    {
-     "posisi": 2,
-     "tim": "fd-108",
-     "main": 8,
-     "menang": 7,
-     "seri": 1,
-     "kalah": 0,
-     "gm": 23,
-     "gk": 10,
-     "sg": 13,
-     "poin": 22,
      "form": [],
      "grup": null
     },
@@ -3866,13 +3807,13 @@
     {
      "posisi": 5,
      "tim": "fd-98",
-     "main": 8,
+     "main": 9,
      "menang": 5,
      "seri": 3,
-     "kalah": 0,
-     "gm": 16,
-     "gk": 7,
-     "sg": 9,
+     "kalah": 1,
+     "gm": 18,
+     "gk": 11,
+     "sg": 7,
      "poin": 18,
      "form": [],
      "grup": null
@@ -3893,20 +3834,34 @@
     },
     {
      "posisi": 7,
-     "tim": "fd-109",
-     "main": 8,
+     "tim": "fd-113",
+     "main": 9,
      "menang": 4,
      "seri": 2,
-     "kalah": 2,
-     "gm": 11,
-     "gk": 8,
-     "sg": 3,
+     "kalah": 3,
+     "gm": 14,
+     "gk": 10,
+     "sg": 4,
      "poin": 14,
      "form": [],
      "grup": null
     },
     {
      "posisi": 8,
+     "tim": "fd-109",
+     "main": 9,
+     "menang": 4,
+     "seri": 2,
+     "kalah": 3,
+     "gm": 11,
+     "gk": 9,
+     "sg": 2,
+     "poin": 14,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 9,
      "tim": "fd-586",
      "main": 9,
      "menang": 4,
@@ -3920,7 +3875,7 @@
      "grup": null
     },
     {
-     "posisi": 9,
+     "posisi": 10,
      "tim": "fd-104",
      "main": 9,
      "menang": 4,
@@ -3934,21 +3889,21 @@
      "grup": null
     },
     {
-     "posisi": 10,
-     "tim": "fd-113",
-     "main": 8,
+     "posisi": 11,
+     "tim": "fd-103",
+     "main": 9,
      "menang": 3,
      "seri": 2,
-     "kalah": 3,
-     "gm": 13,
-     "gk": 10,
-     "sg": 3,
+     "kalah": 4,
+     "gm": 12,
+     "gk": 12,
+     "sg": 0,
      "poin": 11,
      "form": [],
      "grup": null
     },
     {
-     "posisi": 11,
+     "posisi": 12,
      "tim": "fd-102",
      "main": 8,
      "menang": 3,
@@ -3962,7 +3917,21 @@
      "grup": null
     },
     {
-     "posisi": 12,
+     "posisi": 13,
+     "tim": "fd-107",
+     "main": 9,
+     "menang": 3,
+     "seri": 1,
+     "kalah": 5,
+     "gm": 7,
+     "gk": 13,
+     "sg": -6,
+     "poin": 10,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 14,
      "tim": "fd-5890",
      "main": 8,
      "menang": 3,
@@ -3976,21 +3945,7 @@
      "grup": null
     },
     {
-     "posisi": 13,
-     "tim": "fd-103",
-     "main": 8,
-     "menang": 2,
-     "seri": 2,
-     "kalah": 4,
-     "gm": 8,
-     "gk": 10,
-     "sg": -2,
-     "poin": 8,
-     "form": [],
-     "grup": null
-    },
-    {
-     "posisi": 14,
+     "posisi": 15,
      "tim": "fd-471",
      "main": 9,
      "menang": 2,
@@ -4004,29 +3959,15 @@
      "grup": null
     },
     {
-     "posisi": 15,
-     "tim": "fd-5911",
-     "main": 8,
-     "menang": 2,
-     "seri": 1,
-     "kalah": 5,
-     "gm": 15,
-     "gk": 18,
-     "sg": -3,
-     "poin": 7,
-     "form": [],
-     "grup": null
-    },
-    {
      "posisi": 16,
-     "tim": "fd-107",
-     "main": 8,
+     "tim": "fd-5911",
+     "main": 9,
      "menang": 2,
      "seri": 1,
-     "kalah": 5,
-     "gm": 6,
-     "gk": 13,
-     "sg": -7,
+     "kalah": 6,
+     "gm": 15,
+     "gk": 19,
+     "sg": -4,
      "poin": 7,
      "form": [],
      "grup": null
@@ -4034,19 +3975,33 @@
     {
      "posisi": 17,
      "tim": "fd-115",
-     "main": 8,
+     "main": 9,
      "menang": 1,
-     "seri": 1,
+     "seri": 2,
      "kalah": 6,
      "gm": 9,
      "gk": 18,
      "sg": -9,
-     "poin": 4,
+     "poin": 5,
      "form": [],
      "grup": null
     },
     {
      "posisi": 18,
+     "tim": "fd-112",
+     "main": 9,
+     "menang": 1,
+     "seri": 2,
+     "kalah": 6,
+     "gm": 5,
+     "gk": 15,
+     "sg": -10,
+     "poin": 5,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 19,
      "tim": "fd-99",
      "main": 8,
      "menang": 1,
@@ -4060,77 +4015,21 @@
      "grup": null
     },
     {
-     "posisi": 19,
-     "tim": "fd-112",
-     "main": 8,
-     "menang": 1,
-     "seri": 1,
-     "kalah": 6,
-     "gm": 5,
-     "gk": 15,
-     "sg": -10,
-     "poin": 4,
-     "form": [],
-     "grup": null
-    },
-    {
      "posisi": 20,
      "tim": "fd-454",
-     "main": 8,
+     "main": 9,
      "menang": 1,
      "seri": 0,
-     "kalah": 7,
+     "kalah": 8,
      "gm": 6,
-     "gk": 17,
-     "sg": -11,
+     "gk": 19,
+     "sg": -13,
      "poin": 3,
      "form": [],
      "grup": null
     }
    ],
    "laga": [
-    {
-     "id": "fd-558605",
-     "waktu": "2026-09-13T13:00:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-5890",
-     "tamu": "fd-5911",
-     "skor": [
-      3,
-      2
-     ],
-     "stadion": "",
-     "pekan": 4
-    },
-    {
-     "id": "fd-558599",
-     "waktu": "2026-09-13T16:00:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-113",
-     "tamu": "fd-103",
-     "skor": [
-      1,
-      0
-     ],
-     "stadion": "",
-     "pekan": 4
-    },
-    {
-     "id": "fd-558608",
-     "waktu": "2026-09-13T18:45:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-471",
-     "tamu": "fd-109",
-     "skor": [
-      3,
-      2
-     ],
-     "stadion": "",
-     "pekan": 4
-    },
     {
      "id": "fd-558602",
      "waktu": "2026-09-14T16:30:00Z",
@@ -4779,10 +4678,13 @@
      "id": "fd-558549",
      "waktu": "2026-10-28T17:30:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-98",
      "tamu": "fd-103",
-     "skor": null,
+     "skor": [
+      2,
+      4
+     ],
      "stadion": "",
      "pekan": 9
     },
@@ -4790,10 +4692,13 @@
      "id": "fd-558550",
      "waktu": "2026-10-28T17:30:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-454",
      "tamu": "fd-108",
-     "skor": null,
+     "skor": [
+      0,
+      2
+     ],
      "stadion": "",
      "pekan": 9
     },
@@ -4801,10 +4706,13 @@
      "id": "fd-558553",
      "waktu": "2026-10-28T17:30:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-112",
      "tamu": "fd-115",
-     "skor": null,
+     "skor": [
+      0,
+      0
+     ],
      "stadion": "",
      "pekan": 9
     },
@@ -4812,10 +4720,13 @@
      "id": "fd-558552",
      "waktu": "2026-10-28T19:45:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "berlangsung",
      "kandang": "fd-107",
      "tamu": "fd-109",
-     "skor": null,
+     "skor": [
+      1,
+      0
+     ],
      "stadion": "",
      "pekan": 9
     },
@@ -4823,10 +4734,13 @@
      "id": "fd-558554",
      "waktu": "2026-10-28T19:45:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "berlangsung",
      "kandang": "fd-5911",
      "tamu": "fd-113",
-     "skor": null,
+     "skor": [
+      0,
+      1
+     ],
      "stadion": "",
      "pekan": 9
     },
@@ -5181,6 +5095,17 @@
      "skor": null,
      "stadion": "",
      "pekan": 12
+    },
+    {
+     "id": "fd-558515",
+     "waktu": "2026-11-27T19:45:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-454",
+     "tamu": "fd-103",
+     "skor": null,
+     "stadion": "",
+     "pekan": 13
     }
    ]
   },
@@ -5445,34 +5370,6 @@
     }
    ],
    "laga": [
-    {
-     "id": "fd-565799",
-     "waktu": "2026-09-13T13:30:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-721",
-     "tamu": "fd-7",
-     "skor": [
-      5,
-      0
-     ],
-     "stadion": "",
-     "pekan": 3
-    },
-    {
-     "id": "fd-565800",
-     "waktu": "2026-09-13T15:30:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-719",
-     "tamu": "fd-5",
-     "skor": [
-      1,
-      2
-     ],
-     "stadion": "",
-     "pekan": 3
-    },
     {
      "id": "fd-565804",
      "waktu": "2026-09-18T18:30:00Z",
@@ -6273,6 +6170,17 @@
      "skor": null,
      "stadion": "",
      "pekan": 10
+    },
+    {
+     "id": "fd-565869",
+     "waktu": "2026-11-27T19:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-12",
+     "tamu": "fd-18",
+     "skor": null,
+     "stadion": "",
+     "pekan": 11
     }
    ]
   },
