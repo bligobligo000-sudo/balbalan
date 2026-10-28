@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-28T05:36:34Z",
+ "diperbarui": "2026-10-28T12:47:47Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -1070,7 +1070,7 @@
      "kandang": "idn-persita",
      "tamu": "idn-isenmulang-kalteng",
      "skor": null,
-     "stadion": "Indomilk Arena"
+     "stadion": "Banten International Stadium"
     },
     {
      "id": "idn-2026-11-07-idn-persijap-jepara-idn-garudayaksa",
@@ -1121,6 +1121,96 @@
      "tamu": "idn-persib-bandung",
      "skor": null,
      "stadion": "Jatidiri"
+    },
+    {
+     "id": "idn-2026-11-20-idn-garudayaksa-idn-madura-united",
+     "waktu": "2026-11-20T08:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-garudayaksa",
+     "tamu": "idn-madura-united",
+     "skor": null,
+     "stadion": "Pakansari"
+    },
+    {
+     "id": "idn-2026-11-20-idn-pss-sleman-idn-arema",
+     "waktu": "2026-11-20T08:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-pss-sleman",
+     "tamu": "idn-arema",
+     "skor": null,
+     "stadion": "Maguwoharjo"
+    },
+    {
+     "id": "idn-2026-11-20-idn-dewa-united-banten-idn-persita",
+     "waktu": "2026-11-20T12:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-dewa-united-banten",
+     "tamu": "idn-persita",
+     "skor": null,
+     "stadion": "Banten International Stadium"
+    },
+    {
+     "id": "idn-2026-11-21-idn-persik-kediri-idn-psim-yogyakarta",
+     "waktu": "2026-11-21T08:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-persik-kediri",
+     "tamu": "idn-psim-yogyakarta",
+     "skor": null,
+     "stadion": "Brawijaya"
+    },
+    {
+     "id": "idn-2026-11-21-idn-persebaya-surabaya-idn-java-united",
+     "waktu": "2026-11-21T08:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-persebaya-surabaya",
+     "tamu": "idn-java-united",
+     "skor": null,
+     "stadion": "Gelora Bung Tomo"
+    },
+    {
+     "id": "idn-2026-11-21-idn-psm-makassar-idn-persija-jakarta",
+     "waktu": "2026-11-21T12:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-psm-makassar",
+     "tamu": "idn-persija-jakarta",
+     "skor": null,
+     "stadion": "Gelora B. J. Habibie"
+    },
+    {
+     "id": "idn-2026-11-21-idn-bhayangkara-presisi-lampung-idn-persijap-jepara",
+     "waktu": "2026-11-21T12:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-bhayangkara-presisi-lampung",
+     "tamu": "idn-persijap-jepara",
+     "skor": null,
+     "stadion": "PKOR Sumpah Pemuda"
+    },
+    {
+     "id": "idn-2026-11-22-idn-isenmulang-kalteng-idn-borneo-fc-samarinda",
+     "waktu": "2026-11-22T08:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-isenmulang-kalteng",
+     "tamu": "idn-borneo-fc-samarinda",
+     "skor": null,
+     "stadion": "Tuah Pahoe"
+    },
+    {
+     "id": "idn-2026-11-22-idn-persib-bandung-idn-bali-united",
+     "waktu": "2026-11-22T12:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "idn-persib-bandung",
+     "tamu": "idn-bali-united",
+     "skor": null,
+     "stadion": "Gelora Bandung Lautan Api"
     }
    ]
   },
@@ -2636,20 +2726,6 @@
     }
    ],
    "laga": [
-    {
-     "id": "fd-564672",
-     "waktu": "2026-09-13T12:00:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-558",
-     "tamu": "fd-84",
-     "skor": [
-      1,
-      1
-     ],
-     "stadion": "",
-     "pekan": 5
-    },
     {
      "id": "fd-564675",
      "waktu": "2026-09-13T14:15:00Z",
