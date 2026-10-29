@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-28T20:16:31Z",
+ "diperbarui": "2026-10-29T00:53:48Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -3820,6 +3820,20 @@
     },
     {
      "posisi": 6,
+     "tim": "fd-113",
+     "main": 9,
+     "menang": 4,
+     "seri": 2,
+     "kalah": 3,
+     "gm": 17,
+     "gk": 11,
+     "sg": 6,
+     "poin": 14,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 7,
      "tim": "fd-470",
      "main": 8,
      "menang": 4,
@@ -3833,20 +3847,6 @@
      "grup": null
     },
     {
-     "posisi": 7,
-     "tim": "fd-113",
-     "main": 9,
-     "menang": 4,
-     "seri": 2,
-     "kalah": 3,
-     "gm": 14,
-     "gk": 10,
-     "sg": 4,
-     "poin": 14,
-     "form": [],
-     "grup": null
-    },
-    {
      "posisi": 8,
      "tim": "fd-109",
      "main": 9,
@@ -3854,8 +3854,8 @@
      "seri": 2,
      "kalah": 3,
      "gm": 11,
-     "gk": 9,
-     "sg": 2,
+     "gk": 10,
+     "sg": 1,
      "poin": 14,
      "form": [],
      "grup": null
@@ -3923,9 +3923,9 @@
      "menang": 3,
      "seri": 1,
      "kalah": 5,
-     "gm": 7,
+     "gm": 8,
      "gk": 13,
-     "sg": -6,
+     "sg": -5,
      "poin": 10,
      "form": [],
      "grup": null
@@ -3965,9 +3965,9 @@
      "menang": 2,
      "seri": 1,
      "kalah": 6,
-     "gm": 15,
-     "gk": 19,
-     "sg": -4,
+     "gm": 16,
+     "gk": 22,
+     "sg": -6,
      "poin": 7,
      "form": [],
      "grup": null
@@ -4720,11 +4720,11 @@
      "id": "fd-558552",
      "waktu": "2026-10-28T19:45:00Z",
      "jam_pasti": true,
-     "status": "berlangsung",
+     "status": "selesai",
      "kandang": "fd-107",
      "tamu": "fd-109",
      "skor": [
-      1,
+      2,
       0
      ],
      "stadion": "",
@@ -4734,12 +4734,12 @@
      "id": "fd-558554",
      "waktu": "2026-10-28T19:45:00Z",
      "jam_pasti": true,
-     "status": "berlangsung",
+     "status": "selesai",
      "kandang": "fd-5911",
      "tamu": "fd-113",
      "skor": [
-      0,
-      1
+      1,
+      4
      ],
      "stadion": "",
      "pekan": 9
