@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-10-29T09:52:47Z",
+ "diperbarui": "2026-10-29T18:26:38Z",
  "sumber": [
   {
    "nama": "detikSport",
@@ -9,7 +9,7 @@
   {
    "nama": "Liputan6",
    "ok": true,
-   "jumlah": 40
+   "jumlah": 36
   },
   {
    "nama": "VIVA",
@@ -19,15 +19,685 @@
   {
    "nama": "iNews",
    "ok": true,
-   "jumlah": 41
+   "jumlah": 38
   },
   {
    "nama": "SINDOnews",
    "ok": true,
-   "jumlah": 18
+   "jumlah": 17
   }
  ],
  "berita": [
+  {
+   "judul": "Ballon d'Or 2026: Luis Enrique Tak Terima Vitinha Cuma Finis ke-14",
+   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8730343/ballon-dor-2026-luis-enrique-tak-terima-vitinha-cuma-finis-ke-14",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T18:13:16Z",
+   "ringkasan": "Pelatih Paris Saint-Germain Luis Enrique tak senang karena Vitinha hanya finis ke-14 di Ballon d'Or 2026. Enrique mengatakan, pemainnya itu kurang dihargai.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/fbl-eur-c1-psg-arsenal-final-1793292589533_169.jpeg?w=640&q=90",
+   "id": "f6e45943771e",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/fbl-eur-c1-psg-arsenal-final-1793292589533_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Okdwitya Karina Sari"
+  },
+  {
+   "judul": "Terpopuler: Persib Bikin Geger Asia, Mitchell Baker Disandingkan dengan Lamine Yamal hingga Calon Pengganti Ole Romeny",
+   "link": "https://www.viva.co.id/bola/1939680-terpopuler-persib-bikin-geger-asia-mitchell-baker-disandingkan-dengan-lamine-yamal-hingga-calon-pengganti-ole-romeny",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T17:02:00Z",
+   "ringkasan": "Sejumlah berita sepak bola menarik menjadi perhatian pembaca VIVA Bola, Kamis 29 Oktober 2026. Mulai dari perkembangan ranking kompetisi antarklub Asia setelah Persib Ban",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae20746f048b-persib-vs-melbourne_gemini_665_374.jpg",
+   "id": "d290d0793732",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae20746f048b-persib-vs-melbourne_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "Bukan Mbappe, Ini 2 Pesepakbola yang Punya Trah Diktator",
+   "link": "https://sport.detik.com/sepakbola/gila-bola/d-8730218/bukan-mbappe-ini-2-pesepakbola-yang-punya-trah-diktator",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T17:00:05Z",
+   "ringkasan": "Kylian Mbappe diolok-olok sebagai diktator, hingga memicu kontroversi di China. Di sisi lain, ada 2 pesepakbola yang punya darah keturunan diktator terkenal.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/al-saddi-gaddafi-1793279816316_169.jpeg?w=640&q=90",
+   "id": "d8477b0ad145",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/al-saddi-gaddafi-1793279816316_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro"
+  },
+  {
+   "judul": "John Herdman Dapat Kabar Baik dari Taisei Marukawa, Bisa Dimainkan Timnas Indonesia untuk FIFA Matchday dan Piala Asia",
+   "link": "https://www.viva.co.id/bola/1939678-john-herdman-dapat-kabar-baik-dari-taisei-marukawa-bisa-dimainkan-timnas-indonesia-untuk-fifa-matchday-dan-piala-asia",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T17:00:00Z",
+   "ringkasan": "Pemain Dewa United, Taisei Marukawa, mengungkap perkembangan proses naturalisasinya untuk menjadi Warga Negara Indonesia (WNI). Pemain asal Jepang tersebut berharap selur",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acafecd29339-taisei-marukawa_gemini_665_374.jpg",
+   "id": "dbbdb1d7a407",
+   "kategori": [
+    "Timnas",
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acafecd29339-taisei-marukawa_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "Menengok Starter Persib Bandung di Jadwal Neraka: Pemain Ini Paling Diandalkan",
+   "link": "https://www.liputan6.com/bola/read/8324505/menengok-starter-persib-bandung-di-jadwal-neraka-pemain-ini-paling-diandalkan",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T16:46:44Z",
+   "ringkasan": "Persib Bandung memainkan 12 laga di tiga kompetisi awal musim 2026/2027. Matricardi starter terbanyak, Balsa Sekulic dan Dedi Kusnandar supersub andalan.",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/c1rMxVMb2BVZbK8Un7CxwkyVybM=/0x0:3000x2000/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/9382258/original/076068000_1792986135-0L5A8155.jpg",
+   "id": "faa9707ab1a6",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/0ynRsetCRp7rPgHhVDY9W7ApEZw=/0x0:3000x2000/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,1100,20,0)/kly-media-production/medias/9382258/original/076068000_1792986135-0L5A8155.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Legenda MU Sebut Pemecatan Carrick Bisa Jadi Solusi Terbaik",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8730207/legenda-mu-sebut-pemecatan-carrick-bisa-jadi-solusi-terbaik",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T16:30:15Z",
+   "ringkasan": "Masa depan Michael Carrick di Manchester United dikomentari Gary Neville. Legenda MU itu menilai pemecatan sang manajer bisa jadi solusi terbaik kedua pihak.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/26/amichael-carrickmanchester-unitedmanchester-united-vs-bournemouthmu-vs-bournemouthman-united-vs-bournemouthliga-inggrispremier-1792995679712_169.jpeg?w=640&q=90",
+   "id": "3068bb721160",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/26/amichael-carrickmanchester-unitedmanchester-united-vs-bournemouthmu-vs-bournemouthman-united-vs-bournemouthliga-inggrispremier-1792995679712_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro"
+  },
+  {
+   "judul": "Jejak Persib di Panggung Asia: Peluang Cetak Sejarah Baru",
+   "link": "https://www.liputan6.com/bola/read/8324507/jejak-persib-di-panggung-asia-peluang-cetak-sejarah-baru",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T16:12:46Z",
+   "ringkasan": "Persib Bandung menang 2-0 atas Melbourne Victory dan memimpin Grup E ACL2 musim ini.",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/F12Fp9faWqTPuShGasAZU21yMyg=/0x463:4528x3015/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385015/original/057954300_1793206131-1000472902.jpg",
+   "id": "a8d6a51bee97",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/QQIOCX3F0-UTSuphHHTf-Q6evVA=/0x463:4528x3015/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9385015/original/057954300_1793206131-1000472902.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Jude Bellingham Disanjung Tinggi Thierry Henry",
+   "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-8730008/jude-bellingham-disanjung-tinggi-thierry-henry",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T16:00:15Z",
+   "ringkasan": "Jude Bellingham menunjukkan performa bagus bersama Real Madrid. Performa pemain asal Inggris itu dipuji oleh Thierry Henry.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/08/31/2292289942-1788143564588_169.jpeg?w=640&q=90",
+   "id": "56cc537973cc",
+   "kategori": [
+    "Liga Spanyol"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/08/31/2292289942-1788143564588_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "Erick Thohir Murka soal Kerusuhan Suporter, PSSI Buka Opsi Pengurangan Poin",
+   "link": "https://www.inews.id/sport/soccer/erick-thohir-murka-soal-kerusuhan-suporter-pssi-buka-opsi-pengurangan-poin",
+   "sumber": "iNews",
+   "waktu": "2026-10-29T16:00:00Z",
+   "ringkasan": "Erick Thohir menegaskan PSSI tidak menoleransi kerusuhan suporter Super League 2026-2027",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/04/15/ketua_umum_pssi_erick_thohir.jpg",
+   "id": "482e17b701ef",
+   "kategori": [
+    "Timnas",
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/04/15/ketua_umum_pssi_erick_thohir.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Sabar/Reza Kandas di 16 Besar Hylo Open 2026, Jojo dan Amri/Nita Melaju",
+   "link": "https://www.liputan6.com/bola/read/8324515/sabarreza-kandas-di-16-besar-hylo-open-2026-jojo-dan-amrinita-melaju",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T15:44:16Z",
+   "ringkasan": "Sabar/Reza berstatus unggulan pertama pada Hylo Open 2026.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/Kd6lskJXVmndcqDSO9mu8q1kCCk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8258519/original/071421300_1781355563-IMG-20260613-WA0072.jpg",
+   "id": "49b5d3e967b8",
+   "kategori": [],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/KiGT5jS3GSffu6DcqHV6xRAol2M=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/8258519/original/071421300_1781355563-IMG-20260613-WA0072.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Michael Carrick: Bruno Fernandes Tetap Jadi Kapten MU",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8730229/michael-carrick-bruno-fernandes-tetap-jadi-kapten-mu",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T15:40:35Z",
+   "ringkasan": "Manajer Manchester United Michael Carrick tetap memilih Bruno Fernades sebagai kapten klub. Dia menilai bintang asal Portugal itu sebagai pemain penting.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/02/08/michael-carrick-bruno-fernandes-1770539762229_169.jpeg?w=640&q=90",
+   "id": "29d65064d65f",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/02/08/michael-carrick-bruno-fernandes-1770539762229_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro"
+  },
+  {
+   "judul": "Melbourne Victory Berambisi Balas Dendam Lawan Persib Bandung",
+   "link": "https://www.liputan6.com/bola/read/8324506/melbourne-victory-berambisi-balas-dendam-lawan-persib-bandung",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T15:32:48Z",
+   "ringkasan": "Giovanni Savarese menyebut Grup E ACL Two 2026 masih terbuka. Melbourne Victory menargetkan tiga poin saat menjamu Persib Bandung pada awal November.",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/3-oYcAFIAwEXHgG4XwK5sTYHrFw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383851/original/092933900_1793105543-savarese.jpg",
+   "id": "0a081ed8e418",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/AAKLi9FS8AerYNADqRgw76FRI-E=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9383851/original/092933900_1793105543-savarese.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Chelsea Lanjut Puasa Trofi Carabao Cup 10 Tahun Lebih",
+   "link": "https://sport.detik.com/sepakbola/foto-sepakbola/d-8729990/chelsea-lanjut-puasa-trofi-carabao-cup-10-tahun-lebih",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T15:20:10Z",
+   "ringkasan": "Chelsea terus lanjut puasa trofi Carabao Cup. Sudah 10 tahun lebih lamanya, terakhir jadi kampiun di 2015!",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/chelsea-1793263366918.jpeg?w=640&q=90",
+   "id": "846f6970460f",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/chelsea-1793263366918_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Persebaya Surabaya Harus Siap Bongkar Taktik Parkir Bus Persijap Jepara",
+   "link": "https://www.liputan6.com/bola/read/8324502/persebaya-surabaya-harus-siap-bongkar-taktik-parkir-bus-persijap-jepara",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T15:15:42Z",
+   "ringkasan": "Jelang pekan kedelapan BRI Super League 2026/2027, Bernardo Tavares mengingatkan Persebaya Surabaya mewaspadai Persijap yang bisa bermain defensif di GBT.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/wbBnfHuQDFAnJtPefBTpI--Y76M=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9309810/original/078110300_1785286920-taveres_2.jpg",
+   "id": "18957b5acb5d",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/Jpbz361Atk8mW50-vx7V5qdvQn8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9309810/original/078110300_1785286920-taveres_2.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Mengenal Best of All Time Ballon d'Or yang Diraih Cristiano Ronaldo",
+   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8729996/mengenal-best-of-all-time-ballon-dor-yang-diraih-cristiano-ronaldo",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T15:00:10Z",
+   "ringkasan": "Cristiano Ronaldo jadi pemenang Best of All Time (BOAT) Ballon d'Or. Penghargaan macam apa itu?",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2016/12/13/f77197d0-3bb7-448a-850e-babb6cad03cd_169.jpg?w=640&q=90",
+   "id": "cf024280523a",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2016/12/13/f77197d0-3bb7-448a-850e-babb6cad03cd_169.jpg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro"
+  },
+  {
+   "judul": "Pembuat Meme Mbappe Jadi Mao Zedong Buka Suara",
+   "link": "https://sport.detik.com/sepakbola/gila-bola/d-8730004/pembuat-meme-mbappe-jadi-mao-zedong-buka-suara",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T14:40:10Z",
+   "ringkasan": "Candaan Kylian Mbappe soal Mao Zedong berujung panjang, bikin pemerintah China geram. Rupanya, itu meme lama sejak tahun 2023.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2024/11/28/kylian-mbappe.jpeg?w=640&q=90",
+   "id": "9fe2acbe1f8f",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2024/11/28/kylian-mbappe_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Sabar-sabar Ya, Estevao",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8729998/sabar-sabar-ya-estevao",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T14:20:35Z",
+   "ringkasan": "Estevao memang kesulitan mendapat tempat di tim inti Chelsea saat ini. Manajer The Blues Xabi Alonso meminta Estevao bersabar.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/estevao-1793265832348_169.jpeg?w=640&q=90",
+   "id": "479ce2cd1d95",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/estevao-1793265832348_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Mohammad Resha Pratama"
+  },
+  {
+   "judul": "Timnas Indonesia U-15 Takluk 1-5 dari Prancis di Piala Dunia U-15 2026",
+   "link": "https://www.viva.co.id/bola/1939653-timnas-indonesia-u-15-takluk-1-5-dari-prancis-di-piala-dunia-u-15-2026",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T14:12:20Z",
+   "ringkasan": "Timnas Indonesia U-15 harus mengakui keunggulan Prancis dengan skor 1-5 dalam lanjutan Piala Dunia U-15 2026. Pertandingan tersebut berlangsung di Lapangan 9B Hovsan Comp",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/26/6adf0b83e0bec-timnas-indonesia-u-15_gemini_665_374.jpg",
+   "id": "17a64f6330f4",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/26/6adf0b83e0bec-timnas-indonesia-u-15_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "Barcelona Pantau Bek MU Ini",
+   "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-8730010/barcelona-pantau-bek-mu-ini",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T14:00:35Z",
+   "ringkasan": "Barcelona memantau Lisandro Martinez. Sang bek tengah Manchester United itu kabarnya masuk radar buruan di musim panas mendatang.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/02/13/lisandro-martinez.jpeg?w=640&q=90",
+   "id": "2492376880ee",
+   "kategori": [
+    "Liga Inggris",
+    "Liga Spanyol"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/02/13/lisandro-martinez_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Jadwal Pemain Timnas Indonesia di Eropa: Kevin Diks hingga Jay Idzes Berpeluang Tampil",
+   "link": "https://www.viva.co.id/bola/1939636-jadwal-pemain-timnas-indonesia-di-eropa-kevin-diks-hingga-jay-idzes-berpeluang-tampil",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T13:48:00Z",
+   "ringkasan": "Sejumlah pemain Timnas Indonesia yang berkarier di luar negeri bersiap kembali merumput sepanjang akhir pekan ini. Dari Prancis hingga Belanda, beberapa pemain berpeluang",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/25/6add75c32e5b1-jay-idzes_gemini_665_374.jpg",
+   "id": "70c1b39376a2",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/25/6add75c32e5b1-jay-idzes_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "Iraola: Kenapa Harus Jumpa Bournemouth Sih?",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8729587/iraola-kenapa-harus-jumpa-bournemouth-sih",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T13:45:10Z",
+   "ringkasan": "Manajer Liverpool Andoni Iraola senang dengan kelolosan timnya ke Perempatfinal Carabao Cup. Tapi, Iraola menyayangkan The Reds harus jumpa Bournemouth.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/andoni-iraola-1793254596191_169.jpeg?w=640&q=90",
+   "id": "ec6e928bedec",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/andoni-iraola-1793254596191_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Mohammad Resha Pratama"
+  },
+  {
+   "judul": "Kompany Kapan Balik Melatih?",
+   "link": "https://sport.detik.com/sepakbola/liga-jerman/d-8729988/kompany-kapan-balik-melatih",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T13:30:05Z",
+   "ringkasan": "Vincent Kompany sudah keluar dari rumah sakit usai dirawat karena masalah kesehatan. Lalu, kapan kira-kira pelatih Bayern Munich itu bekerja lagi?",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/vincent-kompany-1793271518491_169.jpeg?w=640&q=90",
+   "id": "4115289bd55c",
+   "kategori": [
+    "Liga Jerman"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/vincent-kompany-1793271518491_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Mohammad Resha Pratama"
+  },
+  {
+   "judul": "Erick Thohir Ungkap Sisi Lain Pemain Timnas Indonesia di The Longest Wait: Pengorbanan di Balik Perjuangan Garuda",
+   "link": "https://enamplus.liputan6.com/bola/read/8324442/erick-thohir-ungkap-sisi-lain-pemain-timnas-indonesia-di-the-longest-wait-pengorbanan-di-balik-perjuangan-garuda",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T13:17:48Z",
+   "ringkasan": "Ketua PSSI, Erick Thohir, mengungkap sisi lain perjuangan para pemain Timnas Indonesia dalam film dokumenter The Longest Wait, yang mengisahkan perjalanan Skuad Garuda di Kualifikasi Piala Dunia 2026. Erick menyoroti pengorbanan para pemain, mulai dari Yakob Sayuri, Beckham Putra, Rizky Ridho, dan Marselino Ferdinan hingga pemain yang berkarier di luar negeri seperti Jay Idzes dan Calvin Verdonk…",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/h6eR6eRaJ__GpO1uTPpqg8YQS8U=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385911/original/061806600_1793279867-20261029_erick-thohir-the-longest-wait-b5cb5f.png",
+   "id": "13b69522b28b",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/0O0VWyKhRtREwsJBcYz3yEo8wLY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/thumbnails/9385911/original/061806600_1793279867-20261029_erick-thohir-the-longest-wait-b5cb5f.png",
+   "penulis": "Arief Bagus Prasetiyo"
+  },
+  {
+   "judul": "PSIM Vs Borneo FC: Laskar Mataram Cari Pengganti Ze Valente",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8729982/psim-vs-borneo-fc-laskar-mataram-cari-pengganti-ze-valente",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T13:15:25Z",
+   "ringkasan": "PSIM Yogyakarta tak bisa diperkuat oleh Ze Valente dalam tiga pertandingan. Laskar Mataram mencari penggantinya untuk melawan Borneo FC.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/03/02/ze-valente-1772445411964_169.jpeg?w=640&q=90",
+   "id": "a9d15ad6b0df",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/03/02/ze-valente-1772445411964_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "Berminat Pecahkan Rekor Alan Shearer, Harry Kane?",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8730002/berminat-pecahkan-rekor-alan-shearer-harry-kane",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T13:00:35Z",
+   "ringkasan": "Harry Kane punya kans untuk pecahkan rekor Alan Shearer sebagai top skor Liga Inggris sepanjang masa. Tapi Kane belum kepikiran tuh!",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-1793099691001.jpeg?w=640&q=90",
+   "id": "4eebee91352c",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793099691001_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Legenda Manchester United Sebut Bruno Fernandes Tamat di Old Trafford",
+   "link": "https://www.liputan6.com/bola/read/8324203/legenda-manchester-united-sebut-bruno-fernandes-tamat-di-old-trafford",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T13:00:11Z",
+   "ringkasan": "Bruno Fernandes bermasalah dengan pelatih Manchester United Michael Carrick pekan lalu sehingga masa depannya mulai dipertanyakan.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/Zz-0xfUn8wD0yR2uZ7UfhA_Z8-4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5306622/original/038471300_1754443136-bruno.jpg",
+   "id": "bfbda0c78532",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/JOjwVYRsveDX-RFnIv6IuR_lidg=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5306622/original/038471300_1754443136-bruno.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Ronaldo Kalahkan Messi dalam Voting BOAT Ballon d’Or, tapi Tak Dapat Trofi!",
+   "link": "https://www.inews.id/sport/soccer/ronaldo-kalahkan-messi-dalam-voting-boat-ballon-dor-tapi-tak-dapat-trofi",
+   "sumber": "iNews",
+   "waktu": "2026-10-29T13:00:00Z",
+   "ringkasan": "Cristiano Ronaldo terpilih sebagai pemenang BOAT Ballon dOr",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2018/07/21/messi_ronaldo.jpg",
+   "id": "d608aa78b53d",
+   "kategori": [],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2018/07/21/messi_ronaldo.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Kisah di Balik Timnas Indonesia, Erick Thohir Ungkap Pengorbanan Yakob Sayuri hingga Beckham Putra",
+   "link": "https://www.viva.co.id/bola/1939590-kisah-di-balik-timnas-indonesia-erick-thohir-ungkap-pengorbanan-yakob-sayuri-hingga-beckham-putra",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T12:46:00Z",
+   "ringkasan": "Ketua Umum PSSI, Erick Thohir, menyoroti perjuangan dan pengorbanan para pemain Timnas Indonesia yang diangkat dalam film dokumenter The Longest Wait. Menurutnya, perjala",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/18/6a5b8a293f417-yakob-sayuri_gemini_665_374.jpg",
+   "id": "ffae84162a22",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/18/6a5b8a293f417-yakob-sayuri_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "Melbourne Victory Dikalahkan Persib, Pelatihnya Bilang Begini",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8729813/melbourne-victory-dikalahkan-persib-pelatihnya-bilang-begini",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T12:40:35Z",
+   "ringkasan": "Melbourne Victory dikalahkan Persib Bandung di ajang AFC Champions League (ACL) Two. Pelatih Giovanni Savarese menyebut terjadi persaingan ketat di fase grup.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/28/pemain-persib-berguinho-dikawal-ketat-pemain-melbourne-victory-1793196381304.jpeg?w=640&q=90",
+   "id": "9b720cd0b4f4",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/pemain-persib-berguinho-dikawal-ketat-pemain-melbourne-victory-1793196381304_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Muhammad Robbani"
+  },
+  {
+   "judul": "Cody Gakpo Ahlinya Carabao Cup",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8729809/cody-gakpo-ahlinya-carabao-cup",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T12:20:40Z",
+   "ringkasan": "Cody Gakpo jadi pencetak gol Liverpool saat menyingkirkan Chelsea di Carabao Cup. Gakpo lagi-lagi membuktikan dia memang ahlinya Carabao Cup.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/cody-gakpo-1793261562150_169.jpeg?w=640&q=90",
+   "id": "254930a1f323",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/cody-gakpo-1793261562150_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Mohammad Resha Pratama"
+  },
+  {
+   "judul": "Pemain Timnas Indonesia Berharap Bisa Away, Ini Alasannya",
+   "link": "https://www.viva.co.id/bola/1939588-pemain-timnas-indonesia-berharap-bisa-away-ini-alasannya",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T12:04:00Z",
+   "ringkasan": "Gelandang Timnas Indonesia, Ivar Jenner, berharap skuad Garuda tetap menjalani pertandingan tandang pada FIFA Matchday November 2026. Menurut dia, pengalaman bermain di m",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/08/6a76fb112d5a8-ivar-jenner_gemini_665_374.jpg",
+   "id": "370b521fc604",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/08/6a76fb112d5a8-ivar-jenner_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "Manchester United Dikritik Legenda Liverpool, Sebut Strategi Transfer Bak Investasi Bodong",
+   "link": "https://www.liputan6.com/bola/read/8323681/manchester-united-dikritik-legenda-liverpool-sebut-strategi-transfer-bak-investasi-bodong",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T12:00:29Z",
+   "ringkasan": "Eks kapten sekaligus legenda Liverpool mempertanyakan strategi transfer Manchester United yang dinilainya gagal total.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/u-ZvRHY2UiY_1pWGr-NbYk5Bbog=/0x204:2820x1793/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350308/original/052090300_1789610749-Manchester_United_s_Andrey_Santos__right__and_Brighton_s_Chema_Andres.jpg",
+   "id": "98508d021265",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/60CtCj9oPD-W43QSgJlpi10UAkc=/0x204:2820x1793/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9350308/original/052090300_1789610749-Manchester_United_s_Andrey_Santos__right__and_Brighton_s_Chema_Andres.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Ronaldo Puji Mbappe: Dia Mirip-mirip Saya",
+   "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-8729806/ronaldo-puji-mbappe-dia-mirip-mirip-saya",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T12:00:10Z",
+   "ringkasan": "Ronaldo Luis Nazario memuji Kylian Mbappe. Sang legenda Brasil itu sebut, Mbappe mirip-mirip sepertinya di masa muda dulu.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/kylian-mbappe-1793080992545.jpeg?w=640&q=90",
+   "id": "d61d07bb772e",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/kylian-mbappe-1793080992545_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Kejutan Persib! Fakta di Balik Sapu Bersih 9 Poin ACL Two, Balsa: Saya Tinggal Lari ...",
+   "link": "https://enamplus.liputan6.com/bola/read/8324276/kejutan-persib-fakta-di-balik-sapu-bersih-9-poin-acl-two-balsa-saya-tinggal-lari",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T12:00:00Z",
+   "ringkasan": "Persib Bandung mencatatkan start impresif di panggung AFC Champions League Two dengan mengamankan sembilan poin sempurna dan tiga laga tanpa kebobolan di puncak klasemen sementara. Dalam sesi konferensi pers di Stadion Si Jalak Harupat, asisten pelatih Igor Tolic menganalogikan laga tersebut seperti permainan catur berintensitas tinggi, di mana kedisiplinan struktur taktik Persib sukses…",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/s4cpwhrrFf8Q5rm75WUDNc9b8b4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385743/original/082237000_1793266975-persib-bdg-3fb7bd.png",
+   "id": "e416ab8d42f9",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": null,
+   "penulis": null
+  },
+  {
+   "judul": "Hasil Drawing Perempat Final Piala Liga Inggris 2026-2027: Liverpool Tantang Bournemouth",
+   "link": "https://www.inews.id/sport/soccer/hasil-drawing-perempat-final-piala-liga-inggris-2026-2027-liverpool-tantang-bournemouth",
+   "sumber": "iNews",
+   "waktu": "2026-10-29T12:00:00Z",
+   "ringkasan": "Hasil drawing perempat final Carabao Cup 2026-2027",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/09/10/liverpool.jpg",
+   "id": "bde6dda449a7",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/10/liverpool.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Crespo Jagokan Inter Milan Kembali Juara Liga Italia",
+   "link": "https://sport.detik.com/sepakbola/liga-italia/d-8729647/crespo-jagokan-inter-milan-kembali-juara-liga-italia",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T11:40:10Z",
+   "ringkasan": "Inter Milan masih dijagokan untuk menjuarai Liga Italia musim ini. Nerazzurri dinilai sebagai tim paling siap untuk meraih Scudetto.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/22/soccer-champions-int-shk-1792616193086_169.jpeg?w=640&q=90",
+   "id": "8e2607e5a484",
+   "kategori": [
+    "Liga Italia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/22/soccer-champions-int-shk-1792616193086_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "Ini yang Bikin Rashford Belum Bersinar di MU",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8729651/ini-yang-bikin-rashford-belum-bersinar-di-mu",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T11:20:30Z",
+   "ringkasan": "Marcus Rashford belum bersinar di Manchester United pada awal musim ini, padahal tampil oke di Barca musim lalu. Cedera pinggul jadi penyebabnya.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/08/16/2290063708-1786880614601.jpeg?w=640&q=90",
+   "id": "8dc0e7cbd7e6",
+   "kategori": [
+    "Liga Inggris",
+    "Liga Spanyol"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/08/16/2290063708-1786880614601_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Prabowo Beri Bonus Rp 3 Miliar untuk Peraih Emas Asian Games dan Asian Para Games 2026",
+   "link": "https://www.liputan6.com/bola/read/8324341/prabowo-beri-bonus-rp-3-miliar-untuk-peraih-emas-asian-games-dan-asian-para-games-2026",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T11:16:41Z",
+   "ringkasan": "Penyerahan bonus untuk atlet Asian Games dan Asian Para Games 2026 dilakukan di Istana Merdeka Jakarta, Kamis (29/10/2026).",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/kqviY2Nhgg6Wh3vnlWhnJ0KfhGc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9359006/original/057004100_1790472030-WhatsApp_Image_2026-09-27_at_08.10.33.jpeg",
+   "id": "111ce6061efa",
+   "kategori": [],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/Wgw-D733zPsFs40NWX5_IhLbQr0=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9359006/original/057004100_1790472030-WhatsApp_Image_2026-09-27_at_08.10.33.jpeg",
+   "penulis": null
+  },
+  {
+   "judul": "Dapat Bonus dari Prabowo, Atlet PBVSI Bidik Medali Emas di Masa Depan",
+   "link": "https://www.liputan6.com/bola/read/8324361/dapat-bonus-dari-prabowo-atlet-pbvsi-bidik-medali-emas-di-masa-depan",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T11:16:06Z",
+   "ringkasan": "Atlet voli pantai Sofyan Rachman Effendi dan Bintang Akbar menerima bonus usai merebut medali di Asian Games 2026.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/uDFuG-p5pfz8IEgvnpeSOcE9WFw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9364648/original/0261003_-_NOC_-_AG26_-_TM_-_Beach_Volleyball__Men_s_-_Medal_Ceremony_-_Bintang_Akbar-Sofyan_Rachman_Efendi__INA_LOSE__1-2__QAT__Cherif_Samba-Ahmed_Janko_di_Hekinan_Ryokuchi_Beach_Court__Japan_-_10.jpg",
+   "id": "fd03b20308bd",
+   "kategori": [],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/YwGrZRdWgbQwD0eh9bAuA8J9BWE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9364648/original/0261003_-_NOC_-_AG26_-_TM_-_Beach_Volleyball__Men_s_-_Medal_Ceremony_-_Bintang_Akbar-Sofyan_Rachman_Efendi__INA_LOSE__1-2__QAT__Cherif_Samba-Ahmed_Janko_di_Hekinan_Ryokuchi_Beach_Court__Japan_-_10.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Sejak Ditinggal Sir Alex Ferguson, MU Habiskan Rp2,3 Triliun untuk Pecat Pelatih",
+   "link": "https://www.viva.co.id/bola/1939534-sejak-ditinggal-sir-alex-ferguson-mu-habiskan-rp23-triliun-untuk-pecat-pelatih",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T11:02:00Z",
+   "ringkasan": "Manchester United berpotensi kembali menanggung kerugian besar jika memutuskan mengakhiri kerja sama dengan Michael Carrick. Manajer asal Inggris itu dikabarkan memiliki",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/04/69d0fbf660f34-sir-alex-ferguson_gemini_665_374.jpg",
+   "id": "afc3370530bb",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/04/04/69d0fbf660f34-sir-alex-ferguson_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "Ayah Yamal Berulah, Ludahi Pelayan Kafe Sebelum Hadiri Ballon d'Or",
+   "link": "https://sport.detik.com/sepakbola/gila-bola/d-8729649/ayah-yamal-berulah-ludahi-pelayan-kafe-sebelum-hadiri-ballon-dor",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T11:00:45Z",
+   "ringkasan": "Ayah Lamine Yamal, Mounir Nasraoui, kembali bikin ulah. Kali ini dia bikin keributan di kafe bandara sebelum terbang menghadiri penghargaan Ballon d'Or 2026.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/lamine-yamal-1793262448577_169.jpeg?w=640&q=90",
+   "id": "ccb17d35db5c",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/lamine-yamal-1793262448577_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro"
+  },
+  {
+   "judul": "Amorim Pusing jelang Derby Milan, Bek Andalan Masuk Ruang Perawatan",
+   "link": "https://www.inews.id/sport/soccer/amorim-pusing-jelang-derby-milan-bek-andalan-masuk-ruang-perawatan",
+   "sumber": "iNews",
+   "waktu": "2026-10-29T11:00:00Z",
+   "ringkasan": "Amorim ditimpa masalah jelang Derby Milan",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/09/18/pelatih_ac_milan_ruben_amorim.jpg",
+   "id": "81c0e3be4a8e",
+   "kategori": [
+    "Liga Italia"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/18/pelatih_ac_milan_ruben_amorim.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Daftar Pemain yang Bisa Dipanggil John Herdman untuk Gantikan Ole Romeny, Nomor 5 Pernah Jadi Andalan Timnas Indonesia",
+   "link": "https://www.viva.co.id/bola/1939515-daftar-pemain-yang-bisa-dipanggil-john-herdman-untuk-gantikan-ole-romeny-nomor-5-pernah-jadi-andalan-timnas-indonesia",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T10:54:00Z",
+   "ringkasan": "Timnas Indonesia berpotensi kehilangan Ole Romeny pada FIFA Matchday November 2026. Cedera pergelangan kaki yang dialami striker Fortuna Sittard tersebut ternyata lebih s",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac48c412b3e1-pelatih-timnas-indonesia-john-herdman-jelang-laga-final-fifa-asean-cup-2026-menghadapi-thailand_gemini_665_374.jpg",
+   "id": "7f4660a0eeea",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac48c412b3e1-pelatih-timnas-indonesia-john-herdman-jelang-laga-final-fifa-asean-cup-2026-menghadapi-thailand_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "PSSI Kerja Sama dengan Polri usai Kericuhan Suporter Ramai Lagi",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8729818/pssi-kerja-sama-dengan-polri-usai-kericuhan-suporter-ramai-lagi",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T10:45:30Z",
+   "ringkasan": "PSSI baru saja menggelar pertemuan dan menyepakati kerja sama dengan Polri. Hal ini merespons kericuhan suporter yang ramai lagi di sepakbola Indonesia.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2024/09/24/ketum-pssi-erick-thohir.jpeg?w=640&q=90",
+   "id": "b2ce34273a8c",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2024/09/24/ketum-pssi-erick-thohir_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Muhammad Robbani"
+  },
+  {
+   "judul": "ACL 2: Satu Kemenangan Lagi, Persib!",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8729584/acl-2-satu-kemenangan-lagi-persib",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T10:30:50Z",
+   "ringkasan": "Persib Bandung butuh satu kemenangan lagi buat lolos fase grup AFC Champions League (ACL) Two. Namun, Pelatih Persib Igor Tolic pantang jemawa.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/11/persib-bandung-1791721637251.jpeg?w=640&q=90",
+   "id": "fc69f63a40f1",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/11/persib-bandung-1791721637251_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Muhammad Robbani"
+  },
+  {
+   "judul": "Juventus Kalah dari Genoa, Akui Lawan Lebih Baik",
+   "link": "https://sport.detik.com/sepakbola/liga-italia/d-8729595/juventus-kalah-dari-genoa-akui-lawan-lebih-baik",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T10:15:35Z",
+   "ringkasan": "Juventus menelan kekalahan dari Genoa di Liga Italia. Bianconeri ditegaskan harus bekerja lebih keras lagi.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/genoa-vs-juventusjuventusserie-aliga-italiajuan-cabalgleison-bremer-1793232276270_169.jpeg?w=640&q=90",
+   "id": "c6b06c207ce2",
+   "kategori": [
+    "Liga Italia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/genoa-vs-juventusjuventusserie-aliga-italiajuan-cabalgleison-bremer-1793232276270_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "Xabi Alonso: Carabao Cup Tidak Terlalu Penting",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8729589/xabi-alonso-carabao-cup-tidak-terlalu-penting",
+   "sumber": "detikSport",
+   "waktu": "2026-10-29T10:00:45Z",
+   "ringkasan": "Xabi Alonso sebut Chelsea tidak akan lama-lama bersedih setelah tersingkir di Carabao Cup. Ajang itu dinilainya tidak terlalu penting.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/xabi-alonso-1793245385850.jpeg?w=640&q=90",
+   "id": "cd61407f6954",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/xabi-alonso-1793245385850_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Fakta di Balik Pemain Timnas di Kualifikasi Piala Dunia, Erick: Ternyata, Ada Kisah Sedih ...",
+   "link": "https://enamplus.liputan6.com/bola/read/8324256/fakta-di-balik-pemain-timnas-di-kualifikasi-piala-dunia-erick-ternyata-ada-kisah-sedih",
+   "sumber": "Liputan6",
+   "waktu": "2026-10-29T10:00:00Z",
+   "ringkasan": "Ketua PSSI, Erick Thohir, menyoroti perjuangan dan pengorbanan para pemain Timnas Indonesia yang diangkat dalam film dokumenter \"The Longest Wait\". Erick Thohir mengungkapkannya setelah menghadiri gala premiere film itu di CGV Grand Indonesia, Jakarta Pusat, Rabu (28-10-2026) malam WIB. Erick Thohir menjelaskan film tersebut tidak hanya membawa pesan dari PSSI, tetapi juga memperlihatkan sudut…",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/ah5URjemwM4M5NNf67G7FwFP3lk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385729/original/052132900_1793266053-erick-perjuangan-2-075363.png",
+   "id": "ec2c3a810ff5",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": null,
+   "penulis": null
+  },
+  {
+   "judul": "Ole Romeny Cedera Parah, John Herdman Panggil Rafael Struick ke Timnas Indonesia?",
+   "link": "https://www.viva.co.id/bola/1939511-ole-romeny-cedera-parah-john-herdman-panggil-rafael-struick-ke-timnas-indonesia",
+   "sumber": "VIVA",
+   "waktu": "2026-10-29T10:00:00Z",
+   "ringkasan": "Peluang Rafael Struick kembali memperkuat Timnas Indonesia pada FIFA Matchday November 2026 terbuka di tengah kondisi striker Ole Romeny yang masih dibekap cedera pergela",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aad2a98ee035-rafael-struick_gemini_665_374.jpg",
+   "id": "80b1cf480213",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/18/6aad2a98ee035-rafael-struick_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
   {
    "judul": "Barcelona Bakal Lakukan Rotasi Besar-besaran",
    "link": "https://www.liputan6.com/bola/read/8324278/barcelona-bakal-lakukan-rotasi-besar-besaran",
@@ -35,12 +705,12 @@
    "waktu": "2026-10-29T09:43:46Z",
    "ringkasan": "Hansi Flick menyiapkan rotasi besar di Barcelona setelah kekalahan dari PSG dan Real Madrid",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/TLsxx65oqCvuK4X1A82WtxNWfjY=/0x350:5495x3447/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382156/original/031225500_1792975401-AP26298786551364.jpg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/n2ZrOfUjRdHHKue2viZ19YR9PHk=/0x350:5495x3447/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9382156/original/031225500_1792975401-AP26298786551364.jpg",
+   "penulis": null,
    "id": "328b6ae1e93c",
    "kategori": [
     "Liga Spanyol"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/n2ZrOfUjRdHHKue2viZ19YR9PHk=/0x350:5495x3447/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9382156/original/031225500_1792975401-AP26298786551364.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Bournemouth Ngeri-ngeri Sedap: 5 Laga Menang Terus 0 Kebobolan",
@@ -49,12 +719,12 @@
    "waktu": "2026-10-29T09:40:20Z",
    "ringkasan": "Bournemouth lagi dalam performa gacor. The Cherries sempurna dalam 5 laga terakhir di semua kompetisi tanpa kebobolan.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/23/bournemouth-1792751982117_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/23/bournemouth-1792751982117_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro",
    "id": "bcd7c6803333",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/23/bournemouth-1792751982117_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Bayu Baskoro"
+   ]
   },
   {
    "judul": "Kelelahan dan Cedera jadi Biang Kekalahan AC Milan",
@@ -63,12 +733,12 @@
    "waktu": "2026-10-29T09:31:25Z",
    "ringkasan": "AC Milan kalah 2-4 dari Bologna di Serie A setelah performa merosot pada babak kedua",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/Hk5Fp5rE0EtvRDHjShSQLUHTtz0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385276/original/071595300_1793249884-milan.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/3-kug6vz8wgeHNvjoSU7dCA_gtI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9385276/original/071595300_1793249884-milan.jpg",
+   "penulis": null,
    "id": "213fd736e5e4",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/3-kug6vz8wgeHNvjoSU7dCA_gtI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9385276/original/071595300_1793249884-milan.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Bakal Jajal Jepang dan Thailand, Ini Komentar Kurniawan Soal Peluang Timnas di Ajang Piala Asia 2027",
@@ -77,12 +747,12 @@
    "waktu": "2026-10-29T09:23:31Z",
    "ringkasan": "Timnas Indonesia Januari tahun depan bakal berlaga di Piala Asia 2027, legenda Timnas Indonesia Kurniawan Dwi Yulianto memberi semangat tim Garuda jelang gelaran tersebut",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/27/6a901690a9d21-legenda-timnas-indonesia-kurniawan-dwi-yulianto_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/27/6a901690a9d21-legenda-timnas-indonesia-kurniawan-dwi-yulianto_gemini_1265_711.jpg",
+   "penulis": "Bajo Winarno",
    "id": "ab5cd7cb4fde",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/08/27/6a901690a9d21-legenda-timnas-indonesia-kurniawan-dwi-yulianto_gemini_1265_711.jpg",
-   "penulis": "Bajo Winarno"
+   ]
   },
   {
    "judul": "AC Milan tak Perlu Berdalih",
@@ -91,12 +761,12 @@
    "waktu": "2026-10-29T09:21:12Z",
    "ringkasan": "Luka Modric merespons kekalahan AC Milan dari Bologna pada pekan ke-9 Serie A",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/Hk5Fp5rE0EtvRDHjShSQLUHTtz0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385276/original/071595300_1793249884-milan.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/3-kug6vz8wgeHNvjoSU7dCA_gtI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9385276/original/071595300_1793249884-milan.jpg",
+   "penulis": null,
    "id": "8588f6dd11fd",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/3-kug6vz8wgeHNvjoSU7dCA_gtI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9385276/original/071595300_1793249884-milan.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Wow! FIFA Cuan Rp 90 T dari Penjualan Tiket Piala Dunia 2026",
@@ -105,10 +775,10 @@
    "waktu": "2026-10-29T09:20:20Z",
    "ringkasan": "FIFA diproyeksi cuan besar dari penjualan tiket Piala Dunia 2026. Angkanya sekitar 5 miliar USD atau setara Rp 90 triliun.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/06/03/logo-piala-dunia-2026-1780467988797.jpeg?w=640&q=90",
-   "id": "142fa4cda2cd",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/06/03/logo-piala-dunia-2026-1780467988797_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   "penulis": "Afif Farhan",
+   "id": "142fa4cda2cd",
+   "kategori": []
   },
   {
    "judul": "FIFA Matchday November Terancam Berubah, Erick Thohir Ungkap Kendala Timnas Indonesia",
@@ -117,12 +787,12 @@
    "waktu": "2026-10-29T09:20:00Z",
    "ringkasan": "PSSI membuka opsi untuk mengalihkan lokasi pertandingan tandang Timnas Indonesia pada FIFA Matchday November 2026. Langkah ini dipertimbangkan menyusul situasi keamanan d",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac3dc938ad7a-erick-thohir-dan-gianni-infantino_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac3dc938ad7a-erick-thohir-dan-gianni-infantino_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto",
    "id": "f2bddc756272",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/06/6ac3dc938ad7a-erick-thohir-dan-gianni-infantino_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto"
+   ]
   },
   {
    "judul": "Indonesia Open Aquatic Championship 2026 Digelar 3-12 November di Senayan",
@@ -131,10 +801,10 @@
    "waktu": "2026-10-29T09:15:07Z",
    "ringkasan": "Indonesia Open Aquatic Championship 2026 akan menggelar pertandingan renang, polo air, loncat indah dan renang artistik.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/5W7iXXcv9ZFR4_RO3CHYncKf7Pk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385715/original/069581600_1793265313-library_upload_24_2026_10_1280x720_ioac-1_b82ac15.jpg",
-   "id": "7e24686d3050",
-   "kategori": [],
    "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/X0EAUUTuuW_8kPINxqcGHjKbLzg=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9385715/original/069581600_1793265313-library_upload_24_2026_10_1280x720_ioac-1_b82ac15.jpg",
-   "penulis": null
+   "penulis": null,
+   "id": "7e24686d3050",
+   "kategori": []
   },
   {
    "judul": "Erick Thohir Pastikan Bonus Atlet Asian Games dan Para Games 2026 Naik",
@@ -143,10 +813,10 @@
    "waktu": "2026-10-29T09:11:43Z",
    "ringkasan": "Menpora Erick Thohir menyebut pemerintah mengapresiasi capaian atlet Merah Putih di Asian Games dan Asian Para Games 2026.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/9uRqnsolJz9yKwFrI14Ir5gR8Wc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5423767/original/090790600_1764082018-PHOTO-2025-11-25-19-00-30__1_.jpg",
-   "id": "955abd27997b",
-   "kategori": [],
    "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/EMD6kKN97QgbPx1_2CEAN-lgcd4=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5423767/original/090790600_1764082018-PHOTO-2025-11-25-19-00-30__1_.jpg",
-   "penulis": null
+   "penulis": null,
+   "id": "955abd27997b",
+   "kategori": []
   },
   {
    "judul": "Masalah Utama Juventus: Pemain Kurang Berlari!",
@@ -155,12 +825,12 @@
    "waktu": "2026-10-29T09:08:31Z",
    "ringkasan": "Weston McKennie mengungkap penyebab Juventus kalah 0-2 dari Genoa pada pekan ke-9 Serie A 2026/2027",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/JzF5OzDqlpHttpIq4D44cbhkTN0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9376431/original/007543300_1792364665-juve.jpg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/O5sMhqo5RIXUrHePOLmUFDoI-Ao=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9376431/original/007543300_1792364665-juve.jpg",
+   "penulis": null,
    "id": "42180d42d6ac",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/O5sMhqo5RIXUrHePOLmUFDoI-Ao=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9376431/original/007543300_1792364665-juve.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Ronaldo Tak Dapat Trofi walau Menang BOAT Ballon d'Or",
@@ -169,10 +839,10 @@
    "waktu": "2026-10-29T09:00:45Z",
    "ringkasan": "Cristiano Ronaldo memenangkan Best of All Time (BOAT) Ballon d'Or. Namun tak ada trofi yang diberikan kepada CR7. Begini alasannya.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/09/27/soccer-uefanations-por-wal-1790446145708_169.jpeg?w=640&q=90",
-   "id": "497eda221b29",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/27/soccer-uefanations-por-wal-1790446145708_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Bayu Baskoro"
+   "penulis": "Bayu Baskoro",
+   "id": "497eda221b29",
+   "kategori": []
   },
   {
    "judul": "Penyisihan Belum Selesai, Pelatih Lawan Sudah Pasrah Persib Lolos 16 Besar ACL Two",
@@ -181,12 +851,12 @@
    "waktu": "2026-10-29T09:00:00Z",
    "ringkasan": "Pelatih Melbourne Victory, Giovanni Savarese, mengakui posisi Persib Bandung semakin kuat dalam persaingan menuju fase gugur AFC Champions League Two (ACL Two) 2026/2027.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae1f2c98f949-laga-persib-vs-melbourne-victory-di-acl-2_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae1f2c98f949-laga-persib-vs-melbourne-victory-di-acl-2_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto",
    "id": "5bfb752d6980",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae1f2c98f949-laga-persib-vs-melbourne-victory-di-acl-2_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto"
+   ]
   },
   {
    "judul": "Jelang Hadapi Bali United, Arema FC Dibayangi Masalah Serius",
@@ -195,12 +865,12 @@
    "waktu": "2026-10-29T09:00:00Z",
    "ringkasan": "Arema FC dihantui masalah serius jelang jumpa Bali United",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/09/30/arema_fc.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/30/arema_fc.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "4853814c7bdd",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/30/arema_fc.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "Permintaan Maaf Luciano Spalletti Usai Juventus Tumbang dari Genoa",
@@ -209,12 +879,12 @@
    "waktu": "2026-10-29T08:53:00Z",
    "ringkasan": "Setelah Juventus ditumbangkan Genoa 0-2 pada lanjutan Liga Italia 2026/2027 di Stadion Luigi Ferraris, Genoa, Kamis, sang pelatih Luciano Spalleti meminta maaf.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/21/6947344b4e0b2-pelatih-juventus-luciano-spalletti_665_374.png",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/21/6947344b4e0b2-pelatih-juventus-luciano-spalletti_1265_711.png",
+   "penulis": "Bajo Winarno",
    "id": "f135701de21b",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/21/6947344b4e0b2-pelatih-juventus-luciano-spalletti_1265_711.png",
-   "penulis": "Bajo Winarno"
+   ]
   },
   {
    "judul": "Lini Depan Juventus yang Mengkhawatirkan",
@@ -223,12 +893,12 @@
    "waktu": "2026-10-29T08:44:25Z",
    "ringkasan": "Juventus baru mencetak 11 gol dalam sembilan laga Serie A 2026/2027",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/xg8DPtXpTZrxpuRU-opGI3UkN8o=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9383369/original/096472700_1793083464-JUVE.jpg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/a4NMV0cpvpeq3k6YCcLDBNnbtI8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9383369/original/096472700_1793083464-JUVE.jpg",
+   "penulis": null,
    "id": "8ca7cbced31a",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/a4NMV0cpvpeq3k6YCcLDBNnbtI8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9383369/original/096472700_1793083464-JUVE.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Persib Ternyata Masih Bisa Tambah Pemain di ACL 2, AFC Beri Tenggat 2 Hari Lagi",
@@ -237,12 +907,12 @@
    "waktu": "2026-10-29T08:41:13Z",
    "ringkasan": "Persib Bandung punya waktu hingga 31 Oktober 2026 untuk menambah pemain di ACL 2. Simak batasan AFC dan apakah Maung Bandung masih bisa merekrut pemain baru.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae305867d063-persib_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae305867d063-persib_gemini_1265_711.jpg",
+   "penulis": "Ecep Suwardaniyasa",
    "id": "f2cc0b82acfb",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae305867d063-persib_gemini_1265_711.jpg",
-   "penulis": "Ecep Suwardaniyasa"
+   ]
   },
   {
    "judul": "Masih Sempurna di ACL 2, Persib Tetap Membumi",
@@ -251,12 +921,12 @@
    "waktu": "2026-10-29T08:40:40Z",
    "ringkasan": "Persib Bandung masih sempurna di ajang AFC Champions League 2 musim ini. Maung Bandung tetap membumi.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/striker-persib-bandung-balsa-sekulic-1790073100606_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/22/striker-persib-bandung-balsa-sekulic-1790073100606_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya",
    "id": "0b5cc1ea7aa0",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/22/striker-persib-bandung-balsa-sekulic-1790073100606_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   ]
   },
   {
    "judul": "Carrick dan Bruno Fernandes Sudah Berdamai?",
@@ -265,12 +935,12 @@
    "waktu": "2026-10-29T08:20:20Z",
    "ringkasan": "Ada kabar baik dari Manchester United. Kapten tim Bruno Fernandes dan manajer Michael Carrick dikabarkan sudah berdamai.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/bruno-fernandes-michael-carrick-1793258697485_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/bruno-fernandes-michael-carrick-1793258697485_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Mohammad Resha Pratama",
    "id": "f988a72b87d7",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/bruno-fernandes-michael-carrick-1793258697485_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Mohammad Resha Pratama"
+   ]
   },
   {
    "judul": "Status Piala Asia 2027 Ditentukan 18 November 2026",
@@ -279,12 +949,12 @@
    "waktu": "2026-10-29T08:13:01Z",
    "ringkasan": "Erick Thohir menyebut rapat Exco AFC di Bangkok pada 18 November 2026 akan membahas Piala Asia 2027. Kepastian penting bagi Timnas Indonesia.",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/G65kZQlLNqg4xrAkHM8R4wo6QP8=/0x47:1280x768/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9367405/original/025219800_1791347069-A81I0387-jpg.jpg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/jWZvP9jVlO14NgiAQjNvPUytEN0=/0x47:1280x768/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9367405/original/025219800_1791347069-A81I0387-jpg.jpg",
+   "penulis": null,
    "id": "a72b4b3c0e40",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/jWZvP9jVlO14NgiAQjNvPUytEN0=/0x47:1280x768/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9367405/original/025219800_1791347069-A81I0387-jpg.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Persib Bandung Beri Kabar Baik, Kemenangan Lawan Melbourne Victory Berdampak bagi Liga Indonesia",
@@ -293,12 +963,12 @@
    "waktu": "2026-10-29T08:12:00Z",
    "ringkasan": "Kemenangan Persib Bandung atas Melbourne Victory di AFC Champions League Two (ACL Two) 2026/2027 membawa dampak positif bagi koefisien Liga Indonesia di Asia. Tambahan po",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae20746f048b-persib-vs-melbourne_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae20746f048b-persib-vs-melbourne_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto",
    "id": "202c17c92260",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae20746f048b-persib-vs-melbourne_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto"
+   ]
   },
   {
    "judul": "Hasil Lengkap Carabao Cup: Man City dan Liverpool Lolos Lewat Adu Penalti, Bournemouth Perkasa",
@@ -321,12 +991,12 @@
    "waktu": "2026-10-29T08:01:54Z",
    "ringkasan": "Pelatih Persib Bandung Igor Tolic mendedikasikan kemenangan 2-0 atas Melbourne Victory di ACL Two untuk almarhum Arief Rahman Kusuma, suporter yang tewas di Bogor.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2352eb4580-pelatih-persib-bandung-igor-tolic_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2352eb4580-pelatih-persib-bandung-igor-tolic_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "590db7a7897d",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2352eb4580-pelatih-persib-bandung-igor-tolic_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Away Timnas Indonesia ke Timur Tengah Terancam Batal!",
@@ -335,12 +1005,12 @@
    "waktu": "2026-10-29T08:00:15Z",
    "ringkasan": "Agenda away Timnas Indonesia ke Timur Tengah terancam batal karena situasi panas. PSSI akan segera mengambil keputusan terkait uji coba FIFA Matchday ini.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/03/28/timnas-indonesia-1774690251363.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/03/28/timnas-indonesia-1774690251363_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Muhammad Robbani",
    "id": "7e5e398b73c0",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/03/28/timnas-indonesia-1774690251363_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Muhammad Robbani"
+   ]
   },
   {
    "judul": "Terbaru dari Timnas! Struick Incar Comeback, Ivar Blak-blakan Jelang Piala Asia: Persiapan yang ...",
@@ -349,12 +1019,12 @@
    "waktu": "2026-10-29T08:00:00Z",
    "ringkasan": "Timnas Indonesia telah resmi dipastikan lolos ke Piala Asia 2027 yang akan diselenggarakan di Arab Saudi. Berdasarkan hasil pengundian (drawing) resmi yang dirilis oleh AFC, skuad Garuda yang kini dilatih oleh John Herdman tergabung dalam kelompok yang cukup berat, yaitu Grup F. Indonesia akan bersaing dengan raksasa sepak bola Asia sekaligus juara bertahan Qatar, raksasa Asia Timur Jepang, serta…",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/9q6byeJLOlD5gBvwJPRt9uEfVd0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385382/original/030931900_1793255794-struick-ivan-1c749a.png",
+   "gambar_besar": null,
+   "penulis": null,
    "id": "a76c03dc054d",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": null,
-   "penulis": null
+   ]
   },
   {
    "judul": "Fans Liverpool Desak Iraola Jadikan Pemain Spesial Ini Starter Lawan Arsenal",
@@ -363,12 +1033,12 @@
    "waktu": "2026-10-29T08:00:00Z",
    "ringkasan": "Trey Nyoni tampil menonjol saat Liverpool menyingkirkan Chelsea di Carabao Cup",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/08/31/pelatih_liverpool_andoni_iraola.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/08/31/pelatih_liverpool_andoni_iraola.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "889639f5ce71",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/08/31/pelatih_liverpool_andoni_iraola.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "PSSI Kesulitan Cari Lawan Pengganti Timnas Indonesia",
@@ -377,12 +1047,12 @@
    "waktu": "2026-10-29T07:56:49Z",
    "ringkasan": "Rencana uji coba lawan dua negara Timur Tengah terancam. PSSI memburu pengganti agar Timnas Indonesia tetap berlaga November 2026.",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/Xgh9-15TWAASdPKtkh-LbhUm5OM=/3x1:1599x900/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8263336/original/092217300_1781884173-WhatsApp_Image_2026-06-19_at_20.19.55.jpeg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/CF1fVI-HIxn15WR3G5SGzuvmTf0=/3x1:1599x900/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/8263336/original/092217300_1781884173-WhatsApp_Image_2026-06-19_at_20.19.55.jpeg",
+   "penulis": null,
    "id": "b908b15c1180",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/CF1fVI-HIxn15WR3G5SGzuvmTf0=/3x1:1599x900/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/8263336/original/092217300_1781884173-WhatsApp_Image_2026-06-19_at_20.19.55.jpeg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Detik-Detik Penalti Justin Hubner Ubah Nasib Fortuna Sittard",
@@ -391,12 +1061,12 @@
    "waktu": "2026-10-29T07:42:00Z",
    "ringkasan": "Bek Timnas Indonesia, Justin Hubner, tampil tenang saat menjadi eksekutor penalti Fortuna Sittard dalam duel kontra Sparta Rotterdam pada putaran pertama KNVB Cup 2026/20",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/25/6a647313e3e79-justin-hubner_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/25/6a647313e3e79-justin-hubner_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto",
    "id": "cfaca8c5b909",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/25/6a647313e3e79-justin-hubner_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto"
+   ]
   },
   {
    "judul": "Dorongan Molina di Final Piala Dunia yang Tak Dilupakan Nico Williams",
@@ -405,10 +1075,10 @@
    "waktu": "2026-10-29T07:40:35Z",
    "ringkasan": "Pemain Timnas Spanyol Nico William, mempunyai momen yang tak terlupakan di final Piala Dunia. Dorongan pemain Timnas Argentina Nahuel Molina tak dia lupakan.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/07/20/nico-williams-1784538921596_169.jpeg?w=640&q=90",
-   "id": "d9b4ee0c35d4",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/07/20/nico-williams-1784538921596_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   "penulis": "Lucas Aditya",
+   "id": "d9b4ee0c35d4",
+   "kategori": []
   },
   {
    "judul": "Bersinar saat Persib Taklukkan Melbourne Victory, Sekulic Happy",
@@ -417,12 +1087,12 @@
    "waktu": "2026-10-29T07:20:30Z",
    "ringkasan": "Balsa Sekulic bersinar saat Persib Bandung memetik kemenangan atas Melbourne Victory di AFC Champions League 2. Pemain asal Montenegro itu gembira.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/28/balsa-sekulic-1793197840930_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/balsa-sekulic-1793197840930_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya",
    "id": "7b071d79bd51",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/balsa-sekulic-1793197840930_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   ]
   },
   {
    "judul": "Marak Kekerasan Suporter, Erick Thohir Ultimatum Klub",
@@ -431,12 +1101,12 @@
    "waktu": "2026-10-29T07:08:00Z",
    "ringkasan": "Ketua Umum PSSI, Erick Thohir, meminta klub dan operator kompetisi I.League bertindak tegas menyikapi maraknya kekerasan yang melibatkan suporter sepak bola Indonesia. Ia",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acbb2de679da-menteri-pemuda-dan-olahraga-menpora-erick-thohir_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acbb2de679da-menteri-pemuda-dan-olahraga-menpora-erick-thohir_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto",
    "id": "cebf5df9d92c",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acbb2de679da-menteri-pemuda-dan-olahraga-menpora-erick-thohir_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto"
+   ]
   },
   {
    "judul": "Malam Horor Wesley Fofana",
@@ -445,12 +1115,12 @@
    "waktu": "2026-10-29T07:00:05Z",
    "ringkasan": "Wesley Fofana bak jalani malam horor di Anfield. Handball dan tembakan penalti yang melayang, bikin Chelsea kalah dari Liverpool di Carabao Cup.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/wesley-fofana-1793255250137.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/wesley-fofana-1793255250137_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan",
    "id": "3b192d85b2e3",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/wesley-fofana-1793255250137_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   ]
   },
   {
    "judul": "Persib Panen Uang usai Berjaya di Asia, Jumlahnya Bisa Rekrut Eks Manchester United",
@@ -459,13 +1129,13 @@
    "waktu": "2026-10-29T06:43:25Z",
    "ringkasan": "Persib Bandung berhak atas hadiah dan bonus Rp8,07 miliar dari AFC Champions League Two 2026/2027, setara tiga kali nilai pasar mantan pemain Manchester United.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2ea84abeea-pemain-persib-balsa-sekulic_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2ea84abeea-pemain-persib-balsa-sekulic_gemini_1265_711.jpg",
+   "penulis": "Ecep Suwardaniyasa",
    "id": "64dad05b2302",
    "kategori": [
     "Liga Indonesia",
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2ea84abeea-pemain-persib-balsa-sekulic_gemini_1265_711.jpg",
-   "penulis": "Ecep Suwardaniyasa"
+   ]
   },
   {
    "judul": "Sesko Setidaknya Absen Sampai Januari",
@@ -474,12 +1144,12 @@
    "waktu": "2026-10-29T06:40:35Z",
    "ringkasan": "Manchester United baru saja menerima kabar buruk terkait Benjamin Sesko. Sesko setidaknya harus menepi hingga Januari agar cederanya pulih total.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/benjamin-sesko-1793252049070_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/benjamin-sesko-1793252049070_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Mohammad Resha Pratama",
    "id": "cfc2d58adcae",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/benjamin-sesko-1793252049070_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Mohammad Resha Pratama"
+   ]
   },
   {
    "judul": "4 Pemain Ini Bisa Jadi Pengganti Ole Romeny yang Cedera Jelang Laga Timnas Indonesia, Nomor 1 Jadi Raja Gol di Eropa",
@@ -488,12 +1158,12 @@
    "waktu": "2026-10-29T06:37:17Z",
    "ringkasan": "Ole Romeny terancam absen di FIFA Matchday November 2026. Empat nama jadi alternatif Timnas Indonesia, tetapi dua di antaranya belum memenuhi syarat tampil.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2e88d88223-ole-romeny_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2e88d88223-ole-romeny_gemini_1265_711.jpg",
+   "penulis": "Ecep Suwardaniyasa",
    "id": "8f6bdf07a53e",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2e88d88223-ole-romeny_gemini_1265_711.jpg",
-   "penulis": "Ecep Suwardaniyasa"
+   ]
   },
   {
    "judul": "Justin Hubner Cetak Gol, Fortuna Sittard Kalahkan Sparta Rotterdam di KNVB Cup",
@@ -502,12 +1172,12 @@
    "waktu": "2026-10-29T06:22:14Z",
    "ringkasan": "Bek Timnas Indonesia, Justin Hubner, turut berperan dalam keberhasilan Fortuna Sittard melaju ke babak berikutnya KNVB Cup 2026/2027. Ia sukses menjalankan tugas sebagai",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/25/6a64ceee8e80f-justin-hubner_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/25/6a64ceee8e80f-justin-hubner_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto",
    "id": "58b8112549c4",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/25/6a64ceee8e80f-justin-hubner_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto"
+   ]
   },
   {
    "judul": "Striker Chelsea Ini Ngapain Sih Dorong Van Dijk?",
@@ -516,12 +1186,12 @@
    "waktu": "2026-10-29T06:20:10Z",
    "ringkasan": "Debut suram striker Chelsea Emmanuel Emegha. Tidak cuma gagal mengeksekusi penalti, Emegha juga mendorong seniornya di Timnas Belanda Virgil van Dijk.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/emmanuel-emegha-1793250071543_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/emmanuel-emegha-1793250071543_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Mohammad Resha Pratama",
    "id": "b4fcdd1b927b",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/emmanuel-emegha-1793250071543_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Mohammad Resha Pratama"
+   ]
   },
   {
    "judul": "Fakta Tak Terduga Bek Timnas Hilgers Resmi Debut di SC Heerenveen, 520 Hari Menanti: Siap Tiap ...",
@@ -530,12 +1200,12 @@
    "waktu": "2026-10-29T06:10:30Z",
    "ringkasan": "Bek Timnas Indonesia, Mees Hilgers, akhirnya mengakhiri puasa bertanding selama 520 hari usai melakoni debut resmi bersama SC Heerenveen pada putaran pertama KNVB Beker 2026/2027. Bertandang ke markas Excelsior Maassluis di Sportpark Dijkpolder, pemain berusia 25 tahun itu masuk sebagai pemain pengganti di menit ke-76 menggantikan Sam Kersten dan mengawal kemenangan dua gol tanpa balas tim…",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/naxmvN1JIoNBnP3EGGr_sJ3ci_E=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385342/original/003152000_1793254228-mees-hilgers-dff235.png",
+   "gambar_besar": null,
+   "penulis": null,
    "id": "366060ba6200",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": null,
-   "penulis": null
+   ]
   },
   {
    "judul": "Persib Bandung Masih Sempurna di ACL 2!",
@@ -544,12 +1214,12 @@
    "waktu": "2026-10-29T06:00:10Z",
    "ringkasan": "Persib Bandung masih sempurna di AFC Champions League 2 2026/2027. Maung Bandung baru saja menaklukkan Melbourne Victory.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/28/pemain-persib-berguinho-dikawal-ketat-pemain-melbourne-victory-1793196381304_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/pemain-persib-berguinho-dikawal-ketat-pemain-melbourne-victory-1793196381304_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya",
    "id": "47da3651b849",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/pemain-persib-berguinho-dikawal-ketat-pemain-melbourne-victory-1793196381304_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   ]
   },
   {
    "judul": "'Liverpool Vs Chelsea Drama yang Luar Biasa'",
@@ -558,12 +1228,12 @@
    "waktu": "2026-10-29T05:40:50Z",
    "ringkasan": "Liverpool berhasil mengalahkan Chelsea di babak keempat Carabao Cup 2026/2027. Pertandingan The Reds melawan The Blues menyajikan drama yang luar biasa.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/chelsea-1793248618220_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/chelsea-1793248618220_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya",
    "id": "bc9759d1ece3",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/chelsea-1793248618220_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   ]
   },
   {
    "judul": "Pengakuan Mees Hilgers usai Tampil Lagi Setelah 520 Hari: Siap Kembali Bermain Setiap Minggu",
@@ -572,12 +1242,12 @@
    "waktu": "2026-10-29T05:21:16Z",
    "ringkasan": "Bek Timnas Indonesia, Mees Hilgers, akhirnya kembali bertanding usai absen 520 hari. Hilgers lakoni debut bersama Heerenveen di Piala KNVB, Kamis (29/10/2026).",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/02/6a97f8f44053a-pemain-sc-heerenveen-mees-hilgers_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/02/6a97f8f44053a-pemain-sc-heerenveen-mees-hilgers_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "3290e87d555e",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/02/6a97f8f44053a-pemain-sc-heerenveen-mees-hilgers_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Toni Kroos Bela Vinicius",
@@ -586,12 +1256,12 @@
    "waktu": "2026-10-29T05:20:10Z",
    "ringkasan": "Vinicius Jr sedang dalam sorotan karena performanya yang menurun. Eks pemain Real Madrid, Toni Kroos membelanya.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2024/06/02/vinicius-junior-toni-kroos.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2024/06/02/vinicius-junior-toni-kroos_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan",
    "id": "7dd57dbfa57b",
    "kategori": [
     "Liga Spanyol"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2024/06/02/vinicius-junior-toni-kroos_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   ]
   },
   {
    "judul": "Luciano Spalletti Kritik Juventus usai Kalah dari Genoa: Tak Ada Perlawanan!",
@@ -600,12 +1270,12 @@
    "waktu": "2026-10-29T05:09:23Z",
    "ringkasan": "Luciano Spalletti mengkritik Juventus setelah kalah 0-2 dari Genoa. Ia menyoroti lemahnya intensitas, duel yang kalah, dan minimnya daya juang pemain.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/39EgMMinm_h5og_9c3e28XrdmA0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9371098/original/082492000_1791752466-LUCIAN0.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/O9mbFaAvnltvP6gDDXQNUrUYhGA=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9371098/original/082492000_1791752466-LUCIAN0.jpg",
+   "penulis": null,
    "id": "9452982ac6f2",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/O9mbFaAvnltvP6gDDXQNUrUYhGA=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9371098/original/082492000_1791752466-LUCIAN0.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Vincent Kompany Kena Iritasi Selaput Otak",
@@ -614,12 +1284,12 @@
    "waktu": "2026-10-29T05:00:30Z",
    "ringkasan": "Vincent Kompany, pelatih Bayern Munich sempat pingsan saat dampingi latihan. Setelah dirawat di rumah sakit, Kompany kena iritasi selaput otak.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/04/26/vincent-kompany-1745630291808.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/04/26/vincent-kompany-1745630291808_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan",
    "id": "3a0ccde2419f",
    "kategori": [
     "Liga Jerman"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/04/26/vincent-kompany-1745630291808_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   ]
   },
   {
    "judul": "Juventus Krisis Gol! Statistik Serangan Memalukan jelang Jumpa Napoli",
@@ -628,12 +1298,12 @@
    "waktu": "2026-10-29T05:00:00Z",
    "ringkasan": "Juventus baru mencetak 11 gol dalam sembilan laga Serie A",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/09/08/pelatih_juventus_luciano_spalletti.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/08/pelatih_juventus_luciano_spalletti.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "4bfff05bd5fe",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/08/pelatih_juventus_luciano_spalletti.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "Ruben Amorim Akui AC Milan Sudah Kehabisan Energi sejak Menit Awal saat Kalah dari Bologna",
@@ -642,12 +1312,12 @@
    "waktu": "2026-10-29T04:58:33Z",
    "ringkasan": "Ruben Amorim mengakui AC Milan kehabisan energi sejak awal saat kalah 2-4 dari Bologna. Ia menegaskan keterbatasan rotasi bukan alasan untuk membela diri.",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/cEfKNKxCnKzs5N0bJeaxPsazPzU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353224/original/070356600_1789942916-amorim.jpg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/XkqD6chx-wWjh8FHs5RWjxbL3LY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9353224/original/070356600_1789942916-amorim.jpg",
+   "penulis": null,
    "id": "47e97187cb5e",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/XkqD6chx-wWjh8FHs5RWjxbL3LY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9353224/original/070356600_1789942916-amorim.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Singkirkan Chelsea, Andoni Iraola Puji Kerja Keras Pemain Liverpool",
@@ -656,12 +1326,12 @@
    "waktu": "2026-10-29T04:41:45Z",
    "ringkasan": "Andoni Iraola puas Liverpool menyingkirkan Chelsea lewat adu penalti di Carabao Cup. The Reds akan menghadapi Bournemouth pada perempat final.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/q-qmbjuWBHTCc84RX8AoFY4-aWI=/0x18:1503x865/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9307681/original/072023900_1785056887-Liverpool_FC_head_coach_Andoni_Iraola.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/o8VyBMqxLr9edCUe0jkY4LsR5R8=/0x18:1503x865/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9307681/original/072023900_1785056887-Liverpool_FC_head_coach_Andoni_Iraola.jpg",
+   "penulis": null,
    "id": "21bd2801d159",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/o8VyBMqxLr9edCUe0jkY4LsR5R8=/0x18:1503x865/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9307681/original/072023900_1785056887-Liverpool_FC_head_coach_Andoni_Iraola.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Kalah Terus, Keluarga Glazer Dikabarkan Siap Jual Manchester United",
@@ -670,12 +1340,12 @@
    "waktu": "2026-10-29T04:41:30Z",
    "ringkasan": "Keluarga Glazer dikabarkan mempertimbangkan untuk kembali melepas sebagian saham Manchester United.",
    "gambar": "https://pict.sindonews.com/dyn/850/pena/news/2026/10/29/11/1766007/kalah-terus-keluarga-glazer-dikabarkan-siap-jual-manchester-united-mqx.jpg",
+   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/10/29/11/1766007/kalah-terus-keluarga-glazer-dikabarkan-siap-jual-manchester-united-mqx.jpg",
+   "penulis": null,
    "id": "e6e541eb7510",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/10/29/11/1766007/kalah-terus-keluarga-glazer-dikabarkan-siap-jual-manchester-united-mqx.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Chelsea Tumbang dari Liverpool, Ini Penyebabnya",
@@ -684,12 +1354,12 @@
    "waktu": "2026-10-29T04:40:50Z",
    "ringkasan": "Chelsea menelan kekalahan dari Liverpool di babak keempat Carabao Cup 2026/2027. Masalah The Blues dalam laga itu diekspos.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/liverpool-vs-chelsea-1793225114814_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/liverpool-vs-chelsea-1793225114814_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya",
    "id": "601ba4636822",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/liverpool-vs-chelsea-1793225114814_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   ]
   },
   {
    "judul": "Xabi Alonso Puji Keberanian Chelsea meski Tersingkir dari Carabao Cup",
@@ -698,12 +1368,12 @@
    "waktu": "2026-10-29T04:29:10Z",
    "ringkasan": "Xabi Alonso memuji keberanian Chelsea meski tersingkir dari Carabao Cup usai kalah adu penalti dari Liverpool. The Blues kini fokus menghadapi Manchester United",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/idepNHhXeNNCloZOLct6-bHyFpk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9352262/original/083894400_1789775507-000_C8QP4KX.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/GNN-rJJgAv8NCmrax3OCwJ4S5qk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9352262/original/083894400_1789775507-000_C8QP4KX.jpg",
+   "penulis": null,
    "id": "98b7ec3bf0f7",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/GNN-rJJgAv8NCmrax3OCwJ4S5qk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9352262/original/083894400_1789775507-000_C8QP4KX.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Keluarga Glazer Mau Jual MU (Lagi)",
@@ -712,12 +1382,12 @@
    "waktu": "2026-10-29T04:20:10Z",
    "ringkasan": "Keluarga Glazer cemas sama Sir Jim Ratcliffe, sebagai pemimpin baru Manchester United. Glazer berencana jual lagi saham Setan Merah!",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2023/06/04/avram-glazer-1.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2023/06/04/avram-glazer-1_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan",
    "id": "216e81ecbeb3",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2023/06/04/avram-glazer-1_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   ]
   },
   {
    "judul": "Xabi Alonso di Anfield: 3 Tim Berbeda, 3 Kali Kalah",
@@ -726,10 +1396,10 @@
    "waktu": "2026-10-29T04:00:10Z",
    "ringkasan": "Xabi Alonso sudah sambangi Anfield tiga kali dengan tiga tim berbeda. Tiga-tiganya kalah!",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/xabi-alonso-1793245385850.jpeg?w=640&q=90",
-   "id": "e910c0231e9d",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/liverpool-vs-chelsea-1793225114814_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   "penulis": "Afif Farhan",
+   "id": "e910c0231e9d",
+   "kategori": []
   },
   {
    "judul": "Erick PSSI Blak-blakan Surat Prabowo Soal Nasib Presiden FIFA Infantino: Saya Diminta Buat ...",
@@ -738,12 +1408,12 @@
    "waktu": "2026-10-29T04:00:00Z",
    "ringkasan": "Ketua Umum PSSI Erick Thohir menegaskan dukungan Indonesia agar Presiden FIFA Gianni Infantino kembali memimpin organisasi sepak bola dunia tersebut. Erick Thohir menyerahkan langsung surat dukungan dari Presiden RI Prabowo Subianto kepada Gianni Infantino. Dukungan ini diberikan menjelang pemilihan Presiden FIFA yang dijadwalkan berlangsung pada 18 Maret 2027 dalam Kongres FIFA ke-77 di Rabat…",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/mFxJOx6B-Tna6wyz2JG8yR4gAJE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385158/original/034017200_1793243298-erick-surat-fifa-618d32.png",
+   "gambar_besar": null,
+   "penulis": null,
    "id": "b24f08fd1330",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": null,
-   "penulis": null
+   ]
   },
   {
    "judul": "Komentar Balsa Sekulic usai Borong Gol Kemenangan Persib atas Melbourne Victory",
@@ -752,12 +1422,12 @@
    "waktu": "2026-10-29T04:00:00Z",
    "ringkasan": "Balsa Sekulic mencetak dua gol saat Persib Bandung menang 2-0 atas Melbourne Victory",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/29/balsa_sekulic_1.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/29/balsa_sekulic_1.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "1e0843a0a7e2",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/29/balsa_sekulic_1.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "Kata-kata Pedas Modric Usai Milan Dipecundangi Bologna",
@@ -766,12 +1436,12 @@
    "waktu": "2026-10-29T03:40:57Z",
    "ringkasan": "AC Milan dipecundangi Bologna di kandang sendiri. Gelandang Luka Modric mengekspresikan kekesalan atas permainan Rossoneri.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/ac-milan-vs-bolognaserie-aliga-italialuka-modricchristian-pulisic-1793234855335_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/ac-milan-vs-bolognaserie-aliga-italialuka-modricchristian-pulisic-1793234855335_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Yanu Arifin",
    "id": "8a87b83f5535",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/ac-milan-vs-bolognaserie-aliga-italialuka-modricchristian-pulisic-1793234855335_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   ]
   },
   {
    "judul": "Mbappe dan Deretan Atlet yang Pernah Singgung China lalu Diboikot",
@@ -780,10 +1450,10 @@
    "waktu": "2026-10-29T03:20:00Z",
    "ringkasan": "Kylian Mbappe diboikot China akibat meledek Mao Zedong. Sebelumnya ada banyak atlet bernasib serupa karena bikin komentar sensitif soal Negeri Tirai Bambu.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/08/27/kylian-mbappe-1787802953030_169.jpeg?w=640&q=90",
-   "id": "7d11a440f6d2",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/taylor-towsendpetenistenis-1793236547172_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   "penulis": "Yanu Arifin",
+   "id": "7d11a440f6d2",
+   "kategori": []
   },
   {
    "judul": "Mees Hilgers Main usai 520 Hari Absen, Heerenveen Menang",
@@ -792,12 +1462,12 @@
    "waktu": "2026-10-29T03:17:53Z",
    "ringkasan": "Bek Timnas Indonesia, Mees Hilgers, akhirnya kembali tampil dalam pertandingan resmi setelah menepi selama 520 hari. Ia mendapat kesempatan bermain saat SC Heerenveen men",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad3013b41a6d-mees-hilgers_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad3013b41a6d-mees-hilgers_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto",
    "id": "80562d11db17",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/17/6ad3013b41a6d-mees-hilgers_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto"
+   ]
   },
   {
    "judul": "Atmosfer Si Jalak Harupat Pukau Pelatih Melbourne Victory: Suporter Persib Luar Biasa, Penuh Gairah",
@@ -806,12 +1476,12 @@
    "waktu": "2026-10-29T03:02:00Z",
    "ringkasan": "Atmosfer Stadion Si Jalak Harupat pukau Pelatih Melbourne Victory, Giovanni Savarese, usai timnya kalah 2-0 dari Persib Bandung di ACL Two, Rabu (28/10/2026).",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/15/69183ba17c9bf-suporter-persib_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/15/69183ba17c9bf-suporter-persib_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "46d62960f938",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/11/15/69183ba17c9bf-suporter-persib_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Genoa Vs Juventus: Bianconeri Kalah di Semua Lini dan Tak Punya Daya Juang",
@@ -820,12 +1490,12 @@
    "waktu": "2026-10-29T03:00:37Z",
    "ringkasan": "Juventus dibungkam Genoa dengan skor 0-2 dalam lanjutan Serie A. Pelatih Juventus Luciano Spalletti risau dengan sikap para pemainnya di atas lapangan.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/genoa-vs-juventus-1793235535272_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/genoa-vs-juventus-1793235535272_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Novitasari Dewi Salusi",
    "id": "1c9a10f2fadc",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/genoa-vs-juventus-1793235535272_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi"
+   ]
   },
   {
    "judul": "Kelme Mendadak Ubah Jersey Timnas Indonesia, Fans Garuda Ngamuk!",
@@ -834,12 +1504,12 @@
    "waktu": "2026-10-29T03:00:00Z",
    "ringkasan": "Kelme merilis jersey juara FIFA ASEAN Cup 2026 dengan patch emas Timnas Indonesia",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/29/jersey_timnas_indonesia.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/29/jersey_timnas_indonesia.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "dab1358ab0e9",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/29/jersey_timnas_indonesia.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "Klasemen Grup E ACL 2: Persib Sempurna, Unggul 5 Poin atas Melbourne Victory!",
@@ -848,12 +1518,12 @@
    "waktu": "2026-10-29T03:00:00Z",
    "ringkasan": "Klasemen Grup E ACL 2 terbaru menempatkan Persib Bandung di puncak dengan 9 poin",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/29/balsa_sekulic.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/29/balsa_sekulic.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "83ae9242a310",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/29/balsa_sekulic.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "Arsenal ke Markas Liverpool Dalam Kondisi Tak Oke",
@@ -862,12 +1532,12 @@
    "waktu": "2026-10-29T02:40:46Z",
    "ringkasan": "Arsenal akan melawan Liverpool dalam lanjutan Liga Inggris akhir pekan ini. Situasi Meriam London sedang tidak oke.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/28/arsenal-1793163383147_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/arsenal-1793163383147_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Randy Prasatya",
    "id": "9058b8c8a45e",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/arsenal-1793163383147_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya"
+   ]
   },
   {
    "judul": "Catat Clean Sheet di ACL 2, Performa Kiper Muda Persib Fitrah Maulana Bikin Igor Tolic Terpukau",
@@ -876,12 +1546,12 @@
    "waktu": "2026-10-29T02:30:00Z",
    "ringkasan": "Kiper 20 tahun Persib Bandung, Fitrah Maulana, tampil gemilang dan cetak clean sheet pada laga debutnya di ACL 2 kontra Melbourne Victory. Igor Tolic beri pujian.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/06/693327de21df4-kiper-persib-fitrah-maulana_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/06/693327de21df4-kiper-persib-fitrah-maulana_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "9d3cf5ff889b",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2025/12/06/693327de21df4-kiper-persib-fitrah-maulana_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Kejutan Erick, Bongkar Isi Pertemuan Tertutup Bareng Kapolri: PSSI Keras! Pengurangan Poin ...",
@@ -890,13 +1560,13 @@
    "waktu": "2026-10-29T02:26:21Z",
    "ringkasan": "Ketua Umum PSSI Erick Thohir menegaskan akan memberikan sanksi tegas berupa pengurangan poin bagi klub sepak bola yang gagal menertibkan suporternya menyusul rentetan insiden kerusuhan dan kekerasan di Super League 2026/2027. Erick Thohir telah berkoordinasi dengan Kapolri Jenderal Pol. Suyudi AS serta pihak kepolisian setempat (seperti di Kabupaten Bogor dan Banten) untuk mengusut tuntas insiden…",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/4k_nuucjR_CwzHZwXGCSN01DZzQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9385124/original/001327200_1793240780-erick-kerusuhan-4e416f.png",
+   "gambar_besar": null,
+   "penulis": null,
    "id": "806163ae2bb0",
    "kategori": [
     "Timnas",
     "Liga Indonesia"
-   ],
-   "gambar_besar": null,
-   "penulis": null
+   ]
   },
   {
    "judul": "Dulu Batistuta, Kini Mbangula Hat-trick ke Gawang AC Milan",
@@ -905,12 +1575,12 @@
    "waktu": "2026-10-29T02:20:55Z",
    "ringkasan": "AC Milan kembali merasakan gawangnya dibobol pemain yang memborong hat-trick di laga Serie A. Dulu Gabriel Batistuta, kini Samuel Mbangula.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/samuel-mbangulaliga-italiaserie-aac-milan-vs-bolognamilan-vs-bolognabologna-1793235627994_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/samuel-mbangulaliga-italiaserie-aac-milan-vs-bolognamilan-vs-bolognabologna-1793235627994_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Yanu Arifin",
    "id": "14f569d523d3",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/samuel-mbangulaliga-italiaserie-aac-milan-vs-bolognamilan-vs-bolognabologna-1793235627994_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   ]
   },
   {
    "judul": "Chivu: Inter Hoki Bisa Kalahkan Venezia",
@@ -919,12 +1589,12 @@
    "waktu": "2026-10-29T02:00:28Z",
    "ringkasan": "Inter Milan berhasil mengalahkan Venezia berkat gol-gol bunuh diri dari lawan. Pelatih Nerazzurri, Cristian Chivu, menyebut timnya beruntung.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/02/25/cristian-chivu-1772005070262_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/02/25/cristian-chivu-1772005070262_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Randy Prasatya",
    "id": "ad4c93c17d64",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/02/25/cristian-chivu-1772005070262_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya"
+   ]
   },
   {
    "judul": "Bedah Taktik Igor Tolic: Alasan Persib Beralih ke Skema 3-4-3 hingga Kukuh di Puncak ACL Two",
@@ -933,12 +1603,12 @@
    "waktu": "2026-10-29T02:00:00Z",
    "ringkasan": "Bedah taktik Igor Tolic di Persib Bandung pada ajang ACL 2 2026/2027. Dari perubahan formasi 3-4-3 hingga kunci sukses Maung Bandung sapu bersih laga tanpa kebobolan.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2352eb4580-pelatih-persib-bandung-igor-tolic_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2352eb4580-pelatih-persib-bandung-igor-tolic_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "717838f9343f",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/29/6ae2352eb4580-pelatih-persib-bandung-igor-tolic_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Igor Tolic Bongkar Kekuatan Persib Usai Tekuk Melbourne Victory, Bukan Sekadar Skill Pemain",
@@ -947,12 +1617,12 @@
    "waktu": "2026-10-29T02:00:00Z",
    "ringkasan": "Persib Bandung mengalahkan Melbourne Victory 2-0 di ACL Two 2026-2027",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/07/02/pelatih_persib_bandung_igor_tolic.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/07/02/pelatih_persib_bandung_igor_tolic.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "e8406658ce8e",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/07/02/pelatih_persib_bandung_igor_tolic.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "Rulli Gemilang, Donnarumma Terancam?",
@@ -961,12 +1631,12 @@
    "waktu": "2026-10-29T01:40:31Z",
    "ringkasan": "Geronimo Rulli menjadi pahlawan Manchester City saat mendepak Brighton & Hove Albion dari Carabao Cup. Lanatas, hal ini mengancam posisi Gianluigi Donnarumma?",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/2301818505-1793119652462_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/2301818505-1793119652462_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Randy Prasatya",
    "id": "1dd036199fcc",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/2301818505-1793119652462_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya"
+   ]
   },
   {
    "judul": "Cuma Main 36 Menit di FIFA ASEAN Cup 2026 tapi Jadi Penentu, Ini Pengakuan Jujur Egy Maulana Vikri",
@@ -975,12 +1645,12 @@
    "waktu": "2026-10-29T01:30:00Z",
    "ringkasan": "Cuma main 36 menit di FIFA ASEAN Cup 2026, Egy Maulana Vikri sukses jadi pembeda dan bawa Timnas Indonesia juara. Begini pengakuan jujur sang pemain.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/25/6addc3a21f098-egy-maulana-vikri-membela-dewa-united_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/25/6addc3a21f098-egy-maulana-vikri-membela-dewa-united_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "79bb1a96e8d7",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/25/6addc3a21f098-egy-maulana-vikri-membela-dewa-united_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Kabar Terbaru Kondisi Kesehatan Vincent Kompany Akhirnya Diungkap ke Publik",
@@ -989,10 +1659,10 @@
    "waktu": "2026-10-29T01:29:20Z",
    "ringkasan": "Kepastian dari kondisi Vincent Kompany setelah sempat dilarikan ke rumah sakit akhirnya diketahui publik.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/JNMlP578hhwvW9eokz3c7f49JlM=/0x0:1999x1127/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5366663/original/070001200_1759267919-Kompany-1.jpg",
-   "id": "3eba23f5609d",
-   "kategori": [],
    "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/WY_hpM8lv1dYDttQoNsWFhtKguo=/0x0:1999x1127/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5366663/original/070001200_1759267919-Kompany-1.jpg",
-   "penulis": null
+   "penulis": null,
+   "id": "3eba23f5609d",
+   "kategori": []
   },
   {
    "judul": "Klasemen Liga Italia: Inter Milan Kembali ke Puncak, AC Milan dan Juventus Tersandung",
@@ -1001,12 +1671,12 @@
    "waktu": "2026-10-29T01:20:35Z",
    "ringkasan": "Inter Milan kembali memimpin klasemen Serie A dengan 25 poin setelah mengalahkan Venezia. AC Milan kalah dari Bologna, sedangkan Juventus takluk dari Genoa.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/Y74HFpW0H-v-pVD1vmPlOWvtecA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9385036/original/081562600_1793221523-000_D4QK2DB.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/Y2scYAQoq562_32-E-wGaboH1gY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9385036/original/081562600_1793221523-000_D4QK2DB.jpg",
+   "penulis": null,
    "id": "846c831c8b0e",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/Y2scYAQoq562_32-E-wGaboH1gY=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9385036/original/081562600_1793221523-000_D4QK2DB.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Amorim: Milan Lelah dan Kurang Bertenaga",
@@ -1015,12 +1685,12 @@
    "waktu": "2026-10-29T01:20:22Z",
    "ringkasan": "AC Milan akhirnya tumbang di Serie A setelah kalah 2-4 dari Bologna. Pelatih Milan Ruben Amorim menyebut timnya lelah sejak menit pertama.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/ac-milan-1793232447714_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/ac-milan-1793232447714_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Novitasari Dewi Salusi",
    "id": "d2822e362026",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/ac-milan-1793232447714_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi"
+   ]
   },
   {
    "judul": "Ole Romeny Umumkan Kabar Buruk untuk Timnas Indonesia Jelang FIFA Matchday",
@@ -1029,12 +1699,12 @@
    "waktu": "2026-10-29T01:15:00Z",
    "ringkasan": "Ole Romeny beri kabar buruk untuk Timnas Indonesia",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/09/25/ole_romeny.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/25/ole_romeny.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "7454f98ac5da",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/25/ole_romeny.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "Ditunggu Liverpool, Arsenal Harus Cepat Move On dari Carabao Cup",
@@ -1043,12 +1713,12 @@
    "waktu": "2026-10-29T01:00:28Z",
    "ringkasan": "Martin Odegaard mengakui Arsenal bermain di bawah standar setelah tersingkir dari Carabao Cup. Dia menegaskan tim harus segera move on untuk hadapi Liverpool.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/28/arsenal-1793163383147_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/arsenal-1793163383147_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Novitasari Dewi Salusi",
    "id": "cbd0d6bbc0c4",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/28/arsenal-1793163383147_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi"
+   ]
   },
   {
    "judul": "Pengakuan Pelatih Melbourne Victory usai Dihancurkan Persib 2-0, Singgung Ketajaman Balsa Sekulic",
@@ -1057,12 +1727,12 @@
    "waktu": "2026-10-29T00:58:57Z",
    "ringkasan": "Pelatih Melbourne Victory beri pengakuan usai timnya dikalahkan Persib Bandung 2-0 di ACL Two. Singgung ketajaman Balsa Sekulic dan luar biasanya suporter.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae1f2c98f949-laga-persib-vs-melbourne-victory-di-acl-2_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae1f2c98f949-laga-persib-vs-melbourne-victory-di-acl-2_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "5463bb251822",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae1f2c98f949-laga-persib-vs-melbourne-victory-di-acl-2_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Hasil Carabao Cup: Manchester City Bungkam Brighton 4-3 Lewat Adu Penalti",
@@ -1113,12 +1783,12 @@
    "waktu": "2026-10-29T00:30:00Z",
    "ringkasan": "Inter Milan menang atas Venezia, sementara AC Milan dan Juventus menelan kekalahan di Serie A 2026/2027. Berikut update klasemen Liga Italia hingga pekan ke-9.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/29/genoa-vs-juventusjuventusserie-aliga-italiajuan-cabalgleison-bremer-1793232276270_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/genoa-vs-juventusjuventusserie-aliga-italiajuan-cabalgleison-bremer-1793232276270_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Yanu Arifin",
    "id": "4ad459d003e3",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/29/genoa-vs-juventusjuventusserie-aliga-italiajuan-cabalgleison-bremer-1793232276270_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   ]
   },
   {
    "judul": "Hasil Lengkap Piala Liga Inggris: Manchester City dan Liverpool Lolos ke Perempat Final",
@@ -6239,654 +6909,6 @@
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793057262587_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
    "penulis": "Kris FW",
    "id": "a82ef3e1a0e3",
-   "kategori": []
-  },
-  {
-   "judul": "Jadwal Liga Champions Asia 2: Persib Bandung Ladeni Melbourne Victory",
-   "link": "https://www.liputan6.com/bola/read/8321063/jadwal-liga-champions-asia-2-persib-bandung-ladeni-melbourne-victory",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-27T04:30:05Z",
-   "ringkasan": "Liga Champions Asia 2 musim ini menghadirkan duel Persib Bandung vs Melbourne Victory.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/Dx5eBsr_vOzLa2KBLlv3Hveu2Vg=/0x374:1079x982/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5314572/original/018193100_1755093158-GyO7-8saEAA-E11.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/N0W2KT9x5st1udgka9NFVBSR2VE=/0x374:1079x982/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5314572/original/018193100_1755093158-GyO7-8saEAA-E11.jpg",
-   "penulis": null,
-   "id": "53c3d2392c2e",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Jadwal dan Hasil Super League Pekan 7: Persija Puncaki Klasemen",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8725691/jadwal-dan-hasil-super-league-pekan-7-persija-puncaki-klasemen",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T04:20:19Z",
-   "ringkasan": "Jadwal dan hasil lengkap Super League pekan 7, disertai klasemen terbaru. Persija Jakarta memimpin, diikuti Dewa United, Bali United, dan Persib Bandung.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/08/30/logo-bri-superleague-1756516350813_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/08/30/logo-bri-superleague-1756516350813_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Kris FW",
-   "id": "b61e7630c1b3",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Persija Menang atas Persik, Rizky Ridho Malah Minta Maaf ke Jakmania! Ada Apa?",
-   "link": "https://www.inews.id/sport/soccer/persija-menang-atas-persik-rizky-ridho-malah-minta-maaf-ke-jakmania-ada-apa",
-   "sumber": "iNews",
-   "waktu": "2026-10-27T04:15:00Z",
-   "ringkasan": "Rizky Ridho meminta maaf kepada Jakmania meski menjadi pahlawan kemenangan Persija Jakarta atas Persik Kediri dengan skor 2-1 di JIS.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/27/kapten_persija_jakarta_rizky_ridho.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/27/kapten_persija_jakarta_rizky_ridho.jpg",
-   "penulis": "Abdul Haris",
-   "id": "5a1029ec545f",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Prediksi Man City vs Brighton: Kesempatan untuk Bangkit",
-   "link": "https://www.liputan6.com/bola/read/8322031/prediksi-man-city-vs-brighton-kesempatan-untuk-bangkit",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-27T04:13:40Z",
-   "ringkasan": "Prediksi Man City vs Brighton di Carabao Cup 2026-27. Man City mengincar kemenangan di Etihad, sementara Brighton berusaha bangkit.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/fQY4dlDNcxLDHqXj1cd7MIC0qos=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9381738/original/082975400_1792884582-000_D4AX74H.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/qJyRtJ7hRA-xeWza3KRlBi9XbZo=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9381738/original/082975400_1792884582-000_D4AX74H.jpg",
-   "penulis": null,
-   "id": "54f5f3b999c1",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Daftar Lengkap Pemenang Ballon d’Or 2026, Barcelona dan PSG Ikut Berjaya",
-   "link": "https://www.viva.co.id/bola/1938914-daftar-lengkap-pemenang-ballon-dor-2026-barcelona-dan-psg-ikut-berjaya",
-   "sumber": "VIVA",
-   "waktu": "2026-10-27T04:04:07Z",
-   "ringkasan": "Harry Kane memenangkan Ballon d’Or 2026 setelah mengalahkan Kylian Mbappe dan Lamine Yamal. Simak daftar lengkap 13 kategori pemenang penghargaan sepak bola dunia.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6ae003d6aefd3-harry-kane-sabet-ballon-dor-2026_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6ae003d6aefd3-harry-kane-sabet-ballon-dor-2026_gemini_1265_711.jpg",
-   "penulis": "Abdul Aziz Masindo",
-   "id": "83248a463951",
-   "kategori": [
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Daftar Lengkap Pemenang Ballon d'Or Sepanjang Masa: Messi, Ronaldo hingga Kane",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725689/daftar-lengkap-pemenang-ballon-dor-sepanjang-masa-messi-ronaldo-hingga-kane",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T04:00:15Z",
-   "ringkasan": "Daftar lengkap pemenang Ballon d'Or sepanjang masa dari 1956 hingga 2026, termasuk Harry Kane, Alexia Putellas, Messi, Ronaldo, dan peraih pemain muda terbaik.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-1793059669695_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793059669695_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Kris FW",
-   "id": "9f1ecda6e950",
-   "kategori": []
-  },
-  {
-   "judul": "Prediksi Venezia vs Inter: Sang Pemuncak Klasemen Belum Terkalahkan",
-   "link": "https://www.liputan6.com/bola/read/8322012/prediksi-venezia-vs-inter-sang-pemuncak-klasemen-belum-terkalahkan",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-27T04:00:02Z",
-   "ringkasan": "Prediksi Venezia vs Inter pada pekan ke-9 Serie A 2026-27. Inter Milan mengincar kemenangan untuk mempertahankan puncak klasemen Liga Italia.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/9fwwgRfWe9eBPm181ZDJHEh-Ai8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9379427/original/081798900_1792619598-inter_2.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/eNDwxQXPrNHZC5yl0ZUCTymEX_Y=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9379427/original/081798900_1792619598-inter_2.jpg",
-   "penulis": null,
-   "id": "69cce3fcfd13",
-   "kategori": [
-    "Liga Italia"
-   ]
-  },
-  {
-   "judul": "Shin Tae-yong Murka Lihat Kondisi Rumput JIS: Tak Layak untuk Pertandingan Sepak Bola!",
-   "link": "https://www.inews.id/sport/soccer/shin-tae-yong-murka-lihat-kondisi-rumput-jis-tak-layak-untuk-pertandingan-sepak-bola",
-   "sumber": "iNews",
-   "waktu": "2026-10-27T03:50:00Z",
-   "ringkasan": "Shin Tae-yong mengecam buruknya kondisi rumput Jakarta International Stadium (JIS) usai Persija mengalahkan Persik Kediri 2-1.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/26/pelatih_persija_jakarta_shin_tae_yong.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/26/pelatih_persija_jakarta_shin_tae_yong.jpg",
-   "penulis": "Abdul Haris",
-   "id": "99ea0f67a96e",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Prediksi Milan vs Bologna: Tren Positif Rossoneri",
-   "link": "https://www.liputan6.com/bola/read/8321998/prediksi-milan-vs-bologna-tren-positif-rossoneri",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-27T03:43:01Z",
-   "ringkasan": "Prediksi Milan vs Bologna di Serie A 2026-27. AC Milan mengincar kemenangan ketiga beruntun, sementara Bologna berusaha melanjutkan tren positif.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/vNhttkp8I_UWE8h7MNXyg2Iv-Sk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9382123/original/035568600_1792964911-pulisic.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/7f0l7L5iAv_T8YKchnM1FOK_1PQ=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9382123/original/035568600_1792964911-pulisic.jpg",
-   "penulis": null,
-   "id": "df75c280ebe9",
-   "kategori": [
-    "Liga Italia"
-   ]
-  },
-  {
-   "judul": "Klasemen Akhir Grup G Piala Dunia U-15: Indonesia Posisi 3, Hajar Burundi 6-1",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8725688/klasemen-akhir-grup-g-piala-dunia-u-15-indonesia-posisi-3-hajar-burundi-6-1",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T03:40:10Z",
-   "ringkasan": "Indonesia U-15 menang 6-1 atas Burundi dan finis ketiga klasemen akhir Grup G Piala Dunia U-15 2026 dengan tujuh poin, lolos ke Tier C.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/22/timnas-indonesia-u-15-di-fifa-u-15-world-cup-and-festival-2026-dok-timnasindonesia-1792662463310_169.webp?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/22/timnas-indonesia-u-15-di-fifa-u-15-world-cup-and-festival-2026-dok-timnasindonesia-1792662463310_169.webp?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Kris FW",
-   "id": "60983ae37680",
-   "kategori": []
-  },
-  {
-   "judul": "Rizky Ridho Bongkar Instruksi STY di Ruang Ganti, Persija Langsung Comeback Lawan Persik!",
-   "link": "https://www.inews.id/sport/soccer/rizky-ridho-bongkar-instruksi-sty-di-ruang-ganti-persija-langsung-comeback-lawan-persik",
-   "sumber": "iNews",
-   "waktu": "2026-10-27T03:27:00Z",
-   "ringkasan": "Rizky Ridho mengungkap instruksi Shin Tae-yong di ruang ganti yang membantu Persija Jakarta bangkit dan mengalahkan Persik Kediri 2-1.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/27/bek_persija_jakarta_rizky_ridho.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/27/bek_persija_jakarta_rizky_ridho.jpg",
-   "penulis": "Abdul Haris",
-   "id": "31d4b238d195",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Bobotoh Tewas Dibacok di Bogor, Manajemen Persib Minta Suporter Tak Ada Aksi Balas Dendam",
-   "link": "https://www.viva.co.id/bola/1938904-bobotoh-tewas-dibacok-di-bogor-manajemen-persib-minta-suporter-tak-ada-aksi-balas-dendam",
-   "sumber": "VIVA",
-   "waktu": "2026-10-27T03:23:43Z",
-   "ringkasan": "Bobotoh tewas dibacok di Bogor usai laga Persib kontra Garudayaksa FC. Manajemen Persib meminta suporter menahan diri dan tidak melakukan aksi balasan.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/26/6adf1d451bd9e-bobotoh-asal-bogor-berusia-16-tahun-berinsial-ark-tewas-mengenaskan-di-jalan-raya-jakarta-bogor_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/26/6adf1d451bd9e-bobotoh-asal-bogor-berusia-16-tahun-berinsial-ark-tewas-mengenaskan-di-jalan-raya-jakarta-bogor_gemini_1265_711.jpg",
-   "penulis": "Abdul Aziz Masindo",
-   "id": "27ac6419185d",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Ballon d'Or 2026 Cetak Sejarah! Harry Kane Menang Kalahkan Mbappe & Yamal: Saya Bukan Orang ...",
-   "link": "https://enamplus.liputan6.com/bola/read/8321958/ballon-dor-2026-cetak-sejarah-harry-kane-menang-kalahkan-mbappe-amp-yamal-saya-bukan-orang",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-27T03:22:18Z",
-   "ringkasan": "Penyerang Bayern Muenchen dan tim nasional Inggris, Harry Kane, resmi memenangkan penghargaan Ballon d'Or 2026 kategori Putra. Kane meraih trofi bola emas pertamanya setelah menorehkan performa luar biasa dengan mencetak total 73 gol sepanjang musim 2025/2026 untuk klub dan negaranya. Upacara penghargaan edisi ke-70 ini berlangsung di London Palladium, Inggris, pada Selasa, 27 Oktober 2026 pagi…",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/FrdRPsd7l_w_P9Ax_O4h1a1PMaQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9383120/original/001776300_1793071337-ballon-94d5b0.png",
-   "gambar_besar": null,
-   "penulis": null,
-   "id": "08243b77d796",
-   "kategori": [
-    "Liga Jerman"
-   ]
-  },
-  {
-   "judul": "Kane Menang Ballon d'Or 2026, Kerajaan Inggris Ucapkan Selamat",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725606/kane-menang-ballon-dor-2026-kerajaan-inggris-ucapkan-selamat",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T03:20:00Z",
-   "ringkasan": "Kerajaan Inggris turut bersuka cita atas keberhasilan Harry Kane memenangkan Ballon d'Or 2026. Pangeran William menyelamati bomber Bayern Munich itu.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-1793057262587_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793057262587_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Adhi Prasetya",
-   "id": "990fffdbff79",
-   "kategori": [
-    "Liga Jerman"
-   ]
-  },
-  {
-   "judul": "Yamal: Trofi Pemain Muda Terbaik Seharusnya untuk Cubarsi",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725593/yamal-trofi-pemain-muda-terbaik-seharusnya-untuk-cubarsi",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T03:00:45Z",
-   "ringkasan": "Lamine Yamal dinobatkan sebagai Pemain Muda Terbaik dalam seremoni Ballon d'Or 2026. Namun, Yamal menyebut trofi ini seharusnya diberikan kepada Pau Cubarsi.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/lamine-yamal-pau-cubarsi-1793064380659_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/lamine-yamal-pau-cubarsi-1793064380659_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "86df958d7333",
-   "kategori": []
-  },
-  {
-   "judul": "Janice Tjen Menang Bareng Venus Williams di Guangzhou Open 2026, Ungkap Momen Tak Terlupakan!",
-   "link": "https://www.inews.id/sport/soccer/janice-tjen-menang-bareng-venus-williams-di-guangzhou-open-2026-ungkap-momen-tak-terlupakan",
-   "sumber": "iNews",
-   "waktu": "2026-10-27T02:58:00Z",
-   "ringkasan": "Janice Tjen mengungkapkan momen tak terlupakan setelah menang bersama Venus Williams dan melaju ke perempat final Guangzhou Open 2026.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/27/petenis_indonesia_janice_tjen_bersama_legenda_teni.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/27/petenis_indonesia_janice_tjen_bersama_legenda_teni.jpg",
-   "penulis": "Abdul Haris",
-   "id": "b8286b2a037b",
-   "kategori": []
-  },
-  {
-   "judul": "STY dan Rizky Ridho Kompak Kritik Keras Lapangan JIS, Singgung Hal yang Tak Seharusnya Terjadi",
-   "link": "https://www.viva.co.id/bola/1938892-sty-dan-rizky-ridho-kompak-kritik-keras-lapangan-jis-singgung-hal-yang-tak-seharusnya-terjadi",
-   "sumber": "VIVA",
-   "waktu": "2026-10-27T02:43:54Z",
-   "ringkasan": "Shin Tae-yong dan Rizky Ridho kompak mengkritik kondisi rumput JIS usai Persija comeback 2-1 atas Persik. Keduanya menilai lapangan menghambat permainan tim.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/16/6a30cdb9b7498-pelatih-baru-persija-jakarta-shin-tae-yong_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/16/6a30cdb9b7498-pelatih-baru-persija-jakarta-shin-tae-yong_gemini_1265_711.jpg",
-   "penulis": "Abdul Aziz Masindo",
-   "id": "b2c6d131fee4",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Barcelona Kalah El Clasico, Xavi Espart Cedera",
-   "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-8725576/barcelona-kalah-el-clasico-xavi-espart-cedera",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T02:40:00Z",
-   "ringkasan": "Sudah kalah dari Real Madrid di Liga Spanyol, kini Barcelona harus kehilangan Xavi Espart untuk sementara waktu akibat cedera. Stok bek menipis.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/xavi-espart-1793036422848_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/xavi-espart-1793036422848_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Adhi Prasetya",
-   "id": "69556599166c",
-   "kategori": [
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Ballon d'Or 2026 Sempat Kacau! Kane, Mbappe dan Yamal Muncul sebagai Pemenang sebelum Acara Dimulai",
-   "link": "https://www.inews.id/sport/soccer/ballon-dor-2026-sempat-kacau-kane-mbappe-dan-yamal-muncul-sebagai-pemenang-sebelum-acara-dimulai",
-   "sumber": "iNews",
-   "waktu": "2026-10-27T02:32:00Z",
-   "ringkasan": "Ballon d'Or 2026 sempat kacau setelah Harry Kane, Kylian Mbappe, dan Lamine Yamal muncul sebagai pemenang sebelum acara, hingga panitia buka suara.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/27/harry_kane.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/27/harry_kane.jpg",
-   "penulis": "Abdul Haris",
-   "id": "3de7a11e900e",
-   "kategori": []
-  },
-  {
-   "judul": "Daftar Lengkap Peringkat Ballon d'Or 2026: Kane Pertama, Mbappe Kedua",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725574/daftar-lengkap-peringkat-ballon-dor-2026-kane-pertama-mbappe-kedua",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T02:20:00Z",
-   "ringkasan": "Berikut urutan lengkap peringkat Ballon d'O 2026, dengan Harry Kane menjadi orang Inggris pertama yang memenangkan penghargaan ini dalam 25 tahun terakhir.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-1793063425801_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793063425801_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Adhi Prasetya",
-   "id": "8cc9eb9bd413",
-   "kategori": []
-  },
-  {
-   "judul": "Carabao Cup: Chelsea Ingin Jadikan Liverpool Pelampiasan",
-   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8725567/carabao-cup-chelsea-ingin-jadikan-liverpool-pelampiasan",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T02:00:39Z",
-   "ringkasan": "Chelsea bertekad bangkit kala menghadapi Liverpool di Carabao Cup. The Blues mencari penebusan usai dikalahkan Tottenham Hotspur.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/09/13/chelsea-1789255243591_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/13/chelsea-1789255243591_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "4e4a950a822d",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Harry Kane Sabet Ballon d’Or 2026, Singkirkan Mbappe dan Yamal",
-   "link": "https://www.viva.co.id/bola/1938882-harry-kane-sabet-ballon-dor-2026-singkirkan-mbappe-dan-yamal",
-   "sumber": "VIVA",
-   "waktu": "2026-10-27T02:00:00Z",
-   "ringkasan": "Harry Kane memenangkan Ballon d’Or 2026 setelah mencetak 73 gol bersama Bayern Munich dan Timnas Inggris, mengalahkan Kylian Mbappe serta Lamine Yamal di London.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6ae003d6aefd3-harry-kane-sabet-ballon-dor-2026_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6ae003d6aefd3-harry-kane-sabet-ballon-dor-2026_gemini_1265_711.jpg",
-   "penulis": "Abdul Aziz Masindo",
-   "id": "215c0c23f83c",
-   "kategori": [
-    "Liga Jerman"
-   ]
-  },
-  {
-   "judul": "Kisah Beckham Putra di Balik Layar Timnas Indonesia, dari Debut hingga Mimpi ke Piala Dunia",
-   "link": "https://enamplus.liputan6.com/bola/read/8321913/kisah-beckham-putra-di-balik-layar-timnas-indonesia-dari-debut-hingga-mimpi-ke-piala-dunia",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-27T01:58:17Z",
-   "ringkasan": "Film dokumenter The Longest Wait merekam perjalanan Timnas Indonesia dalam perjuangan menuju Piala Dunia 2026, termasuk pengorbanan, kerja keras, dan kisah di balik layar para pemain. Dalam episode spesial Bola Break, Beckham Putra Nugraha berbagi cerita tentang kebanggaannya menjadi bagian dari Timnas Indonesia, momen debut yang mewujudkan mimpi masa kecil, hingga pengalaman belajar dari…",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/VnECbZcQmobgC6avbJUJKRt-CEY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9383049/original/022611100_1793066296-live-tak-terduga-beckham-putra-blak-blakan-di-balik-timnas-indonesia-hingga-piala-dunia-ab8cf5.jpg",
-   "gambar_besar": null,
-   "penulis": null,
-   "id": "fecd0b8f5b41",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Ballon d'Or: Tuchel Senang Akhirnya Kehebatan Kane Dapat Pengakuan",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725575/ballon-dor-tuchel-senang-akhirnya-kehebatan-kane-dapat-pengakuan",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T01:40:56Z",
-   "ringkasan": "Manajer timnas Inggris Thomas Tuchel gembira Harry Kane memenangi Ballon d'Or 2026. Tuchel menilai kehebatan Kane memang seharusnya mendapat pengakuan.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-thomas-tuchel-1793063050594_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-thomas-tuchel-1793063050594_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "09b7bc979f04",
-   "kategori": []
-  },
-  {
-   "judul": "Striker Berdarah Indonesia Markus Pall Ellertsson Bersinar di Eropa, Jadi Calon Senjata Baru Timnas Indonesia?",
-   "link": "https://www.viva.co.id/bola/1938878-striker-berdarah-indonesia-markus-pall-ellertsson-bersinar-di-eropa-jadi-calon-senjata-baru-timnas-indonesia",
-   "sumber": "VIVA",
-   "waktu": "2026-10-27T01:30:00Z",
-   "ringkasan": "Markus Pall Ellertsson mencetak 15 gol bersama IA Akranes pada 2026. Simak profil striker berdarah Indonesia, perjalanan karier di Eropa, dan peluangnya memperkuat Garuda",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/20/6ad6532526644-markus-pall-ellertsson_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/20/6ad6532526644-markus-pall-ellertsson_gemini_1265_711.jpg",
-   "penulis": "Abdul Aziz Masindo",
-   "id": "0a879d093622",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Dapat Ballon d'Or 2026, Harry Kane: Ternyata Sudah Sejauh Ini",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725565/dapat-ballon-dor-2026-harry-kane-ternyata-sudah-sejauh-ini",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T01:20:17Z",
-   "ringkasan": "Harry Kane tak menyangka bisa meraih trofi Ballon d'Or. Dia meraih pencapaian ini setelah mengalami periode pasang surut.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-1793063138789_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793063138789_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya",
-   "id": "d2c646f40783",
-   "kategori": []
-  },
-  {
-   "judul": "Daftar Lengkap Pemenang Ballon d'Or 2026: Spanyol Borong Penghargaan!",
-   "link": "https://www.inews.id/sport/soccer/daftar-lengkap-pemenang-ballon-dor-2026-spanyol-borong-penghargaan",
-   "sumber": "iNews",
-   "waktu": "2026-10-27T01:20:00Z",
-   "ringkasan": "Daftar lengkap pemenang Ballon d'Or 2026, Harry Kane mengukir sejarah 25 tahun, Alexia Putellas meraih trofi ketiga, dan Spanyol mendominasi.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/27/harry_kane_dan_alexia_putellas_meraih_penghargaan.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/27/harry_kane_dan_alexia_putellas_meraih_penghargaan.jpg",
-   "penulis": "Abdul Haris",
-   "id": "6dadebda5710",
-   "kategori": []
-  },
-  {
-   "judul": "MU Kuat Mental Kalau Mau Dilatih Conte?",
-   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8725534/mu-kuat-mental-kalau-mau-dilatih-conte",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T01:05:12Z",
-   "ringkasan": "Antonio Conte disebut-sebut bakal menggantikan Michael Carrick di Manchester United. Ashley Young merasa kehadiran Conte bisa menjadi bencana untuk pemain MU.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/05/16/antonio-conte-1747380119719_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/05/16/antonio-conte-1747380119719_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya",
-   "id": "8fce80cc5721",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Rizky Ridho Ungkap Kunci Kebangkitan Persija Tekuk Persik, Instruksi Shin Tae-yong Jadi Penentu",
-   "link": "https://www.viva.co.id/bola/1938874-rizky-ridho-ungkap-kunci-kebangkitan-persija-tekuk-persik-instruksi-shin-tae-yong-jadi-penentu",
-   "sumber": "VIVA",
-   "waktu": "2026-10-27T01:00:00Z",
-   "ringkasan": "Rizky Ridho mengungkap instruksi Shin Tae-yong yang membakar semangat Persija saat bangkit mengalahkan Persik 2-1 di JIS dan mengomentari kondisi lapangan.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6adff6a719346-kapten-persija-rizky-ridho_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6adff6a719346-kapten-persija-rizky-ridho_gemini_1265_711.jpg",
-   "penulis": "Abdul Aziz Masindo",
-   "id": "1e079f59191b",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Harry Kane Dulu Nirgelar di Tottenham, Kini Raih Ballon d'Or",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725533/harry-kane-dulu-nirgelar-di-tottenham-kini-raih-ballon-dor",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T00:43:36Z",
-   "ringkasan": "Harry Kane memenangi Ballon d'Or 2026. Perjalanan panjang dilewati Kane yang dulu bahkan tak mendapat satu gelar pun selama di Tottenham Hotspur.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-1793059669695_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793059669695_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "feb51ca4adf0",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Harry Kane Akhiri Penantian 25 Tahun Pemain Inggris Raih Ballond'Or",
-   "link": "https://sports.sindonews.com/read/1765077/11/harry-kane-akhiri-penantian-25-tahun-pemain-inggris-raih-ballondor-1793059804",
-   "sumber": "SINDOnews",
-   "waktu": "2026-10-27T00:27:16Z",
-   "ringkasan": "Harry Kane mengakhiri penantian panjang sepak bola Inggris untuk kembali memiliki pemenang Ballon dOr. Penyerang Bayern Munich itu meraih penghargaan individu paling bergengsi",
-   "gambar": "https://pict.sindonews.com/dyn/850/pena/news/2026/10/27/11/1765077/harry-kane-akhiri-penantian-25-tahun-pemain-inggris-raih-ballondor-mpv.jpg",
-   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/10/27/11/1765077/harry-kane-akhiri-penantian-25-tahun-pemain-inggris-raih-ballondor-mpv.jpg",
-   "penulis": null,
-   "id": "fa9a4914259b",
-   "kategori": [
-    "Liga Jerman"
-   ]
-  },
-  {
-   "judul": "PSS Sleman vs Borneo FC: Misi Bangkit di Maguwoharjo",
-   "link": "https://www.liputan6.com/bola/read/8321807/pss-sleman-vs-borneo-fc-misi-bangkit-di-maguwoharjo",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-27T00:20:25Z",
-   "ringkasan": "PSS Sleman memburu tiga poin saat menjamu Borneo FC di Maguwoharjo, Selasa (27/10/2026).",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/oo4Sn9kksa7oZ9rXsutTU-zs7R0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9377078/original/012489900_1792404433-pss.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/Y0NmjJvtykZdlpyRGvPI5cLNwJI=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9377078/original/012489900_1792404433-pss.jpg",
-   "penulis": null,
-   "id": "480f51c38cea",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Lamine Yamal Ukir Sejarah, 3 Kali Beruntun Raih Trofi Kopa, Penerus Lionel Messi?",
-   "link": "https://www.viva.co.id/bola/1938871-lamine-yamal-ukir-sejarah-3-kali-beruntun-jadi-pemain-muda-terbaik-ballon-dor-penerus-lionel-messi",
-   "sumber": "VIVA",
-   "waktu": "2026-10-27T00:14:43Z",
-   "ringkasan": "Lamine Yamal meraih penghargaan Pemain Muda Terbaik Ballon d’Or 2026 untuk ketiga kalinya beruntun. Bintang Barcelona ini juga membawa Spanyol menjuarai Piala Dunia 2026",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6adfecc9ec9be-lamine-yamal-ukir-sejarah-3-kali-beruntun-jadi-pemain-muda-terbaik-ballon-dor_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6adfecc9ec9be-lamine-yamal-ukir-sejarah-3-kali-beruntun-jadi-pemain-muda-terbaik-ballon-dor_gemini_1265_711.jpg",
-   "penulis": "Abdul Aziz Masindo",
-   "id": "5a1d8e965fe1",
-   "kategori": [
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Sabet Ballon d'Or 2026, Harry Kane: Terima Kasih, Tottenham!",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725511/sabet-ballon-dor-2026-harry-kane-terima-kasih-tottenham",
-   "sumber": "detikSport",
-   "waktu": "2026-10-27T00:00:30Z",
-   "ringkasan": "Harry Kane menjadi pemenang trofi Ballon d'Or 2026. Dia menegaskan keberhasilan ini tak akan terjadi tanpa Tottenham Hotspur.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-1793057262587_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793057262587_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya",
-   "id": "d6022536ba81",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Kiper Terlupakan Manchester United Punya Peminat Baru",
-   "link": "https://www.liputan6.com/bola/read/8321824/kiper-terlupakan-manchester-united-punya-peminat-baru",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-27T00:00:14Z",
-   "ringkasan": "Andre Onana masih terikat kontrak di Manchester United hingga 2028.",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/F6rB9aMCeCQ8JNs7Jb9_H-O02pU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4823856/original/030558000_1715043794-AP24127734702503.jpg",
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/iyU6cZv3f1S8Y4smUpZe7YrIhug=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4823856/original/030558000_1715043794-AP24127734702503.jpg",
-   "penulis": null,
-   "id": "e4d37c4bae6a",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Live RCTI! Jadwal Persib Vs Melbourne Victory di ACL 2 2026",
-   "link": "https://www.inews.id/sport/soccer/live-rcti-jadwal-persib-vs-melbourne-victory-di-acl-2-2026",
-   "sumber": "iNews",
-   "waktu": "2026-10-26T23:45:00Z",
-   "ringkasan": "Jadwal Persib vs Melbourne Victory di ACL 2 2026/2027",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/16/penyerang_persib_bandung_mariano_peralta.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/16/penyerang_persib_bandung_mariano_peralta.jpg",
-   "penulis": "Reynaldi Hermawan",
-   "id": "8dd1fd766666",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Daftar Lengkap Pemenang Gala Ballon d'Or 2026",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725518/daftar-lengkap-pemenang-gala-ballon-dor-2026",
-   "sumber": "detikSport",
-   "waktu": "2026-10-26T23:30:00Z",
-   "ringkasan": "Berikut daftar lengkap pemenang penghargaan dalam gala Ballon d'Or 2026. Spanyol meraih delapan gelar, namun trofi paling bergengsi jatuh kepada Harry Kane.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/harry-kane-1793056854406_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/harry-kane-1793056854406_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Adhi Prasetya",
-   "id": "3cd91f4449c3",
-   "kategori": []
-  },
-  {
-   "judul": "Kata-kata Berkelas Shin Tae-yong Usai Persija Comeback Tekuk Persik, Soroti Masalah Lapangan JIS",
-   "link": "https://www.viva.co.id/bola/1938867-kata-kata-berkelas-shin-tae-yong-usai-persija-comeback-tekuk-persik-soroti-masalah-lapangan-jis",
-   "sumber": "VIVA",
-   "waktu": "2026-10-26T23:26:23Z",
-   "ringkasan": "Kata-kata berkelas Shin Tae-yong usai Persija comeback tekuk Persik 2-1 di JIS. Shin memuji mental pemain, tetapi menyoroti kondisi lapangan yang buruk.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/11/677c529d9a480-shin-tae-yong-sty_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/11/677c529d9a480-shin-tae-yong-sty_1265_711.jpg",
-   "penulis": "Abdul Aziz Masindo",
-   "id": "11d90dad8cfd",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "BREAKING NEWS: Harry Kane Raih Ballon d'Or 2026, Ukir Sejarah 25 Tahun",
-   "link": "https://www.inews.id/sport/soccer/breaking-news-harry-kane-raih-ballon-dor-2026-ukir-sejarah-25-tahun",
-   "sumber": "iNews",
-   "waktu": "2026-10-26T23:06:00Z",
-   "ringkasan": "Harry Kane meraih Ballon d'Or 2026, mengakhiri penantian Inggris selama 25 tahun, dan mengirim pesan khusus untuk Vincent Kompany.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/27/harry_kane_menerima_penghargaan_ballon_dor_2026_d.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/27/harry_kane_menerima_penghargaan_ballon_dor_2026_d.jpg",
-   "penulis": "Abdul Haris",
-   "id": "ecef6f4c8bcb",
-   "kategori": []
-  },
-  {
-   "judul": "Harry Kane Raih Trofi Ballon d'Or 2026",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725505/harry-kane-raih-trofi-ballon-dor-2026",
-   "sumber": "detikSport",
-   "waktu": "2026-10-26T23:01:05Z",
-   "ringkasan": "Harry Kane berhasil meraih penghargaan Ballon d'Or 2026. Dia sebelumnya sudah menyabet Trofi Gerd Muller atau Striker Terbaik 2026.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/07/02/harry-kane-1782985797990_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/07/02/harry-kane-1782985797990_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya",
-   "id": "74c6655b8031",
-   "kategori": []
-  },
-  {
-   "judul": "Harry Kane Raih Ballon d'Or 2026, Alexia Putellas Juara Kategori Putri",
-   "link": "https://sports.sindonews.com/read/1765061/11/harry-kane-raih-ballon-dor-2026-alexia-putellas-juara-kategori-putri-1793052618",
-   "sumber": "SINDOnews",
-   "waktu": "2026-10-26T22:57:07Z",
-   "ringkasan": "Harry Kane dinobatkan sebagai pemenang Ballon dOr 2026 dalam seremoni penghargaan edisi ke-70 yang berlangsung di London Palladium Theatre, Selasa (27/10/2026).",
-   "gambar": "https://pict.sindonews.com/dyn/850/pena/news/2026/10/27/11/1765061/harry-kane-raih-ballon-dor-2026-alexia-putellas-juara-kategori-putri-ngn.jpg",
-   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/10/27/11/1765061/harry-kane-raih-ballon-dor-2026-alexia-putellas-juara-kategori-putri-ngn.jpg",
-   "penulis": null,
-   "id": "83d69b0601c0",
-   "kategori": []
-  },
-  {
-   "judul": "Safonov Tampil Gemilang, PSG Rebut Puncak Klasemen Setelah Hajar Lyon 2-0",
-   "link": "https://www.viva.co.id/bola/1938866-safonov-tampil-gemilang-psg-rebut-puncak-klasemen-setelah-hajar-lyon-2-0",
-   "sumber": "VIVA",
-   "waktu": "2026-10-26T22:53:53Z",
-   "ringkasan": "Paris Saint-Germain (PSG) naik ke puncak klasemen dengan 17 poin setelah kemenangan 2-0 atas Lyon pada pekan kedelapan Liga Prancis 2026/27 di Parc des Princes, Selasa",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/18/6a09fbaf5c2d7-matvey-safonov-kiper-paris-saint-germain_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/05/18/6a09fbaf5c2d7-matvey-safonov-kiper-paris-saint-germain_gemini_1265_711.jpg",
-   "penulis": "Bajo Winarno",
-   "id": "ac3455295db1",
-   "kategori": []
-  },
-  {
-   "judul": "Harry Kane Sabet Trofi Gerd Muller 2026",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725494/harry-kane-sabet-trofi-gerd-muller-2026",
-   "sumber": "detikSport",
-   "waktu": "2026-10-26T22:41:03Z",
-   "ringkasan": "Harry Kane meraih penghargaan di malam seremoni Ballon d'Or 2026. Pria berusia 33 tahun itu memenangkan penghargaan Striker Terbaik Pria.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/07/harry-kane-1791338291894_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/07/harry-kane-1791338291894_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya",
-   "id": "c535b557ca4e",
-   "kategori": []
-  },
-  {
-   "judul": "Ballon d'Or: Luis de la Fuente Pelatih Terbaik 2026",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725493/ballon-dor-luis-de-la-fuente-pelatih-terbaik-2026",
-   "sumber": "detikSport",
-   "waktu": "2026-10-26T22:33:20Z",
-   "ringkasan": "Luis de la Fuente meraih Johan Cruyff Trophy dalam malam penghargaan Ballon d'Or 2026. Ia dinobatkan sebagai Pelatih Terbaik 2026.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/luis-de-la-fuente-1793053908022_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/luis-de-la-fuente-1793053908022_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "989fae6f871d",
-   "kategori": []
-  },
-  {
-   "judul": "JJ Gabriel Tidak Bisa Langsung Tinggalkan Manchester United, Ini Penyebabnya",
-   "link": "https://www.liputan6.com/bola/read/8321822/jj-gabriel-tidak-bisa-langsung-tinggalkan-manchester-united-ini-penyebabnya",
-   "sumber": "Liputan6",
-   "waktu": "2026-10-26T22:30:25Z",
-   "ringkasan": "JJ Gabriel semula ingin segera meninggalkan Manchester United.",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/up6UPevW_QxqtBpTpAMTwAa52o8=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9304346/original/002496100_1784713022-JJ_Gabriel.jpg",
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/YCQ0GUXUiENv9qos1k9V63HReFk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9304346/original/002496100_1784713022-JJ_Gabriel.jpg",
-   "penulis": null,
-   "id": "a1950f34c6be",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Pelatih Timnas Spanyol Luis de la Fuente Raih Penghargaan Ballon d'Or 2026",
-   "link": "https://www.inews.id/sport/soccer/pelatih-timnas-spanyol-luis-de-la-fuente-raih-penghargaan-ballon-dor-2026",
-   "sumber": "iNews",
-   "waktu": "2026-10-26T22:28:00Z",
-   "ringkasan": "Luis de la Fuente meraih penghargaan pelatih terbaik Ballon d'Or 2026 setelah membawa Timnas Spanyol juara Piala Dunia. Simak perjalanan kariernya.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/27/luis_de_la_fuente.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/27/luis_de_la_fuente.jpg",
-   "penulis": "Abdul Haris",
-   "id": "7341afd2d197",
-   "kategori": []
-  },
-  {
-   "judul": "Agresif, Lawan Burundi Timnas U15 Indonesia Buat Hujan Gol 6-1",
-   "link": "https://www.viva.co.id/bola/1938864-agresif-lawan-burundi-timnas-u15-indonesia-buat-hujan-gol",
-   "sumber": "VIVA",
-   "waktu": "2026-10-26T22:03:52Z",
-   "ringkasan": "Tampil agresif sejak awal pertandingan dan mampu mendominasi jalannya laga, Timnas U15 Indonesia pesta gol saat mengalahkan Burundi 6-1 dalam lanjutan Grup G Piala Dunia",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6adfcbcf50e4f-timnas-u15-indonesia-pesta-gol-saat-mengalahkan-burundi-6-1_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/27/6adfcbcf50e4f-timnas-u15-indonesia-pesta-gol-saat-mengalahkan-burundi-6-1_gemini_1265_711.jpg",
-   "penulis": "Bajo Winarno",
-   "id": "99889111d1b2",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Lamine Yamal Pemain Muda Terbaik 2026",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725488/lamine-yamal-pemain-muda-terbaik-2026",
-   "sumber": "detikSport",
-   "waktu": "2026-10-26T22:00:14Z",
-   "ringkasan": "Lamine Yamal meraih penghargaan dalam acara Ballon d'or 2026. Dia dinobatkan sebagai Pemain Muda Terbaik.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/09/30/lamine-yamal-1790725845152_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/30/lamine-yamal-1790725845152_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Randy Prasatya",
-   "id": "bc25abc8f511",
-   "kategori": []
-  },
-  {
-   "judul": "PSG Vs Lyon: Les Parisiens Menang di Malam Anugerah Ballon d'Or",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8725486/psg-vs-lyon-les-parisiens-menang-di-malam-anugerah-ballon-dor",
-   "sumber": "detikSport",
-   "waktu": "2026-10-26T21:46:54Z",
-   "ringkasan": "Paris Saint-Germain mengalahkan Lyon 2-0 pada pekan kedelapan Liga Prancis musim ini. Tambahan tiga poin membawa Les Parisiens ke puncak klasemen sementara.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/psg-1793051167599_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/psg-1793051167599_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Adhi Prasetya",
-   "id": "1534b90b4197",
    "kategori": []
   }
  ]
