@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-02T21:43:10Z",
+ "diperbarui": "2026-11-03T06:44:29Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -2176,7 +2176,7 @@
      "id": "fd-560622",
      "waktu": "2026-11-02T20:00:00Z",
      "jam_pasti": true,
-     "status": "berlangsung",
+     "status": "selesai",
      "kandang": "fd-67",
      "tamu": "fd-62",
      "skor": [
@@ -2724,6 +2724,20 @@
     },
     {
      "posisi": 8,
+     "tim": "fd-560",
+     "main": 11,
+     "menang": 3,
+     "seri": 5,
+     "kalah": 3,
+     "gm": 15,
+     "gk": 14,
+     "sg": 1,
+     "poin": 14,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 9,
      "tim": "fd-94",
      "main": 11,
      "menang": 3,
@@ -2731,20 +2745,6 @@
      "kalah": 5,
      "gm": 15,
      "gk": 15,
-     "sg": 0,
-     "poin": 12,
-     "form": [],
-     "grup": null
-    },
-    {
-     "posisi": 9,
-     "tim": "fd-560",
-     "main": 11,
-     "menang": 2,
-     "seri": 6,
-     "kalah": 3,
-     "gm": 14,
-     "gk": 14,
      "sg": 0,
      "poin": 12,
      "form": [],
@@ -2808,20 +2808,6 @@
     },
     {
      "posisi": 14,
-     "tim": "fd-79",
-     "main": 11,
-     "menang": 3,
-     "seri": 3,
-     "kalah": 5,
-     "gm": 11,
-     "gk": 21,
-     "sg": -10,
-     "poin": 12,
-     "form": [],
-     "grup": null
-    },
-    {
-     "posisi": 15,
      "tim": "fd-80",
      "main": 11,
      "menang": 3,
@@ -2830,6 +2816,20 @@
      "gm": 13,
      "gk": 14,
      "sg": -1,
+     "poin": 11,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 15,
+     "tim": "fd-79",
+     "main": 11,
+     "menang": 3,
+     "seri": 2,
+     "kalah": 6,
+     "gm": 11,
+     "gk": 22,
+     "sg": -11,
      "poin": 11,
      "form": [],
      "grup": null
@@ -3582,10 +3582,13 @@
      "id": "fd-564731",
      "waktu": "2026-11-02T20:00:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-560",
      "tamu": "fd-79",
-     "skor": null,
+     "skor": [
+      2,
+      1
+     ],
      "stadion": "",
      "pekan": 11
     },
