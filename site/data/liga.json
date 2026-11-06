@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-06T06:36:07Z",
+ "diperbarui": "2026-11-06T16:46:12Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -10,6 +10,46 @@
    "klasemen": [
     {
      "posisi": 1,
+     "tim": "idn-dewa-united-banten",
+     "main": 9,
+     "menang": 6,
+     "seri": 2,
+     "kalah": 1,
+     "gm": 16,
+     "gk": 12,
+     "sg": 4,
+     "poin": 20,
+     "form": [
+      "S",
+      "M",
+      "K",
+      "M",
+      "M"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 2,
+     "tim": "idn-madura-united",
+     "main": 9,
+     "menang": 6,
+     "seri": 1,
+     "kalah": 2,
+     "gm": 16,
+     "gk": 10,
+     "sg": 6,
+     "poin": 19,
+     "form": [
+      "S",
+      "M",
+      "K",
+      "M",
+      "M"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 3,
      "tim": "idn-persija-jakarta",
      "main": 8,
      "menang": 6,
@@ -29,27 +69,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 2,
-     "tim": "idn-dewa-united-banten",
-     "main": 8,
-     "menang": 5,
-     "seri": 2,
-     "kalah": 1,
-     "gm": 14,
-     "gk": 11,
-     "sg": 3,
-     "poin": 17,
-     "form": [
-      "M",
-      "S",
-      "M",
-      "K",
-      "M"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 3,
+     "posisi": 4,
      "tim": "idn-bali-united",
      "main": 8,
      "menang": 5,
@@ -69,7 +89,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 4,
+     "posisi": 5,
      "tim": "idn-persib-bandung",
      "main": 8,
      "menang": 5,
@@ -84,26 +104,6 @@
       "M",
       "K",
       "M",
-      "M"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 5,
-     "tim": "idn-madura-united",
-     "main": 8,
-     "menang": 5,
-     "seri": 1,
-     "kalah": 2,
-     "gm": 13,
-     "gk": 10,
-     "sg": 3,
-     "poin": 16,
-     "form": [
-      "K",
-      "S",
-      "M",
-      "K",
       "M"
      ],
      "potong_poin": 0
@@ -210,26 +210,6 @@
     },
     {
      "posisi": 11,
-     "tim": "idn-arema",
-     "main": 8,
-     "menang": 2,
-     "seri": 3,
-     "kalah": 3,
-     "gm": 17,
-     "gk": 17,
-     "sg": 0,
-     "poin": 9,
-     "form": [
-      "S",
-      "K",
-      "K",
-      "M",
-      "K"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 12,
      "tim": "idn-borneo-fc-samarinda",
      "main": 7,
      "menang": 3,
@@ -244,6 +224,26 @@
       "M",
       "K",
       "M",
+      "K"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 12,
+     "tim": "idn-arema",
+     "main": 9,
+     "menang": 2,
+     "seri": 3,
+     "kalah": 4,
+     "gm": 17,
+     "gk": 20,
+     "sg": -3,
+     "poin": 9,
+     "form": [
+      "K",
+      "K",
+      "M",
+      "K",
       "K"
      ],
      "potong_poin": 0
@@ -291,20 +291,20 @@
     {
      "posisi": 15,
      "tim": "idn-psim-yogyakarta",
-     "main": 8,
+     "main": 9,
      "menang": 1,
      "seri": 2,
-     "kalah": 5,
-     "gm": 5,
-     "gk": 12,
-     "sg": -7,
+     "kalah": 6,
+     "gm": 6,
+     "gk": 14,
+     "sg": -8,
      "poin": 5,
      "form": [
       "K",
       "K",
-      "K",
       "S",
-      "M"
+      "M",
+      "K"
      ],
      "potong_poin": 0
     },
@@ -931,22 +931,28 @@
     },
     {
      "id": "idn-2026-11-06-idn-psim-yogyakarta-idn-dewa-united-banten",
-     "waktu": "2026-11-06T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-05T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-psim-yogyakarta",
      "tamu": "idn-dewa-united-banten",
-     "skor": null,
+     "skor": [
+      1,
+      2
+     ],
      "stadion": "Sultan Agung"
     },
     {
      "id": "idn-2026-11-06-idn-madura-united-idn-arema",
-     "waktu": "2026-11-06T12:00:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-05T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-madura-united",
      "tamu": "idn-arema",
-     "skor": null,
+     "skor": [
+      3,
+      0
+     ],
      "stadion": "Gelora Madura Ratu Pamelingan"
     },
     {
@@ -2573,6 +2579,39 @@
      "status": "jadwal",
      "kandang": "fd-402",
      "tamu": "fd-65",
+     "skor": null,
+     "stadion": "",
+     "pekan": 14
+    },
+    {
+     "id": "fd-560675",
+     "waktu": "2026-12-06T14:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-67",
+     "tamu": "fd-71",
+     "skor": null,
+     "stadion": "",
+     "pekan": 14
+    },
+    {
+     "id": "fd-560681",
+     "waktu": "2026-12-06T14:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-62",
+     "tamu": "fd-63",
+     "skor": null,
+     "stadion": "",
+     "pekan": 14
+    },
+    {
+     "id": "fd-560672",
+     "waktu": "2026-12-06T16:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-73",
+     "tamu": "fd-57",
      "skor": null,
      "stadion": "",
      "pekan": 14
@@ -5232,6 +5271,28 @@
      "skor": null,
      "stadion": "",
      "pekan": 14
+    },
+    {
+     "id": "fd-558499",
+     "waktu": "2026-12-06T11:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-107",
+     "tamu": "fd-586",
+     "skor": null,
+     "stadion": "",
+     "pekan": 14
+    },
+    {
+     "id": "fd-558504",
+     "waktu": "2026-12-06T14:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-110",
+     "tamu": "fd-102",
+     "skor": null,
+     "stadion": "",
+     "pekan": 14
     }
    ]
   },
@@ -6370,6 +6431,28 @@
      "status": "jadwal",
      "kandang": "fd-19",
      "tamu": "fd-12",
+     "skor": null,
+     "stadion": "",
+     "pekan": 12
+    },
+    {
+     "id": "fd-565876",
+     "waktu": "2026-12-06T14:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-6",
+     "tamu": "fd-4",
+     "skor": null,
+     "stadion": "",
+     "pekan": 12
+    },
+    {
+     "id": "fd-565880",
+     "waktu": "2026-12-06T16:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-719",
+     "tamu": "fd-10",
      "skor": null,
      "stadion": "",
      "pekan": 12
