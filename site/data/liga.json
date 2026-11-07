@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-07T05:54:04Z",
+ "diperbarui": "2026-11-07T12:55:44Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -211,25 +211,45 @@
     {
      "posisi": 11,
      "tim": "idn-borneo-fc-samarinda",
-     "main": 7,
+     "main": 8,
      "menang": 3,
-     "seri": 0,
+     "seri": 1,
      "kalah": 4,
-     "gm": 7,
-     "gk": 9,
+     "gm": 8,
+     "gk": 10,
      "sg": -2,
-     "poin": 9,
+     "poin": 10,
      "form": [
-      "K",
       "M",
       "K",
       "M",
-      "K"
+      "K",
+      "S"
      ],
      "potong_poin": 0
     },
     {
      "posisi": 12,
+     "tim": "idn-psm-makassar",
+     "main": 9,
+     "menang": 2,
+     "seri": 4,
+     "kalah": 3,
+     "gm": 10,
+     "gk": 14,
+     "sg": -4,
+     "poin": 10,
+     "form": [
+      "M",
+      "M",
+      "S",
+      "K",
+      "S"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 13,
      "tim": "idn-arema",
      "main": 9,
      "menang": 2,
@@ -244,26 +264,6 @@
       "K",
       "M",
       "K",
-      "K"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 13,
-     "tim": "idn-psm-makassar",
-     "main": 8,
-     "menang": 2,
-     "seri": 3,
-     "kalah": 3,
-     "gm": 9,
-     "gk": 13,
-     "sg": -4,
-     "poin": 9,
-     "form": [
-      "K",
-      "M",
-      "M",
-      "S",
       "K"
      ],
      "potong_poin": 0
@@ -957,12 +957,15 @@
     },
     {
      "id": "idn-2026-11-07-idn-borneo-fc-samarinda-idn-psm-makassar",
-     "waktu": "2026-11-07T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-06T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-borneo-fc-samarinda",
      "tamu": "idn-psm-makassar",
-     "skor": null,
+     "skor": [
+      1,
+      1
+     ],
      "stadion": "Segiri"
     },
     {
@@ -1324,6 +1327,20 @@
     },
     {
      "posisi": 8,
+     "tim": "fd-73",
+     "main": 10,
+     "menang": 3,
+     "seri": 4,
+     "kalah": 3,
+     "gm": 10,
+     "gk": 10,
+     "sg": 0,
+     "poin": 13,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 9,
      "tim": "fd-1044",
      "main": 9,
      "menang": 3,
@@ -1337,21 +1354,21 @@
      "grup": null
     },
     {
-     "posisi": 9,
-     "tim": "fd-73",
-     "main": 9,
-     "menang": 3,
-     "seri": 3,
-     "kalah": 3,
-     "gm": 10,
-     "gk": 10,
-     "sg": 0,
+     "posisi": 10,
+     "tim": "fd-341",
+     "main": 10,
+     "menang": 2,
+     "seri": 6,
+     "kalah": 2,
+     "gm": 9,
+     "gk": 8,
+     "sg": 1,
      "poin": 12,
      "form": [],
      "grup": null
     },
     {
-     "posisi": 10,
+     "posisi": 11,
      "tim": "fd-58",
      "main": 9,
      "menang": 3,
@@ -1365,7 +1382,7 @@
      "grup": null
     },
     {
-     "posisi": 11,
+     "posisi": 12,
      "tim": "fd-322",
      "main": 9,
      "menang": 2,
@@ -1373,20 +1390,6 @@
      "kalah": 2,
      "gm": 11,
      "gk": 10,
-     "sg": 1,
-     "poin": 11,
-     "form": [],
-     "grup": null
-    },
-    {
-     "posisi": 12,
-     "tim": "fd-341",
-     "main": 9,
-     "menang": 2,
-     "seri": 5,
-     "kalah": 2,
-     "gm": 9,
-     "gk": 8,
      "sg": 1,
      "poin": 11,
      "form": [],
@@ -2084,10 +2087,13 @@
      "id": "fd-560632",
      "waktu": "2026-11-07T12:30:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "berlangsung",
      "kandang": "fd-341",
      "tamu": "fd-73",
-     "skor": null,
+     "skor": [
+      0,
+      0
+     ],
      "stadion": "",
      "pekan": 10
     },
