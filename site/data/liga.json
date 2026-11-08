@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-08T00:32:49Z",
+ "diperbarui": "2026-11-08T10:15:44Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -3512,10 +3512,13 @@
      "id": "fd-564744",
      "waktu": "2026-11-07T13:00:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-84",
      "tamu": "fd-5335",
-     "skor": null,
+     "skor": [
+      1,
+      2
+     ],
      "stadion": "",
      "pekan": 12
     },
@@ -3523,10 +3526,13 @@
      "id": "fd-564745",
      "waktu": "2026-11-07T15:15:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-80",
      "tamu": "fd-560",
-     "skor": null,
+     "skor": [
+      0,
+      0
+     ],
      "stadion": "",
      "pekan": 12
     },
@@ -3534,10 +3540,13 @@
      "id": "fd-564739",
      "waktu": "2026-11-07T17:30:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-79",
      "tamu": "fd-77",
-     "skor": null,
+     "skor": [
+      1,
+      1
+     ],
      "stadion": "",
      "pekan": 12
     },
@@ -3545,10 +3554,13 @@
      "id": "fd-564741",
      "waktu": "2026-11-07T20:00:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-95",
      "tamu": "fd-86",
-     "skor": null,
+     "skor": [
+      0,
+      3
+     ],
      "stadion": "",
      "pekan": 12
     },
@@ -3826,6 +3838,28 @@
      "skor": null,
      "stadion": "",
      "pekan": 14
+    },
+    {
+     "id": "fd-564855",
+     "waktu": "2026-12-02T18:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-92",
+     "tamu": "fd-86",
+     "skor": null,
+     "stadion": "",
+     "pekan": 23
+    },
+    {
+     "id": "fd-564857",
+     "waktu": "2026-12-02T20:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-81",
+     "tamu": "fd-78",
+     "skor": null,
+     "stadion": "",
+     "pekan": 23
     },
     {
      "id": "fd-564768",
