@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-09T19:47:51Z",
+ "diperbarui": "2026-11-10T03:32:47Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -8234,6 +8234,83 @@
      "status": "jadwal",
      "kandang": "fd-7509",
      "tamu": "fd-1887",
+     "skor": null,
+     "stadion": "",
+     "pekan": 6
+    },
+    {
+     "id": "fd-575280",
+     "waktu": "2026-12-09T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-57",
+     "tamu": "fd-86",
+     "skor": null,
+     "stadion": "",
+     "pekan": 6
+    },
+    {
+     "id": "fd-575286",
+     "waktu": "2026-12-09T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-4",
+     "tamu": "fd-108",
+     "skor": null,
+     "stadion": "",
+     "pekan": 6
+    },
+    {
+     "id": "fd-575290",
+     "waktu": "2026-12-09T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-674",
+     "tamu": "fd-78",
+     "skor": null,
+     "stadion": "",
+     "pekan": 6
+    },
+    {
+     "id": "fd-575295",
+     "waktu": "2026-12-09T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-64",
+     "tamu": "fd-503",
+     "skor": null,
+     "stadion": "",
+     "pekan": 6
+    },
+    {
+     "id": "fd-575315",
+     "waktu": "2026-12-09T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-546",
+     "tamu": "fd-5721",
+     "skor": null,
+     "stadion": "",
+     "pekan": 6
+    },
+    {
+     "id": "fd-575317",
+     "waktu": "2026-12-09T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-2016",
+     "tamu": "fd-613",
+     "skor": null,
+     "stadion": "",
+     "pekan": 6
+    },
+    {
+     "id": "fd-575322",
+     "waktu": "2026-12-09T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-10",
+     "tamu": "fd-521",
      "skor": null,
      "stadion": "",
      "pekan": 6
