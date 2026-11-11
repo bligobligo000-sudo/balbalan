@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-11T10:51:47Z",
+ "diperbarui": "2026-11-11T19:34:55Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -6647,6 +6647,17 @@
      "skor": null,
      "stadion": "",
      "pekan": 12
+    },
+    {
+     "id": "fd-565888",
+     "waktu": "2026-12-11T19:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-7",
+     "tamu": "fd-6",
+     "skor": null,
+     "stadion": "",
+     "pekan": 13
     }
    ]
   },
