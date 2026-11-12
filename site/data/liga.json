@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-11T19:34:55Z",
+ "diperbarui": "2026-11-12T02:15:00Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -1097,7 +1097,7 @@
      "kandang": "idn-arema",
      "tamu": "idn-persebaya-surabaya",
      "skor": null,
-     "stadion": "Kanjuruhan"
+     "stadion": "Kapten I Wayan Dipta"
     },
     {
      "id": "idn-2026-11-29-idn-borneo-fc-samarinda-idn-persik-kediri",
@@ -5457,6 +5457,17 @@
      "skor": null,
      "stadion": "",
      "pekan": 14
+    },
+    {
+     "id": "fd-558491",
+     "waktu": "2026-12-11T19:45:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-115",
+     "tamu": "fd-470",
+     "skor": null,
+     "stadion": "",
+     "pekan": 15
     }
    ]
   },
