@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-14T17:59:06Z",
+ "diperbarui": "2026-11-14T22:19:19Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -2735,6 +2735,17 @@
      "status": "jadwal",
      "kandang": "fd-354",
      "tamu": "fd-66",
+     "skor": null,
+     "stadion": "",
+     "pekan": 15
+    },
+    {
+     "id": "fd-560684",
+     "waktu": "2026-12-14T20:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-322",
+     "tamu": "fd-73",
      "skor": null,
      "stadion": "",
      "pekan": 15
@@ -5762,6 +5773,17 @@
      "status": "jadwal",
      "kandang": "fd-102",
      "tamu": "fd-107",
+     "skor": null,
+     "stadion": "",
+     "pekan": 15
+    },
+    {
+     "id": "fd-558496",
+     "waktu": "2026-12-14T19:45:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-109",
+     "tamu": "fd-5911",
      "skor": null,
      "stadion": "",
      "pekan": 15
