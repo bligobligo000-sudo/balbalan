@@ -1,15 +1,15 @@
 {
- "diperbarui": "2026-11-20T02:17:12Z",
+ "diperbarui": "2026-11-20T11:28:37Z",
  "sumber": [
   {
    "nama": "detikSport",
    "ok": true,
-   "jumlah": 100
+   "jumlah": 99
   },
   {
    "nama": "Liputan6",
    "ok": true,
-   "jumlah": 43
+   "jumlah": 45
   },
   {
    "nama": "VIVA",
@@ -19,7 +19,7 @@
   {
    "nama": "iNews",
    "ok": true,
-   "jumlah": 36
+   "jumlah": 37
   },
   {
    "nama": "SINDOnews",
@@ -29,18 +29,1075 @@
  ],
  "berita": [
   {
+   "judul": "Madura United Tumbang 0-1 dari Garudayaksa, Peluang Rebut Puncak Klasemen Terbuang",
+   "link": "https://www.viva.co.id/bola/1945184-madura-united-tumbang-0-1-dari-garudayaksa-peluang-rebut-puncak-klasemen-terbuang",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T11:20:59Z",
+   "ringkasan": "Madura United gagal merebut puncak Super League 2026/2027 setelah kalah 0-1 dari Garudayaksa FC. Jayro Jean mencetak gol penentu kemenangan di Pakansari.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6b002c76a4bb6-madura-united-tumbang-0-1-dari-garudayaksa_gemini_665_374.jpg",
+   "id": "3409f18a0d5c",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6b002c76a4bb6-madura-united-tumbang-0-1-dari-garudayaksa_gemini_1265_711.jpg",
+   "penulis": "Abdul Aziz Masindo"
+  },
+  {
+   "judul": "MU Jangan Berkecil Hati, Jalan ke Eropa Masih Terbuka",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8762118/mu-jangan-berkecil-hati-jalan-ke-eropa-masih-terbuka",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T11:20:10Z",
+   "ringkasan": "Manchester United memulai musim dengan payah. Biarpun begitu, Setan Merah diharapkan bisa tetap berambisi lolos ke kompetisi Eropa.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/manchester-united-1794182334399_169.jpeg?w=640&q=90",
+   "id": "087fdab1065e",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/09/manchester-united-1794182334399_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Rifqi Ardita Widianto"
+  },
+  {
+   "judul": "Hasil Super League: Arema FC Bantai PSS Sleman, Garudayaksa Libas Madura United",
+   "link": "https://www.inews.id/sport/soccer/hasil-super-league-arema-fc-bantai-pss-sleman-garudayaksa-libas-madura-united",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T11:20:00Z",
+   "ringkasan": "Arema FC menang 3-0 atas PSS Sleman, sementara Garudayaksa FC mengalahkan Madura United",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/20/arema_fc_vs_pss_sleman.jpg",
+   "id": "c4afb1587fe5",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/20/arema_fc_vs_pss_sleman.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Timnas Indonesia U17 Ditahan Myanmar 2-2, Garuda Muda Akhiri Kualifikasi Tanpa Kekalahan",
+   "link": "https://www.viva.co.id/bola/1945183-timnas-indonesia-u17-ditahan-myanmar-2-2-garuda-muda-akhiri-kualifikasi-tanpa-kekalahan",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T11:08:44Z",
+   "ringkasan": "Timnas Indonesia U17 bermain imbang 2-2 melawan Myanmar pada laga terakhir Kualifikasi Piala Asia U17 2027. Garuda Muda finis sebagai juara Grup A tanpa terkalahkan.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/12/6af5501c091c2-timnas-indonesia-u-17_gemini_665_374.jpg",
+   "id": "02e85be1b21c",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/12/6af5501c091c2-timnas-indonesia-u-17_gemini_1265_711.jpg",
+   "penulis": "Abdul Aziz Masindo"
+  },
+  {
+   "judul": "Myanmar Dua Kali Unggul, Timnas Indonesia U-17 Bangkit Berkat Gol Roket Dolvi Solossa",
+   "link": "https://www.inews.id/sport/soccer/myanmar-dua-kali-unggul-timnas-indonesia-u-17-bangkit-berkat-gol-roket-dolvi-solossa",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T11:07:00Z",
+   "ringkasan": "Dolvi Solossa mencetak gol spektakuler menit 901 saat Timnas Indonesia U-17 bermain imbang 2-2 melawan Myanmar",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/20/timnas_indonesia_u_17_vs_myanmar.jpg",
+   "id": "da0f20180728",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/20/timnas_indonesia_u_17_vs_myanmar.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Awas Klub Sepakbola Jadi Alat Politik di Tengah Tensi Nasional",
+   "link": "https://www.viva.co.id/bola/1945181-awas-klub-sepakbola-jadi-alat-politik-di-tengah-tensi-nasional",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T11:06:32Z",
+   "ringkasan": "Sepakbola Indonesia tak hanya menjadi arena persaingan di lapangan, tetapi juga mulai bersinggungan dengan kepentingan politik. Sejumlah klub profesional belakangan dikai",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6b0028c762d31-bonek-suporter-persebaya_gemini_665_374.jpg",
+   "id": "e37f5662a67d",
+   "kategori": [],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6b0028c762d31-bonek-suporter-persebaya_gemini_1265_711.jpg",
+   "penulis": "Robbi Yanto"
+  },
+  {
+   "judul": "Dan Mees Hilgers Tak Bisa Berkata-kata",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8762109/dan-mees-hilgers-tak-bisa-berkata-kata",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T11:00:40Z",
+   "ringkasan": "Mees Hilgers main lagi buat Timnas Indonesia. Setelah 500-an hari absen, sang bek tengah bangga bisa main lagi, sampai tak bisa berkata-kata.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2024/09/24/mees-hilgers.jpeg?w=640&q=90",
+   "id": "ec5421624299",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2024/09/24/mees-hilgers_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Dramatis! Indonesia U-17 Ditahan Myanmar 2-2, Gol Dolvi Salossa Selamatkan Garuda Asia",
+   "link": "https://sports.sindonews.com/read/1774373/11/dramatis-indonesia-u-17-ditahan-myanmar-2-2-gol-dolvi-salossa-selamatkan-garuda-asia-1795169474",
+   "sumber": "SINDOnews",
+   "waktu": "2026-11-20T10:58:01Z",
+   "ringkasan": "Timnas Indonesia U-17 bermain imbang 2-2 melawan Myanmar U-17 pada laga terakhir Grup A Kualifikasi Piala Asia U-17 2027 di Stadion Thuwunna, Yangon, Jumat (20/11/2026) sore WIB.",
+   "gambar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774373/dramatis-indonesia-u17-ditahan-myanmar-22-gol-dolvi-salossa-selamatkan-garuda-asia-wct.jpg",
+   "id": "93c31a7b6e4a",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774373/dramatis-indonesia-u17-ditahan-myanmar-22-gol-dolvi-salossa-selamatkan-garuda-asia-wct.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "PSS Sleman Tak Berkutik di Kandang, Arema FC Menang 0-3",
+   "link": "https://www.viva.co.id/bola/1945176-pss-sleman-tak-berkutik-di-kandang-arema-fc-menang-0-3",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T10:51:54Z",
+   "ringkasan": "PSS Sleman kalah 0-3 dari Arema FC pada pekan ke-10 Super League 2026/2027. Kekalahan ini memperpanjang tren buruk Super Elja yang belum menang enam laga.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6b00261e2b739-arema-fc-bantai-pss-sleman-3-0_gemini_665_374.jpg",
+   "id": "26177c942de5",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6b00261e2b739-arema-fc-bantai-pss-sleman-3-0_gemini_1265_711.jpg",
+   "penulis": "Abdul Aziz Masindo"
+  },
+  {
+   "judul": "BRI Super League: PSS Takluk dari Arema di Maguwoharjo, Garudayaksa Tundukkan Madura United",
+   "link": "https://www.liputan6.com/bola/read/8339274/bri-super-league-pss-takluk-dari-arema-di-maguwoharjo-garudayaksa-tundukkan-madura-united",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T10:44:09Z",
+   "ringkasan": "PSS Sleman kalah dari Arema usai gol cepat Farizi dan Caceres, lalu ditutup Zijlstra. Garudayaksa menang 1-0, gol Madura United jelang akhir dianulir VAR.",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/3og1YjF6l3IXuzGovXzj3PIg0ks=/0x0:1870x1054/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9402195/original/013118600_1795171010-SaveInta.com_912825204_18646302673056586_9019267368122284988_n.jpg",
+   "id": "5bc8e067ea18",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/maowHj2TC8EAcyM0YZeCulmDGF4=/0x0:1870x1054/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9402195/original/013118600_1795171010-SaveInta.com_912825204_18646302673056586_9019267368122284988_n.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Presiden Bayern: Madrid Tak Pernah Dekati Olise",
+   "link": "https://sport.detik.com/sepakbola/liga-jerman/d-8761875/presiden-bayern-madrid-tak-pernah-dekati-olise",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T10:40:10Z",
+   "ringkasan": "Presiden Bayern Munich Herbert Hainer menegaskan Real Madrid tak pernah dekati Michael Olise. Ia yakin Olise bakal bertahan dalam waktu yang lama di Die Roten.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/08/soccer-germany-fcb-fcu-1791453977949_169.jpeg?w=640&q=90",
+   "id": "f998ab242449",
+   "kategori": [
+    "Liga Spanyol",
+    "Liga Jerman"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/08/soccer-germany-fcb-fcu-1791453977949_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Putra Rusdi K"
+  },
+  {
+   "judul": "Hasil Kualifikasi Piala Asia U-17: Indonesia Ditahan Myanmar 2-2",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8762202/hasil-kualifikasi-piala-asia-u-17-indonesia-ditahan-myanmar-2-2",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T10:32:24Z",
+   "ringkasan": "Timnas Indonesia U-17 imbang dengan Myanmar U-17 2-2 pada Kualifikasi Piala Asia U-17 2027.Garuda Muda sudah mengamankan tiket ke Piala Asia sebelum laga ini.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/dewa-majesta-1795104510640_169.webp?w=640&q=90",
+   "id": "0276fb160461",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/19/dewa-majesta-1795104510640_169.webp?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Putra Rusdi K"
+  },
+  {
+   "judul": "Pesta Gol Persib di Asia Tak Menutupi PR di Super League, Ini 3 Penyebab Maung Bandung Belum Maksimal",
+   "link": "https://www.viva.co.id/bola/1945166-pesta-gol-persib-di-asia-tak-menutupi-pr-di-super-league-ini-3-penyebab-maung-bandung-belum-maksimal",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T10:30:00Z",
+   "ringkasan": "Persib menang 6-0 atas Shan United, tetapi masih punya PR di Super League. Pertahanan rapat lawan, keseimbangan taktik, dan jadwal padat jadi penyebabnya.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/19/6afef2cd01dee-persib-vs-shan-united-di-asean-club-championship-20262027_gemini_665_374.jpg",
+   "id": "bdab25efaeea",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/19/6afef2cd01dee-persib-vs-shan-united-di-asean-club-championship-20262027_gemini_1265_711.jpg",
+   "penulis": "Abdul Aziz Masindo"
+  },
+  {
+   "judul": "Manchester United Mau Rekrut Striker Yunani Pencetak 19 Gol di 19 Laga Demi Pochettino",
+   "link": "https://www.liputan6.com/bola/read/8338719/manchester-united-mau-rekrut-striker-yunani-pencetak-19-gol-di-19-laga-demi-pochettino",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T10:29:58Z",
+   "ringkasan": "Manchester United melirik striker baru karena kurang puas dengan Sesko dan Zirkzee di paruh pertama musim 2026/2027.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/qY08U5dxHju8vUQzaGQS-7s1gSE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5104128/original/056938200_1737515567-Tek.jpg",
+   "id": "33789b349ab2",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/91vpV_z4kS3HqirKkaXhyS5AAlM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5104128/original/056938200_1737515567-Tek.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Hasil Super League: Arema FC Taklukkan PSS, Garudayaksa FC Menang",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8762189/hasil-super-league-arema-fc-taklukkan-pss-garudayaksa-fc-menang",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T10:27:24Z",
+   "ringkasan": "Arema FC mampu memetik kemenangan 3-0 saat dijamu PSS Sleman di Super League. Sementara itu, Garudayaksa FC berhasil menang tipis atas Madura United.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/pss-vs-arema-1795166119134_169.jpeg?w=640&q=90",
+   "id": "7156b70a6f9c",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/pss-vs-arema-1795166119134_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "MU Cetak Rekor Cuan, tapi Utangnya Masih Selangit",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761885/mu-cetak-rekor-cuan-tapi-utangnya-masih-selangit",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T10:00:15Z",
+   "ringkasan": "Manchester United cetak rekor cuan di periode tahun 2026 ini. Namun jumlah utangnya, masih selangit!",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2018/07/23/3445066d-7e8a-4ad4-9a80-e01aadf46284.jpeg?w=640&q=90",
+   "id": "0552fd3fb007",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2018/07/23/3445066d-7e8a-4ad4-9a80-e01aadf46284_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "18 Klub Premier League Kompak Lawan Man City, Bos Liga Kini Dilindungi dari Gugatan",
+   "link": "https://www.inews.id/sport/soccer/18-klub-premier-league-kompak-lawan-man-city-bos-liga-kini-dilindungi-dari-gugatan",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T10:00:00Z",
+   "ringkasan": "Manchester City terisolasi setelah 18 klub Premier League mendukung aturan perlindungan biaya hukum bagi petinggi liga",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/09/30/manchester_city.jpg",
+   "id": "562e7ac69729",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/30/manchester_city.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Persib Bandung Bantai Shan United: Main Bagus di Cuaca Buruk",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8761880/persib-bandung-bantai-shan-united-main-bagus-di-cuaca-buruk",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T09:40:15Z",
+   "ringkasan": "Persib Bandung menjamu Shan United dalam kondisi cuaca buruk. Meski demikian, Maung Bandung tetap mampu bermain bagus hingga mencatatkan kemenangan besar.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/balsa-sekulic-1795157411657_169.jpeg?w=640&q=90",
+   "id": "e4f85d187088",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/balsa-sekulic-1795157411657_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "Bos Persib Minta Maung Bandung Tak Terlena, Gacor di Asia tapi Belum Maksimal di Super League",
+   "link": "https://www.viva.co.id/bola/1945143-bos-persib-minta-maung-bandung-tak-terlena-gacor-di-asia-tapi-belum-maksimal-di-super-league",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T09:23:20Z",
+   "ringkasan": "Umuh Muchtar mengapresiasi Persib yang tampil impresif di Asia, tetapi meminta Maung Bandung segera fokus ke Super League usai kalah dari Java United.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/09/6af1c32ad9874-manajer-persib-bandung-umuh-muchtar_gemini_665_374.jpg",
+   "id": "69484bae4a61",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/09/6af1c32ad9874-manajer-persib-bandung-umuh-muchtar_gemini_1265_711.jpg",
+   "penulis": "Abdul Aziz Masindo"
+  },
+  {
+   "judul": "Bocor! Begini Formasi Manchester United di Tangan Pochettino",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761903/bocor-begini-formasi-manchester-united-di-tangan-pochettino",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T09:20:30Z",
+   "ringkasan": "Ada rekaman latihan Manchester United yang bocor. Itu menampilkan formasi Setan Merah di bawah arahan manajer baru, Mauricio Pochettino.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/mauricio-pochettino-1794983746068.jpeg?w=640&q=90",
+   "id": "0d5307ebbcf0",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/18/mauricio-pochettino-1794983746068_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Sedang Berlangsung! Link Live Streaming Timnas Indonesia U17 Vs Myanmar, Garuda Muda Bidik Kemenangan Keempat",
+   "link": "https://www.viva.co.id/bola/1945137-sedang-berlangsung-link-live-streaming-timnas-indonesia-u17-vs-myanmar-garuda-muda-bidik-kemenangan-keempat",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T09:03:45Z",
+   "ringkasan": "Timnas Indonesia U17 menghadapi Myanmar di laga terakhir Kualifikasi Piala Asia U17 2027. Simak jadwal, siaran langsung dan link live streaming Vidio di artikel ini.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/07/6aeed5899e48c-timnas-indonesia-u-17_gemini_665_374.jpg",
+   "id": "ea9b7916c7fc",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/07/6aeed5899e48c-timnas-indonesia-u-17_gemini_1265_711.jpg",
+   "penulis": "Abdul Aziz Masindo"
+  },
+  {
+   "judul": "Mykhailo Mudryk Tuduh Timnas Ukraina Sumber Skandal Doping yang Menjeratnya",
+   "link": "https://www.liputan6.com/bola/read/8338710/mykhailo-mudryk-tuduh-timnas-ukraina-sumber-skandal-doping-yang-menjeratnya",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T09:00:39Z",
+   "ringkasan": "Pemain sayap Mykhailo Mudryk menyalahkan timnas Ukraina atas skorsing doping 1,5 tahun akibat meldonium, menuding kurangnya kontrol suplemen.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/L8fpfXJF8q144NF8aP88t7LpKgw=/0x47:2355x1374/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4819843/original/021238300_1714653712-000_33YA7VJ.jpg",
+   "id": "52ecac171990",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/SadfKaXGJ7txTU24cOTM3Ymrk-8=/0x47:2355x1374/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4819843/original/021238300_1714653712-000_33YA7VJ.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Timnas Portugal Setelah Ditinggal Ronaldo, Sepi Ditonton nih?",
+   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8761877/timnas-portugal-setelah-ditinggal-ronaldo-sepi-ditonton-nih",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T09:00:25Z",
+   "ringkasan": "Cristiano Ronaldo sudah pensiun dari Timnas Portugal di awal November ini. A Selecao das Quinas dinilai mulai sepi ditonton.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/21/cristiano-ronaldo-1792597961901.jpeg?w=640&q=90",
+   "id": "0e87a2f99317",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/21/cristiano-ronaldo-1792597961901_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Mulai Ramos Hingga Diomande! Bintang Muda Termahal Real Madrid Sepanjang Masa, Siapa Terbaik?",
+   "link": "https://enamplus.liputan6.com/bola/read/8338975/mulai-ramos-hingga-diomande-bintang-muda-termahal-real-madrid-sepanjang-masa-siapa-terbaik",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T09:00:00Z",
+   "ringkasan": "Puluhan hingga ratusan juta euro rela digelontorkan Real Madrid demi merekrut pemain yang bahkan belum genap berusia 20 tahun. Tapi, apakah semua investasi mahal itu berakhir manis? Strategi tersebut kembali menjadi sorotan setelah wonderkid Manchester United, JJ Gabriel, dikabarkan semakin dekat dengan kepindahan ke Santiago Bernabeu. Namun, sebelum JJ Gabriel, Real Madrid sudah lebih dulu…",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/BHDewUtA-3iUZ6YE9_3iKFm1vyI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9401834/original/051334500_1795155992-1120-real-madrid-42e603.png",
+   "id": "8e4599bd953b",
+   "kategori": [
+    "Liga Inggris",
+    "Liga Spanyol"
+   ],
+   "gambar_besar": null,
+   "penulis": null
+  },
+  {
+   "judul": "Veron Ungkap Sosok Penerus Messi dan Maradona, Ada Permata di Italia",
+   "link": "https://www.inews.id/sport/soccer/veron-ungkap-sosok-penerus-messi-dan-maradona-ada-permata-di-italia",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T09:00:00Z",
+   "ringkasan": "Juan Sebastian Veron memuji Nico Paz dan menyebut kemampuan bintang Como itu mengingatkannya pada Lionel Messi serta Diego Maradona.",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2023/07/01/juan_sebastian_veron.jpg",
+   "id": "6ac715021655",
+   "kategori": [
+    "Liga Italia"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2023/07/01/juan_sebastian_veron.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Sedang Berlangsung! Link Live Streaming PSS Sleman Vs Arema FC, Singo Edan Siapkan Mauro Zijlstra dari Bangku Cadangan",
+   "link": "https://www.viva.co.id/bola/1945132-sedang-berlangsung-link-live-streaming-pss-sleman-vs-arema-fc-singo-edan-siapkan-mauro-zijlstra-dari-bangku-cadangan",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T08:51:54Z",
+   "ringkasan": "Sedang berlangsung PSS Sleman vs Arema FC di BRI Super League 2026/2027. Simak susunan pemain, jadwal pertandingan, dan link live streaming Vidio, termasuk Mauro Zijlstra",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/04/6a9ac53b80cd3-gol-debut-mauro-zijlstra-di-arema-fc_gemini_665_374.jpg",
+   "id": "cd0876070a87",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/04/6a9ac53b80cd3-gol-debut-mauro-zijlstra-di-arema-fc_gemini_1265_711.jpg",
+   "penulis": "Abdul Aziz Masindo"
+  },
+  {
+   "judul": "Sedang Berlangsung! Link Live Streaming Garudayaksa FC Vs Madura United, Ini Susunan Pemainnya",
+   "link": "https://www.viva.co.id/bola/1945130-sedang-berlangsung-link-live-streaming-garudayaksa-fc-vs-madura-united-ini-susunan-pemainnya",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T08:44:19Z",
+   "ringkasan": "Garudayaksa FC vs Madura United sedang berlangsung di Pakansari, Jumat (20/11/2026). Simak susunan pemain dan link live streaming BRI Super League di Vidio.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/06/6aede2bec5817-madura-united-hancurkan-arema-fc-3-0_gemini_665_374.jpg",
+   "id": "52027dedf3d9",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/06/6aede2bec5817-madura-united-hancurkan-arema-fc-3-0_gemini_1265_711.jpg",
+   "penulis": "Abdul Aziz Masindo"
+  },
+  {
+   "judul": "Nico Paz Mau saja Balik ke Real Madrid, Syaratnya...",
+   "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-8761798/nico-paz-mau-saja-balik-ke-real-madrid-syaratnya",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T08:40:10Z",
+   "ringkasan": "Real Madrid punya klausul pembelian balik Nico Paz dari Como. Sang gelandang Argentina mau saja balik ke Bernabeu, tapi ada syaratnya!",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/09/17/nico-paz-1789626889620.jpeg?w=640&q=90",
+   "id": "aac198815aa7",
+   "kategori": [
+    "Liga Spanyol",
+    "Liga Italia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/17/nico-paz-1789626889620_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Timnas Indonesia U-17 vs Myanmar Sedang Tanding, Dapatkan Link Live Streaming",
+   "link": "https://www.liputan6.com/bola/read/8338694/timnas-indonesia-u-17-vs-myanmar-sedang-tanding-dapatkan-link-live-streaming",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T08:30:01Z",
+   "ringkasan": "Timnas Indonesia sudah pasti lolos Piala Asia U-17 2027.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/CqRga3US71MnqY0E-pYkfuamzbk=/280x319:2169x1384/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9395437/original/084287000_1794390240-HW1Rqp0bsAAwb4x.jpg",
+   "id": "919b9c0595d0",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/I16cShJGaiJLoA8iLlzFeUnzmtY=/280x319:2169x1384/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9395437/original/084287000_1794390240-HW1Rqp0bsAAwb4x.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Prioritas Pochettino di MU: Angkat Beban dari Pundak Para Pemain",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761804/prioritas-pochettino-di-mu-angkat-beban-dari-pundak-para-pemain",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T08:20:10Z",
+   "ringkasan": "Mauricio Pochettino ingin para pemain MU bermain dengan lepas. Hal pertama yang akan ia lakukan adalah membantu pemain mengubah tekanan menjadi motivasi",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/mauricio-pochettino-1794886368566_169.jpeg?w=640&q=90",
+   "id": "a5d5a7bc3ff4",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/mauricio-pochettino-1794886368566_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Novitasari Dewi Salusi"
+  },
+  {
+   "judul": "Persib Masih Sempurna di Kancah Internasional",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8761801/persib-masih-sempurna-di-kancah-internasional",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T08:00:10Z",
+   "ringkasan": "Persib Bandung masih mencatatkan rekor sempurna saat berlaga di ajang internasional. Tak cuma menyapu bersih kemenangan, Maung Bandung juga tampil produktif.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/persib-bandung-1795110042203_169.jpeg?w=640&q=90",
+   "id": "9fdc3438c195",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/persib-bandung-1795110042203_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "Liverpool Vs Man United: Sebagus Apa Alexander Isak Lawan Setan Merah?",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761685/liverpool-vs-man-united-sebagus-apa-alexander-isak-lawan-setan-merah",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T07:40:10Z",
+   "ringkasan": "Alexander Isak jelas akan menjadi andalan utama Liverpool saat menjamu Manchester United. Sebagus apa catatan Isak ketika berhadapan melawan The Red Devils?",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/27/alexander-isak-1793036422763_169.jpeg?w=640&q=90",
+   "id": "8dd54a6f99dd",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/27/alexander-isak-1793036422763_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "4 Timnas Indonesia ke Piala Asia, tapi Futsal Malah Bermasalah",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8761806/4-timnas-indonesia-ke-piala-asia-tapi-futsal-malah-bermasalah",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T07:28:01Z",
+   "ringkasan": "gerakan voters di KLB merupakan eskalasi kekecewaan terhadap pengelolaan futsal selama ini",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/detiksore-jumat-20-november-2026-1795159645337_169.jpeg?w=640&q=90",
+   "id": "80ab4f6af166",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/detiksore-jumat-20-november-2026-1795159645337_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "20detik Signature"
+  },
+  {
+   "judul": "5 Bek Tengah Incaran Barcelona",
+   "link": "https://sport.detik.com/sepakbola/foto-sepakbola/d-8761688/5-bek-tengah-incaran-barcelona",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T07:20:25Z",
+   "ringkasan": "Barcelona mau tambah kekuatan di pos bek tengah. Ada lima bek yang diincar, siapa yang bakal didapat?",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/21/alessandro-bastoni-1792563824923.jpeg?w=640&q=90",
+   "id": "99e7004c62b0",
+   "kategori": [
+    "Liga Spanyol"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/02/13/2197234529_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Pengakuan Pelatih Shan United usai Dihancurkan Persib 0-6 di GBLA, Singgung Kualitas Pemain Asing",
+   "link": "https://www.viva.co.id/bola/1945109-pengakuan-pelatih-shan-united-usai-dihancurkan-persib-0-6-di-gbla-singgung-kualitas-pemain-asing",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T07:14:22Z",
+   "ringkasan": "Pelatih Shan United Aung Khaing mengakui kualitas pemain asing Persib menjadi pembeda setelah timnya kalah 0-6 pada laga Grup B ACC 2026/2027 di GBLA.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6afff26b15a0f-pelatih-shan-united-aung-khaing-kiri_gemini_665_374.jpg",
+   "id": "325123931b00",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6afff26b15a0f-pelatih-shan-united-aung-khaing-kiri_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Wes Brown Yakin MU Masih Bisa Lolos ke Liga Champions di Bawah Pochettino",
+   "link": "https://www.liputan6.com/bola/read/8339059/wes-brown-yakin-mu-masih-bisa-lolos-ke-liga-champions-di-bawah-pochettino",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T07:09:05Z",
+   "ringkasan": "Wes Brown yakin Manchester United masih berpeluang lolos ke Liga Champions. Ia percaya Mauricio Pochettino mampu membangkitkan performa Setan Merah.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/AIrDGakbQJB7I1VBkt5IRysXm78=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9401755/original/031539100_1795150534-poche_3.jpg",
+   "id": "4d877ed49673",
+   "kategori": [
+    "Liga Inggris",
+    "Liga Champions"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/fi6wQUIAbr318bghDDU53X9DzP4=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9401755/original/031539100_1795150534-poche_3.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Conte: MU Tak Rekrut Saya Bukan karena Metode Latihan",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761736/conte-mu-tak-rekrut-saya-bukan-karena-metode-latihan",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T07:00:10Z",
+   "ringkasan": "Antonio Conte yakin Manchester United tak merekrutnya bukan karena masalah metode latihan. Conte dikenal sebagai pelatih yang keras.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/05/25/2278000751-1779682111088_169.jpeg?w=640&q=90",
+   "id": "78798f7d6e55",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/05/25/2278000751-1779682111088_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Putra Rusdi K"
+  },
+  {
+   "judul": "[FULL] Dimitar Mitkov Madura United Respons Siapa Pemain Indonesia Terbaik Buat Kagum: Saya Fokus!",
+   "link": "https://enamplus.liputan6.com/bola/read/8338888/full-dimitar-mitkov-madura-united-respons-siapa-pemain-indonesia-terbaik-buat-kagum-saya-fokus",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T07:00:00Z",
+   "ringkasan": "Striker Madura United, Dimitar Mitkov mengungkapkan, sejumlah fakta mulai dari jejak karirnya hingga pemain Indonesia paling berkesan versinya. Hal ini diungkapkan Dimitar saat ditemui di Jakarta, Kamis (19/11). Dimitar menyebut, saat ini dirinya tengah fokus bersama Madura United untuk meningkatkan kualitas permainan. Selain itu, dia juga mengungkapkan siapa pemain idolanya yang menjadi…",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/JiZpm4j-ySJfQcn7P6afT_LxArg=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9401750/original/065290600_1795150163-full-dimitar-b3fbf9.png",
+   "id": "348816674832",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/5gOLwBOxftpsYff1DJqbngq_JcQ=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/thumbnails/9401750/original/065290600_1795150163-full-dimitar-b3fbf9.png",
+   "penulis": "Harwanto Bimo Pratomo"
+  },
+  {
+   "judul": "Link Live Streaming Timnas Indonesia U-17 Vs Myanmar Kualifikasi Piala Asia U-17 2027",
+   "link": "https://www.inews.id/sport/soccer/link-live-streaming-timnas-indonesia-u-17-vs-myanmar-kualifikasi-piala-asia-u-17-2027",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T07:00:00Z",
+   "ringkasan": "Link live streaming Timnas Indonesia U-17 Vs Myanmar",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/timnas_indonesia_u_17.jpg",
+   "id": "4e37a09b85f1",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/timnas_indonesia_u_17.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "13 Pemain Timnas Indonesia Abroad Kembali Beraksi Pekan Ini, Ada Duel Dean James Vs Justin Hubner",
+   "link": "https://www.viva.co.id/bola/1945102-13-pemain-timnas-indonesia-abroad-kembali-beraksi-pekan-ini-ada-duel-dean-james-vs-justin-hubner",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T06:55:34Z",
+   "ringkasan": "13 pemain Timnas Indonesia abroad kembali beraksi pada 21-23 November 2026. Duel Dean James vs Justin Hubner jadi laga yang dinanti. Simak jadwal lengkapnya!",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affee49b494c-justin-hubner_gemini_665_374.jpg",
+   "id": "5c371562c14f",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affee49b494c-justin-hubner_gemini_1265_711.jpg",
+   "penulis": "Ecep Suwardaniyasa"
+  },
+  {
+   "judul": "Di Balik Pesta Gol Persib, Pengamat Soroti Satu Masalah yang Harus Dibenahi Igor Tolic",
+   "link": "https://www.viva.co.id/bola/1945097-di-balik-pesta-gol-persib-pengamat-soroti-satu-masalah-yang-harus-dibenahi-igor-tolic",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T06:46:33Z",
+   "ringkasan": "Persib Bandung menang 6-0 atas Shan United, tetapi Bung Binder menyoroti masalah lini pertahanan dan akurasi serangan balik yang harus dibenahi Igor Tolic.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff8e1cdeba4-bekcham-putra_gemini_665_374.jpg",
+   "id": "bf7de110cd7b",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff8e1cdeba4-bekcham-putra_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Jadwal Liga Italia Minggu Ini: Inter Diuji Atalanta, Lazio Vs Lecce",
+   "link": "https://sport.detik.com/sepakbola/liga-italia/d-8761496/jadwal-liga-italia-minggu-ini-inter-diuji-atalanta-lazio-vs-lecce",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T06:40:30Z",
+   "ringkasan": "Persaingan ketat di papan atas Serie A kembali berlanjut akhir pekan ini. Lazio, Inter Milan, dan AS Roma berebut puncak klasemen Liga Italia.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2024/08/18/logo-serie-a-logo-liga-italia_169.jpeg?w=640&q=90",
+   "id": "024d513373bf",
+   "kategori": [
+    "Liga Italia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2024/08/18/logo-serie-a-logo-liga-italia_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Novitasari Dewi Salusi"
+  },
+  {
+   "judul": "Prediksi Liga Inggris Newcastle vs Arsenal: The Gunners Incar Kemenangan Keenam Beruntun",
+   "link": "https://www.liputan6.com/bola/read/8338972/prediksi-liga-inggris-newcastle-vs-arsenal-the-gunners-incar-kemenangan-keenam-beruntun",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T06:40:14Z",
+   "ringkasan": "Newcastle menjamu Arsenal pada pekan ke-11 Liga Inggris 2026/2027 di St James' Park, Minggu (22/11/2026) dini hari WIB. The Gunners memburu kemenangan keenam be",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/lmbdw2tIQVe9oaJLpHs5Qgqr05s=/0x205:2630x1687/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9344762/original/099296100_1788999628-Arsenal_s_Martin_Odegaard.jpg",
+   "id": "ef460b53a51d",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/b8F4WiBPoazku_sBoR-_o8xC5l0=/0x205:2630x1687/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9344762/original/099296100_1788999628-Arsenal_s_Martin_Odegaard.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Prediksi Liga Spanyol Madrid vs Celta: Misi Balas Dendam Los Blancos",
+   "link": "https://www.liputan6.com/bola/read/8338993/prediksi-liga-spanyol-madrid-vs-celta-misi-balas-dendam-los-blancos",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T06:39:13Z",
+   "ringkasan": "Real Madrid menjamu Celta Vigo pada pekan ke-13 Liga Spanyol 2026/2027 di Santiago Bernabeu, Minggu (22/11/2026) dini hari WIB. Los Blancos memburu kemenangan k",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/4RhQu1Q6U5cnRChqI1OKZEupWxA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9333467/original/004793400_1787778963-000_C6KX2G4-Mbappe.jpg",
+   "id": "29b881056ea2",
+   "kategori": [
+    "Liga Spanyol"
+   ],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/igFRet--tBUQb6kf-AbyQTUuvp0=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9333467/original/004793400_1787778963-000_C6KX2G4-Mbappe.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Liverpool Vs MU: Setan Merah Bisa Lanjutkan Laju Bagus Vs The Reds?",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761562/liverpool-vs-mu-setan-merah-bisa-lanjutkan-laju-bagus-vs-the-reds",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T06:20:25Z",
+   "ringkasan": "Manchester United akan melawan Liverpool dalam laga lanjutan Liga Inggris. Mampukah Setan Merah melanjutkan laju bagus mereka saat berhadapan melawan The Reds?",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/10/20/liverpool-vs-mu-1760956466667_43.jpeg?w=640&q=90",
+   "id": "ea2c5e963709",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/10/20/liverpool-vs-mu-1760956466667_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya"
+  },
+  {
+   "judul": "Maarten Paes Ketiban Durian Runtuh, Ter Stegen Dikabarkan Ingin Tinggalkan Ajax",
+   "link": "https://www.viva.co.id/bola/1945092-maarten-paes-ketiban-durian-runtuh-ter-stegen-dikabarkan-ingin-tinggalkan-ajax",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T06:16:56Z",
+   "ringkasan": "Maarten Paes berpeluang kembali bersaing memperebutkan posisi utama Ajax setelah Ter Stegen dikabarkan diminati Valencia dan ingin pulang ke Spanyol. Simak!",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affe4cd47ce1-maarten-paes_gemini_665_374.jpg",
+   "id": "63347ac50ec3",
+   "kategori": [
+    "Liga Spanyol"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affe4cd47ce1-maarten-paes_gemini_1265_711.jpg",
+   "penulis": "Ecep Suwardaniyasa"
+  },
+  {
+   "judul": "Eks Pelatih Klub Liga Indonesia Masuk Bursa Bos Akademi Ajax Amsterdam, Kemampuannya Dianggap Sesuai",
+   "link": "https://www.viva.co.id/bola/1945090-eks-pelatih-klub-liga-indonesia-masuk-bursa-bos-akademi-ajax-amsterdam-kemampuannya-dianggap-sesuai",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T06:10:58Z",
+   "ringkasan": "Eks pelatih Dewa United masuk usulan calon kepala akademi Ajax setelah jabatan itu kosong sejak 2023. Simak alasan anggota klub mendorong perubahan tersebut.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affe3a751164-jan-olde-riekerink_gemini_665_374.jpg",
+   "id": "97d19ed98584",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affe3a751164-jan-olde-riekerink_gemini_1265_711.jpg",
+   "penulis": "Ecep Suwardaniyasa"
+  },
+  {
+   "judul": "AFP Papua Selatan Dukung Kepengurusan FFI 20242028, Minta Semua Pihak Taat AD/ART",
+   "link": "https://sports.sindonews.com/read/1774237/11/afp-papua-selatan-dukung-kepengurusan-ffi-20242028-minta-semua-pihak-taat-adart-1795155106",
+   "sumber": "SINDOnews",
+   "waktu": "2026-11-20T06:10:39Z",
+   "ringkasan": "Ketua Asosiasi Futsal Provinsi (AFP) Papua Selatan, Celsius Herman Onthoni mendukung kepengurusan Federasi Futsal Indonesia (FFI) periode 20242028 di bawah pimpinan Ketua Umum Michael Victor Sianipar",
+   "gambar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774237/afp-papua-selatan-dukung-kepengurusan-ffi-20242028-minta-semua-pihak-taat-adart-iab.jpg",
+   "id": "634158a81e20",
+   "kategori": [],
+   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774237/afp-papua-selatan-dukung-kepengurusan-ffi-20242028-minta-semua-pihak-taat-adart-iab.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Profil Alireza Beiranvand, Kiper Iran yang Raih AFC Player of the Year 2026: Pernah Jadi Buruh Pabrik",
+   "link": "https://www.viva.co.id/bola/1945088-profil-alireza-beiranvand-kiper-iran-yang-raih-afc-player-of-the-year-2026-pernah-jadi-buruh-pabrik",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T06:02:40Z",
+   "ringkasan": "Alireza Beiranvand meraih AFC Player of the Year 2026. Kiper Iran pemegang dua rekor dunia ini memiliki perjalanan hidup panjang sebelum menjadi pemain terbaik Asia.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affe210559c8-kiper-iran-alireza-beiranvand-di-piala-dunia-2018-rusia_gemini_665_374.jpg",
+   "id": "4b574732faff",
+   "kategori": [],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affe210559c8-kiper-iran-alireza-beiranvand-di-piala-dunia-2018-rusia_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Globe Soccer Awards 2026: Messi Nominasi Pemain Terbaik, Ronaldo Tidak",
+   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8761539/globe-soccer-awards-2026-messi-nominasi-pemain-terbaik-ronaldo-tidak",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T06:00:10Z",
+   "ringkasan": "Globe Soccer Awards 2026 akan digelar pada Desember nanti. Lionel Messi masuk kategori 'Pemain Terbaik', Cristiano Ronaldo tidak.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/08/lionel-messi-1794110782540.jpeg?w=640&q=90",
+   "id": "c171fcc4c312",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/08/lionel-messi-1794110782540_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan"
+  },
+  {
+   "judul": "Latihan Perdana Pochettino di MU Disadap! Taktik Lawan Liverpool Bocor ke Publik",
+   "link": "https://www.inews.id/sport/soccer/latihan-perdana-pochettino-di-mu-disadap-taktik-lawan-liverpool-bocor-ke-publik",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T06:00:00Z",
+   "ringkasan": "Latihan tertutup perdana Mauricio Pochettino di Manchester United bocor melalui rekaman drone",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/20/mauricio_pochettino.jpg",
+   "id": "2919dad2c06a",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/20/mauricio_pochettino.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Prediksi Liga Inggris Chelsea Vs Leeds: The Blues Bertekad Kembali ke Jalur Kemenangan",
+   "link": "https://www.liputan6.com/bola/read/8338939/prediksi-liga-inggris-chelsea-vs-leeds-the-blues-bertekad-kembali-ke-jalur-kemenangan",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T05:45:01Z",
+   "ringkasan": "Chelsea menjamu Leeds United pada pekan ke-11 Liga Inggris 2026/2027 di Stamford Bridge, Sabtu (21/11/2026) malam WIB. Simak prediksi dan kondisi kedua tim.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/Rq5Cl_253VRARyPd0fCw1BZ1wTA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9370631/original/019246400_1791647473-000_D2V447T.jpg",
+   "id": "a141aa1c908f",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/rEDDcZU_Dn1GBVaeQd6D6mygl2Y=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9370631/original/019246400_1791647473-000_D2V447T.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Jadwal Super League: Ada PSM Vs Persjia & Persib Vs Bali United",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8761518/jadwal-super-league-ada-psm-vs-persjia-persib-vs-bali-united",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T05:40:50Z",
+   "ringkasan": "Super League 2026/2027 kembali bergulir usai jeda internasional. Persija Jakarta bertandang ke markas PSM Makassar, sedangkan Persib Bandung jumpa Bali United.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/08/30/logo-bri-superleague-1756516351046_169.jpeg?w=640&q=90",
+   "id": "caa7928540af",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/08/30/logo-bri-superleague-1756516351046_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Putra Rusdi K"
+  },
+  {
+   "judul": "Daftar Pemenang AFC Awards 2026, Jepang Borong Penghargaan dan Tak Ada Indonesia",
+   "link": "https://www.viva.co.id/bola/1945080-daftar-pemenang-afc-awards-2026-jepang-borong-penghargaan-dan-tak-ada-indonesia",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T05:38:02Z",
+   "ringkasan": "AFC Awards 2026 digelar di Bangkok dengan Jepang meraih sejumlah penghargaan. Simak daftar lengkap pemenang, mulai dari pemain terbaik hingga pelatih terbaik Asia.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affdc1ca2ec7-afc-awards-2026_gemini_665_374.jpg",
+   "id": "06d90533a818",
+   "kategori": [],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6affdc1ca2ec7-afc-awards-2026_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Prediksi Liga Inggris Man City Vs Fulham: Misi The Citizens Bangkit dari Tren Negatif",
+   "link": "https://www.liputan6.com/bola/read/8338919/prediksi-liga-inggris-man-city-vs-fulham-misi-the-citizens-bangkit-dari-tren-negatif",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T05:34:45Z",
+   "ringkasan": "Manchester City menjamu Fulham pada pekan ke-11 Liga Inggris 2026/2027 di Etihad Stadium, Sabtu (21/11/2026) pukul 19.30 WIB.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/MpTm-myzdPlGvMdDKjLvRbp4ExE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9375921/original/097717200_1792253333-000_D3L66TJ.jpg",
+   "id": "b2d2664739e0",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/buKQTkW_v1FYG0Et461CJTH9sTQ=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9375921/original/097717200_1792253333-000_D3L66TJ.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Haaland Sudah Jadi Pemain Veteran di Man City",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761446/haaland-sudah-jadi-pemain-veteran-di-man-city",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T05:20:30Z",
+   "ringkasan": "Tak terasa Erling Haaland sudah memasuki musim kelimanya di Manchester City. Baru berusia 26 tahun, Haaland sudah jadi salah satu pemain senior di sana.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/15/dua-gol-ke-gawang-psg-bawa-haaland-geser-rekor-messi-1792040201640_169.jpeg?w=640&q=90",
+   "id": "b3cbf4af7dd2",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/15/dua-gol-ke-gawang-psg-bawa-haaland-geser-rekor-messi-1792040201640_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Novitasari Dewi Salusi"
+  },
+  {
+   "judul": "Jadwal Liga Inggris Minggu Ini: Liverpool Vs MU, Laga Perdana Pochettino",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761445/jadwal-liga-inggris-minggu-ini-liverpool-vs-mu-laga-perdana-pochettino",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T05:00:45Z",
+   "ringkasan": "Duel seru antara Liverpool dan MU akan meramaikan Premier League usai jeda internasional. Ini sekaligus akan menjadi laga debut Mauricio Pochettino bersama MU.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/10/19/liverpool-manchester-united-bryan-mbeumo-1760891008514_169.jpeg?w=640&q=90",
+   "id": "2634d0f31290",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/10/19/liverpool-manchester-united-bryan-mbeumo-1760891008514_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Novitasari Dewi Salusi"
+  },
+  {
+   "judul": "Respons Coach Igor Tolic Usai Persib Pesta 6 Gol Vs Shan United: Ujian Sesungguhnya Lawan ....",
+   "link": "https://enamplus.liputan6.com/bola/read/8338805/respons-coach-igor-tolic-usai-persib-pesta-6-gol-vs-shan-united-ujian-sesungguhnya-lawan",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T05:00:00Z",
+   "ringkasan": "Persib Bandung meraih kemenangan telak 6-0 atas Shan United FC pada laga kedua Grup B ASEAN Club Championship (ACC) 2026/2027 yang digelar di Stadion GBLA, Kota Bandung, Kamis (19/11/2026) malam. Enam gol kemenangan Maung Bandung tercipta melalui sumbangan Balsa Sekulic (menit ke-12 dan 66), Mariano Peralta (menit ke-17), Luka Menalo (menit ke-52), Adam Alis (menit ke-81), serta Uilliam Barros…",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/xx0ONrXhuXeFnvSTrCStjBFOTWw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9401660/original/042242000_1795143816-persbib-bandung-menang-telak-atas-shan-united-fdb70b.png",
+   "id": "4d311d233242",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/tNUBjS9BV4Zpu4Oziv5Cph5GLek=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/thumbnails/9401660/original/042242000_1795143816-persbib-bandung-menang-telak-atas-shan-united-fdb70b.png",
+   "penulis": "Harwanto Bimo Pratomo"
+  },
+  {
+   "judul": "Inter Milan Bidik Bek Masa Depan Jerman, Harganya Bikin Geleng-Geleng",
+   "link": "https://www.inews.id/sport/soccer/inter-milan-bidik-bek-masa-depan-jerman-harganya-bikin-geleng-geleng",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T05:00:00Z",
+   "ringkasan": "Inter Milan mengincar bek muda Stuttgart",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/09/09/cristian_chivu.jpg",
+   "id": "dc8ccbf148c8",
+   "kategori": [
+    "Liga Italia",
+    "Liga Jerman"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/09/cristian_chivu.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Klasemen ASEAN Club Championship: Persib Tempel JDT di Puncak Grup B",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8761427/klasemen-asean-club-championship-persib-tempel-jdt-di-puncak-grup-b",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T04:40:30Z",
+   "ringkasan": "Persib Bandung menempe lJohor Darul Ta'zim di puncak klasemen Grup B ASEAN Club Championship usai bantai Shan United. Berikut klasemen ASEAN Club Championship.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/persib-bandung-1795110042203_169.jpeg?w=640&q=90",
+   "id": "af50ee028f3c",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/persib-bandung-1795110042203_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Putra Rusdi K"
+  },
+  {
+   "judul": "Daftar Pemain Timnas Indonesia yang Diprediksi Tampil di SEA Games 2027, John Herdman Sudah Sebut Dua Nama",
+   "link": "https://www.viva.co.id/bola/1945066-daftar-pemain-timnas-indonesia-yang-diprediksi-tampil-di-sea-games-2027-john-herdman-sudah-sebut-dua-nama",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T04:32:00Z",
+   "ringkasan": "John Herdman membuka peluang Arlyansyah Abdulmanan dan Zanadin Fariz memperkuat Timnas Indonesia di SEA Games 2027 setelah tampil positif dalam TC di Bali.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/18/6afdc363895a6-skuad-timnas-indonesia-saat-tc-bali-9-17-november-2026_gemini_665_374.jpg",
+   "id": "e49c1b84cf72",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/18/6afdc363895a6-skuad-timnas-indonesia-saat-tc-bali-9-17-november-2026_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Link Live Streaming Kualifikasi Piala Asia U-17 2027 Timnas Indonesia vs Myanmar",
+   "link": "https://www.liputan6.com/bola/read/8338695/link-live-streaming-kualifikasi-piala-asia-u-17-2027-timnas-indonesia-vs-myanmar",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T04:30:01Z",
+   "ringkasan": "Timnas Indonesia U-17 vs Myanmar berlangsung di Thuwunna Stadium, Jumat (20/11/2026) pukul 15.30 WIB.",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/pGAB-MVujV4M3JaDey6GTdfaGu4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397750/original/092240100_1794652722-SaveInta.com_904871684_17998395171020020_7748198567696075831_n.jpg",
+   "id": "af78e79b76dd",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/6Ujl1uYMk543GeuR-M1-oLCn-_g=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9397750/original/092240100_1794652722-SaveInta.com_904871684_17998395171020020_7748198567696075831_n.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Shevchenko Balas Tuduhan Mudryk: Fitnah Tak Berdasar!",
+   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8761254/shevchenko-balas-tuduhan-mudryk-fitnah-tak-berdasar",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T04:20:15Z",
+   "ringkasan": "Mudryk menyalahkan UAF atas sanksi larangan main selama 20 bulan akibat positif doping yang menimpanya. Shevchenko lantas buka suara dan memberi balasan.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/andriy-shevchenko-1795141438822_169.jpeg?w=640&q=90",
+   "id": "cec5ef87e550",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/andriy-shevchenko-1795141438822_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Adhi Prasetya"
+  },
+  {
+   "judul": "Jadwal Siaran Langsung Timnas Indonesia U-17 vs Myanmar: Tayang di TV Mana, Jam Berapa?",
+   "link": "https://www.viva.co.id/bola/1945057-jadwal-siaran-langsung-timnas-indonesia-u-17-vs-myanmar-tayang-di-tv-mana-jam-berapa",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T04:02:00Z",
+   "ringkasan": "Timnas Indonesia U-17 menghadapi Myanmar pada laga terakhir Grup A Kualifikasi Piala Asia U-17 2027, Jumat (20/11/2026), pukul 15.30 sore WIB. Tayang di TV mana?",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/12/6af5501c091c2-timnas-indonesia-u-17_gemini_665_374.jpg",
+   "id": "322bb21359d1",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/12/6af5501c091c2-timnas-indonesia-u-17_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Pemain Ekuador Diskors 8 Tahun usai Lempar Asisten Wasit Pakai Batu",
+   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8761226/pemain-ekuador-diskors-8-tahun-usai-lempar-asisten-wasit-pakai-batu",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T04:00:00Z",
+   "ringkasan": "Seorang pemain Ekuador dihukum larangan main selama delapan tahun usai melukai seorang asisten wasit di tengah laga hingga harus menjalani operasi.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2018/04/14/deeefa05-cb65-4296-a1e2-b873e6ea0779_169.jpeg?w=640&q=90",
+   "id": "f2eaaf61079f",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2018/04/14/deeefa05-cb65-4296-a1e2-b873e6ea0779_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Adhi Prasetya"
+  },
+  {
+   "judul": "Antonio Conte Ingin Balik ke Juventus, Manajemen Justru Lirik Simone Inzaghi",
+   "link": "https://www.inews.id/sport/soccer/antonio-conte-ingin-balik-ke-juventus-manajemen-justru-lirik-simone-inzaghi",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T04:00:00Z",
+   "ringkasan": "Antonio Conte ingin kembali melatih Juventus, tetapi manajemen Bianconeri dikabarkan lebih mempertimbangkan Simone Inzaghi untuk musim 2027-2028.",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/19/antonio_conte.jpg",
+   "id": "8f0b22b9d463",
+   "kategori": [
+    "Liga Italia"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/19/antonio_conte.jpg",
+   "penulis": "Abdul Haris"
+  },
+  {
+   "judul": "Ingin Quality Time Bareng Keluarga Jadi Lebih Sehat? Ikuti Wilio Run 2026 dan Beli Tiketnya di BRImo",
+   "link": "https://www.liputan6.com/bola/read/8338821/ingin-quality-time-bareng-keluarga-jadi-lebih-sehat-ikuti-wilio-run-2026-dan-beli-tiketnya-di-brimo",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T03:45:13Z",
+   "ringkasan": "Wilio Run 2026 hadirkan pengalaman lari seru bersama keluarga dengan pilihan kategori 3K dan 5K serta kemudahan pembelian tiket melalui BRImo.",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/jLwBQGik_fdNR93kU0FwOTIUvTU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9401673/original/092339400_1795145777-brimo_fun_run_.jpg",
+   "id": "1a4cf1a27445",
+   "kategori": [],
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/oFxsaNlyk5LZNN5PbpZGcFcFHuw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9401668/original/088738400_1795145183-Picture1.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Pochettino: MU Tak Boleh Takut Hadapi Liverpool",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761220/pochettino-mu-tak-boleh-takut-hadapi-liverpool",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T03:40:02Z",
+   "ringkasan": "Manajer Manchester United Mauricio Pochettino meminta para pemainnya tampil berani saat menghadapi Liverpool di Premier League akhir pekan ini.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/mauricio-pochettino-1794983746068_169.jpeg?w=640&q=90",
+   "id": "472c3119fa11",
+   "kategori": [
+    "Liga Inggris"
+   ],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/18/mauricio-pochettino-1794983746068_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Adhi Prasetya"
+  },
+  {
+   "judul": "Top 3 Berita Bola: Boy Arnez Ukir Sejarah, Pindah ke Liga Korea",
+   "link": "https://www.liputan6.com/bola/read/8338717/top-3-berita-bola-boy-arnez-ukir-sejarah-pindah-ke-liga-korea",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T03:30:08Z",
+   "ringkasan": "Boy Arnez dipinjamkan LavAni ke klub Korea Selatan, Uijeongbu KB Insurance Stars Volleyball Club.",
+   "gambar": "https://cdn0-production-images-kly.akamaized.net/zyoS6_TtW8FAriIEzFX_fH6g7-w=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350152/original/096106900_1789567116-Lip6boy_nez_1767323249_3800905359016559499_2925134467.jpg",
+   "id": "109152f62998",
+   "kategori": [],
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/XPfTe3V-iuihWzjUwUhmfWD6Qig=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9350152/original/096106900_1789567116-Lip6boy_nez_1767323249_3800905359016559499_2925134467.jpg",
+   "penulis": null
+  },
+  {
+   "judul": "Selebrasi Doa Beda Agama Pemain Timnas Indonesia U-17 Viral, Warganet Dunia Beri Pujian: Inilah Wujud Sepak Bola",
+   "link": "https://www.viva.co.id/bola/1945047-selebrasi-doa-beda-agama-pemain-timnas-indonesia-u-17-viral-warganet-dunia-beri-pujian-inilah-wujud-sepak-bola",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T03:30:00Z",
+   "ringkasan": "Selebrasi doa pemain Timnas Indonesia U-17 dengan gestur dari berbagai keyakinan viral di media sosial dan menuai pujian warganet dunia usai menang 4-0 atas Afghanistan.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc2ccee8876-pemain-timnas-indonesia-u-17_gemini_665_374.jpg",
+   "id": "b2eaf6eb5b3c",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc2ccee8876-pemain-timnas-indonesia-u-17_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Tega! Pelatih Blackpool Dipecat Tepat di Hari Ulang Tahunnya",
+   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761219/tega-pelatih-blackpool-dipecat-tepat-di-hari-ulang-tahunnya",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T03:20:15Z",
+   "ringkasan": "Nasib apes diterima Ian Evatt. Pelatih Blackpool itu dipecat tepat pada hari ulang tahunnya ke-45.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/ian-evatt-1795138460087_169.jpeg?w=640&q=90",
+   "id": "9496c9f9e4bc",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/ian-evatt-1795138460087_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Adhi Prasetya"
+  },
+  {
+   "judul": "Neymar Provokasi Fans Lawan: Kalian akan Degradasi!",
+   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8761218/neymar-provokasi-fans-lawan-kalian-akan-degradasi",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T03:00:30Z",
+   "ringkasan": "Bintang Santos Neymar terekam kamera melakukan provokasi ke fans Coritiba. Dia mengejek klub lawan bakal jatuh ke jurang degradasi.",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/neymar-1795139013281_169.jpeg?w=640&q=90",
+   "id": "783ea974cbf9",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/neymar-1795139013281_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro"
+  },
+  {
+   "judul": "[FULL] Sekjen Yunus Nusi Blak-blakan Keputusan PSSI Soal Kisruh Futsal Indonesia: Menunjuk ...",
+   "link": "https://enamplus.liputan6.com/bola/read/8338781/full-sekjen-yunus-nusi-blak-blakan-keputusan-pssi-soal-kisruh-futsal-indonesia-menunjuk",
+   "sumber": "Liputan6",
+   "waktu": "2026-11-20T03:00:00Z",
+   "ringkasan": "PSSI akan menggelar konferensi pers di GBK Arena, Jakarta Pusat, pada Kamis (19/11/2026) sore WIB untuk memberikan perkembangan terbaru terkait FFI. Sekjen PSSI, Yunus Nusi, dan Pelaksana Tugas (Plt) Ketua FFI sekaligus anggota Komite Eksekutif (Exco) PSSI, Vivin Cahyani, menghadiri sesi jumpa media tersebut. Konferensi pers itu bakal membahas polemik PSSI dengan FFI yang telah terjadi dalam…",
+   "gambar": "https://cdn1-production-images-kly.akamaized.net/lYF5100BSqYs3wIXmCniTrHRVus=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9401617/original/056612900_1795141456-full-full-c70f22.png",
+   "id": "e0d37087ff2c",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": null,
+   "penulis": null
+  },
+  {
+   "judul": "David Nascimento Minta Timnas Indonesia U-17 Lebih Berani Hadapi Myanmar",
+   "link": "https://www.viva.co.id/bola/1945041-david-nascimento-minta-timnas-indonesia-u-17-lebih-berani-hadapi-myanmar",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T03:00:00Z",
+   "ringkasan": "Timnas Indonesia U-17 sudah lolos ke Piala Asia U-17 2027. David Nascimento meminta Garuda Muda tampil berani dan percaya diri saat menghadapi Myanmar.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc5b3cbc24a-skuad-timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027_gemini_665_374.jpg",
+   "id": "61894f6c90df",
+   "kategori": [
+    "Timnas"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc5b3cbc24a-skuad-timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Persib Baru Pesta Gol 6-0, Balsa Sekulic Kirim Ancaman untuk Bali United",
+   "link": "https://www.inews.id/sport/soccer/persib-baru-pesta-gol-6-0-balsa-sekulic-kirim-ancaman-untuk-bali-united",
+   "sumber": "iNews",
+   "waktu": "2026-11-20T03:00:00Z",
+   "ringkasan": "Balsa Sekulic mencetak dua gol saat Persib Bandung membantai Shan United 6-0 di Shopee Cup",
+   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/20/balsa_sekulic.jpg",
+   "id": "32c42e99c73d",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/20/balsa_sekulic.jpg",
+   "penulis": "Reynaldi Hermawan"
+  },
+  {
+   "judul": "Bung Binder Pilih Man of the Match Persib vs Shan United: Bukan Balsa Sekulic",
+   "link": "https://www.viva.co.id/bola/1945036-bung-binder-pilih-man-of-the-match-persib-vs-shan-united-bukan-balsa-sekulic",
+   "sumber": "VIVA",
+   "waktu": "2026-11-20T02:30:00Z",
+   "ringkasan": "Bung Binder memilih Luka Menalo sebagai Man of the Match Persib vs Shan United. Pilihan itu bukan Balsa Sekulic yang mencetak dua gol dalam kemenangan 6-0.",
+   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acb81daadece-skuad-persib-bandung-20262027_gemini_665_374.jpg",
+   "id": "bf3294992413",
+   "kategori": [
+    "Liga Indonesia"
+   ],
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/11/6acb81daadece-skuad-persib-bandung-20262027_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya"
+  },
+  {
+   "judul": "Jadwal Kualifikasi Piala Asia U-17: Indonesia Vs Myanmar Hari Ini",
+   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8761184/jadwal-kualifikasi-piala-asia-u-17-indonesia-vs-myanmar-hari-ini",
+   "sumber": "detikSport",
+   "waktu": "2026-11-20T02:20:08Z",
+   "ringkasan": "Indonesia menjalani laga terakhir di kualifikasi Piala Asia U-17 2027 melawan Myanmar hari ini. Berikut jadwal pertandingan selengkapnya!",
+   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/dewa-majesta-1794454736228_169.webp?w=640&q=90",
+   "id": "70a946eadcb0",
+   "kategori": [],
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/12/dewa-majesta-1794454736228_169.webp?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro"
+  },
+  {
    "judul": "Sebelum Belanja Pemain, MU Maksimalkan Dulu Skuad Saat Ini",
    "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8761181/sebelum-belanja-pemain-mu-maksimalkan-dulu-skuad-saat-ini",
    "sumber": "detikSport",
    "waktu": "2026-11-20T02:00:20Z",
    "ringkasan": "Manchester United dikabarkan akan bergerak aktif di bursa transfer Januari, namun sebelum itu Mauricio Pochettino ingin memaksimalkan skuad yang ada.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/mauricio-pochettino-1795111645628_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/mauricio-pochettino-1795111645628_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Adhi Prasetya",
    "id": "25246bb080a0",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/mauricio-pochettino-1795111645628_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Adhi Prasetya"
+   ]
   },
   {
    "judul": "Jadwal Pekan ke-10 Super League 2026/2027: Persija ke Markas PSM, Persib Tantang Bali United",
@@ -49,12 +1106,12 @@
    "waktu": "2026-11-20T02:00:00Z",
    "ringkasan": "Jadwal pekan ke-10 Super League 2026/2027 berlangsung 20-22 November. Persija Jakarta menghadapi PSM Makassar, sedangkan Persib menjamu Bali United di GBLA.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/12/6aa542a2a467a-balsa-sekulic-di-laga-persija-vs-persib_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/12/6aa542a2a467a-balsa-sekulic-di-laga-persija-vs-persib_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "a0308b745f59",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/12/6aa542a2a467a-balsa-sekulic-di-laga-persija-vs-persib_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Daftar Pemenang AFC Awards 2026, Tak Ada Indonesia",
@@ -63,10 +1120,10 @@
    "waktu": "2026-11-20T01:30:00Z",
    "ringkasan": "AFC Awards 2026 sudah digelar di Bangkok. Berikut daftar pemenang dari berbagai kategori, tak ada yang berasal dari Indonesia.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/17/afcafc-awards-bangkok-2026afc-awardsasosiasi-sepak-bola-malaysiafam-1792191787186_169.jpeg?w=640&q=90",
-   "id": "4db6bbcc2845",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/17/afcafc-awards-bangkok-2026afc-awardsasosiasi-sepak-bola-malaysiafam-1792191787186_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   "penulis": "Yanu Arifin",
+   "id": "4db6bbcc2845",
+   "kategori": []
   },
   {
    "judul": "Jadwal Persib Bandung usai Bantai Shan United 6-0 di GBLA, Padat hingga Akhir Tahun",
@@ -75,12 +1132,12 @@
    "waktu": "2026-11-20T01:27:17Z",
    "ringkasan": "Persib Bandung menang 6-0 atas Shan United. Selanjutnya, Maung Bandung menghadapi Bali United, FC Seoul hingga Johor Darul Ta'zim dalam jadwal padat hingga akhir 2026.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff96017a7f9-skuad-persib-bandung-di-shopee-cup-20262027_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff96017a7f9-skuad-persib-bandung-di-shopee-cup-20262027_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "8e56cd706e44",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff96017a7f9-skuad-persib-bandung-di-shopee-cup-20262027_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "10 Pemain Paling Subur dalam Sejarah Liverpool vs Manchester United",
@@ -89,12 +1146,12 @@
    "waktu": "2026-11-20T01:24:04Z",
    "ringkasan": "Rivalitas Liverpool dan Manchester United tidak hanya menghadirkan pertandingan penuh gengsi, tetapi juga melahirkan sejumlah pencetak gol produktif.",
    "gambar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774149/10-pemain-paling-subur-dalam-sejarah-liverpool-vs-manchester-united-hyb.jpg",
+   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774149/10-pemain-paling-subur-dalam-sejarah-liverpool-vs-manchester-united-hyb.jpg",
+   "penulis": null,
    "id": "1ff53e3cbbc5",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774149/10-pemain-paling-subur-dalam-sejarah-liverpool-vs-manchester-united-hyb.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "John Stones Rentan Cedera, Inter Milan Bidik Bek Lazio Seharga Rp804 Miliar",
@@ -103,12 +1160,12 @@
    "waktu": "2026-11-20T01:05:00Z",
    "ringkasan": "John Stones baru bermain empat kali akibat cedera, Inter Milan kini mengincar bek Lazio Oliver Provstgaard yang dibanderol hampir Rp804 miliar.",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/19/bek_inter_milan_john_stones.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/19/bek_inter_milan_john_stones.jpg",
+   "penulis": "Abdul Haris",
    "id": "d6e7904c8f47",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/19/bek_inter_milan_john_stones.jpg",
-   "penulis": "Abdul Haris"
+   ]
   },
   {
    "judul": "Liverpool vs Manchester United: Duo Merah yang Bentrok sejak Revolusi Industri",
@@ -117,12 +1174,12 @@
    "waktu": "2026-11-20T01:03:10Z",
    "ringkasan": "Rivalitas Liverpool dan Manchester United menjadi salah satu persaingan paling panas dalam sejarah sepak bola Inggris.",
    "gambar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774141/liverpool-vs-manchester-united-duo-merah-yang-bentrok-sejak-revolusi-industri-txu.jpg",
+   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774141/liverpool-vs-manchester-united-duo-merah-yang-bentrok-sejak-revolusi-industri-txu.jpg",
+   "penulis": null,
    "id": "445d72a99a37",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://pict.sindonews.com/dyn/850/pena/news/2026/11/20/11/1774141/liverpool-vs-manchester-united-duo-merah-yang-bentrok-sejak-revolusi-industri-txu.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "MU Perlu Belajar Lagi Cara Jadi Pemenang",
@@ -131,12 +1188,12 @@
    "waktu": "2026-11-20T01:00:18Z",
    "ringkasan": "Mauricio Pochettino menegaskan timnya perlu kembali menemukan caranya menjadi seorang pemenang menyusul sederet hasil buruk yang diraih pada awal musim ini.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/mauricio-pochettino-1795111645499_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/mauricio-pochettino-1795111645499_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Adhi Prasetya",
    "id": "45035cbc9146",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/mauricio-pochettino-1795111645499_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Adhi Prasetya"
+   ]
   },
   {
    "judul": "Profil Matteo Ligato, Pemain Juventus yang Berpotensi Bela Timnas Indonesia",
@@ -145,13 +1202,13 @@
    "waktu": "2026-11-20T00:48:26Z",
    "ringkasan": "Matteo Ligato, pemain 13 tahun di Juventus U-14, memiliki darah Indonesia dari sang ibu asal Ternate. Ia pernah juara Liga U-13 Pro dan berpotensi dilirik Timnas Indonesi",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff98a14af51-matteo-ligato-13_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff98a14af51-matteo-ligato-13_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "cb1ed263668e",
    "kategori": [
     "Timnas",
     "Liga Italia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff98a14af51-matteo-ligato-13_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Dewa United vs Persita Tangerang: Ambisi Tamu Akhiri Kutukan",
@@ -160,12 +1217,12 @@
    "waktu": "2026-11-20T00:35:31Z",
    "ringkasan": "Dewa United menjamu Persita Tangerang di BIS, Jumat (20/11/2026).",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/bc0eryLPleLWuUNamfNjMoLbuHA=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9391032/original/032375900_1793869440-dewa.jpg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/AxtAdi5SqO0ZBBdzCMyp274XGQw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9391032/original/032375900_1793869440-dewa.jpg",
+   "penulis": null,
    "id": "84c568248248",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/AxtAdi5SqO0ZBBdzCMyp274XGQw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9391032/original/032375900_1793869440-dewa.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Timnas Inggris Dihukum gara-gara Nyanyian Fans Hina Paus",
@@ -174,12 +1231,12 @@
    "waktu": "2026-11-20T00:30:50Z",
    "ringkasan": "UEFA menjatuhkan sanksi kepada Timnas Inggris akibat ulah fans saat menjalani laga tandang ke Spanyol. Penggemar Tiga Singa menyanyikan chant merendahkan Paus.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/06/09/pope-spain-1780959595375_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/06/09/pope-spain-1780959595375_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro",
    "id": "fafadad313be",
    "kategori": [
     "Liga Champions"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/06/09/pope-spain-1780959595375_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Bayu Baskoro"
+   ]
   },
   {
    "judul": "PSS Sleman vs Arema FC: Adu Strategi 2 Caretaker",
@@ -188,12 +1245,12 @@
    "waktu": "2026-11-20T00:20:27Z",
    "ringkasan": "PSS Sleman menjamu Arema FC pada pekan ke-10 BRI Super League 2026/2027.",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/sMk3qLoefqxFJRNgXJqa28hO9JI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9392930/original/034991700_1794149840-1000139916.jpg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/QoJjFdstWfYmppznU0RAPtAnq4w=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9392930/original/034991700_1794149840-1000139916.jpg",
+   "penulis": null,
    "id": "378e33fee32b",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/QoJjFdstWfYmppznU0RAPtAnq4w=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9392930/original/034991700_1794149840-1000139916.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Garudayaksa FC vs Madura United: Ujian Tren Positif di Pakansari",
@@ -202,12 +1259,12 @@
    "waktu": "2026-11-20T00:05:46Z",
    "ringkasan": "Garudayaksa FC vs Madura United berlangsung di Pakansari, Jumat (20/11/2026) pukul 15.30 WIB.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/DwihUPbVvV5KP3fY9ef0J_lIFVQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9400694/original/081989800_1795002461-garudayaksa_1.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/iMstf7aWVSKafl697vhQi4PhEX4=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9400694/original/081989800_1795002461-garudayaksa_1.jpg",
+   "penulis": null,
    "id": "6d118efbb497",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/iMstf7aWVSKafl697vhQi4PhEX4=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9400694/original/081989800_1795002461-garudayaksa_1.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Persib Menggila di Asia, Pengamat Bongkar Masalah Maung Bandung di Kompetisi Domestik",
@@ -216,12 +1273,12 @@
    "waktu": "2026-11-20T00:05:29Z",
    "ringkasan": "Persib menang 6-0 atas Shan United di ASEAN Shopee Cup. Bung Binder menyoroti perbedaan performa Maung Bandung di Asia dan Super League serta masalah lini pertahanan.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff8debcf7a8-ragnar-oratmangoen_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff8debcf7a8-ragnar-oratmangoen_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "7ec830148f96",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff8debcf7a8-ragnar-oratmangoen_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Prediksi Timnas Indonesia U-17 vs Myanmar: Garuda Muda Ingin Sempurna",
@@ -230,12 +1287,12 @@
    "waktu": "2026-11-20T00:00:01Z",
    "ringkasan": "Timnas Indonesia vs Myanmar memanaskan putaran penutup kualifikasi Piala Asia U-17 2027.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/CqRga3US71MnqY0E-pYkfuamzbk=/280x319:2169x1384/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9395437/original/084287000_1794390240-HW1Rqp0bsAAwb4x.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/I16cShJGaiJLoA8iLlzFeUnzmtY=/280x319:2169x1384/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9395437/original/084287000_1794390240-HW1Rqp0bsAAwb4x.jpg",
+   "penulis": null,
    "id": "e5947322ac5c",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/I16cShJGaiJLoA8iLlzFeUnzmtY=/280x319:2169x1384/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9395437/original/084287000_1794390240-HW1Rqp0bsAAwb4x.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Drone Rekam Latihan Perdana Pochettino di MU, Videonya Disebar di Youtube",
@@ -244,12 +1301,12 @@
    "waktu": "2026-11-20T00:00:00Z",
    "ringkasan": "Mauricio Pochettino sudah menggelar latihan perdana di Manchester United. Ada drone mata-mata merekam sesi itu dan membagikannya di Youtube.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/mauricio-pochettino-1795111645499_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/mauricio-pochettino-1795111645499_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Yanu Arifin",
    "id": "11311b734409",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/mauricio-pochettino-1795111645499_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   ]
   },
   {
    "judul": "Bantu Persib Bikin Setengah Lusin Gol, Balsa Sekulic: Kami tak Punya Banyak Waktu Merayakan",
@@ -258,12 +1315,12 @@
    "waktu": "2026-11-19T23:33:26Z",
    "ringkasan": "Persib mencetak setengah lusin gol saat membantai Shan United 6-0. Balsa Sekulic mengungkap fakta di balik kemenangan besar Maung Bandung di Shopee Cup.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae20c71f2414-balsa-sekulic_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae20c71f2414-balsa-sekulic_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "5779e1b97845",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/28/6ae20c71f2414-balsa-sekulic_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Seusianya, Nico Paz Mirip-mirip Messi dan Maradona'",
@@ -272,12 +1329,12 @@
    "waktu": "2026-11-19T23:30:00Z",
    "ringkasan": "Nico Paz terus bersinar di Como. Bintang muda Argentina itu disebut mirip Lionel Messi dan Diego Maradona.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/06/28/nico-paz-1782657188606_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/06/28/nico-paz-1782657188606_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Yanu Arifin",
    "id": "dbd2f552d2a7",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/06/28/nico-paz-1782657188606_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   ]
   },
   {
    "judul": "Orama Bentuk Kepengurusan Olahraga Majiang di 38 Provinsi",
@@ -286,10 +1343,10 @@
    "waktu": "2026-11-19T23:09:47Z",
    "ringkasan": "Resmi Deklarasi, Orama Bentuk Kepengurusan Olahraga Majiang di 38 Provinsi",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/hQJ5wgVFRfS7O9WCLzFDg_02bAk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9401565/original/062195600_1795129578-20261119_190252.jpg",
-   "id": "a9220dd9b7c0",
-   "kategori": [],
    "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/TJDViOZ8GkKf8-1y-sDa6pl1DOw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9401565/original/062195600_1795129578-20261119_190252.jpg",
-   "penulis": null
+   "penulis": null,
+   "id": "a9220dd9b7c0",
+   "kategori": []
   },
   {
    "judul": "Persib Bantai Shan United 6-0, Igor Tolic Justru Beri Peringatan kepada Balsa Sekulic Cs",
@@ -298,12 +1355,12 @@
    "waktu": "2026-11-19T23:00:45Z",
    "ringkasan": "Pelatih Persib Bandung, Igor Tolic, mengingatkan anak asuhnya agar tidak cepat puas setelah meraih kemenangan telak 6-0 atas Shan United FC dalam lanjutan Grup B.",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff3fad7fb9a-pelatih-persib-igor-tolic-usai-persib-bantai-shan-united-6-0_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff3fad7fb9a-pelatih-persib-igor-tolic-usai-persib-bantai-shan-united-6-0_gemini_1265_711.jpg",
+   "penulis": "Surya Aditiya",
    "id": "8bf9a57c524f",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/20/6aff3fad7fb9a-pelatih-persib-igor-tolic-usai-persib-bantai-shan-united-6-0_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya"
+   ]
   },
   {
    "judul": "Pochettino Datang, Bintang MU Ini Malah Begadang Main GTA 6",
@@ -312,12 +1369,12 @@
    "waktu": "2026-11-19T23:00:00Z",
    "ringkasan": "Demam Grand Theft Auto (GTA) 6 yang baru rilis juga melanda bintang sepak bola. Pemain Manchester United bahkan rela begadang saat Mauricio Pochettino datang.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/06/19/pre-order-gta-6-mulai-dibuka-25-juni-2026-di-playstation-xbox-store-1781840337939_169.png?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/06/19/pre-order-gta-6-mulai-dibuka-25-juni-2026-di-playstation-xbox-store-1781840337939_169.png?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Yanu Arifin",
    "id": "a9144f878d11",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/06/19/pre-order-gta-6-mulai-dibuka-25-juni-2026-di-playstation-xbox-store-1781840337939_169.png?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   ]
   },
   {
    "judul": "Igor Tolic Bongkar Perkembangan Persib usai Libas Shan United 6-0, Ada Kabar Baik!",
@@ -326,12 +1383,12 @@
    "waktu": "2026-11-19T22:44:00Z",
    "ringkasan": "Igor Tolic mengungkap kunci kemenangan dan perkembangan kebugaran pemain.",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/20/igor_tolic.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/20/igor_tolic.jpg",
+   "penulis": "Reynaldi Hermawan",
    "id": "61be02fa2a38",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/20/igor_tolic.jpg",
-   "penulis": "Reynaldi Hermawan"
+   ]
   },
   {
    "judul": "Conte Ungkap Alasan Dulu Tinggalkan Inter Meski Baru Raih Scudetto",
@@ -340,12 +1397,12 @@
    "waktu": "2026-11-19T22:30:05Z",
    "ringkasan": "Antonio Conte membuka kisahnya selama dua tahun melatih Inter Milan. Meski sukses menyelesaikan misi awal, ia pergi karena ada kesepakatan yang tak ditepati.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/05/24/antonio-conte-scudetto-1748061314954_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/05/24/antonio-conte-scudetto-1748061314954_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Adhi Prasetya",
    "id": "4c18119799c3",
    "kategori": [
     "Liga Italia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/05/24/antonio-conte-scudetto-1748061314954_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Adhi Prasetya"
+   ]
   },
   {
    "judul": "Lawan Liverpool, Pochettino Janjikan MU Bakal Bermain Lepas dan Menyerang",
@@ -354,12 +1411,12 @@
    "waktu": "2026-11-19T22:23:21Z",
    "ringkasan": "Bermain tanpa tekanan dan menyerang. Demikian arahan pelatih baru Manchester United Mauricio Pochettino menjelang laga berat melawan Liverpool di Liga Inggris pada Minggu",
    "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/19/6afe16ba6a0cc-mauricio-pochettino-saat-masih-menjabat-sebagai-pelatih-chelsea_gemini_665_374.jpg",
+   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/19/6afe16ba6a0cc-mauricio-pochettino-saat-masih-menjabat-sebagai-pelatih-chelsea_gemini_1265_711.jpg",
+   "penulis": "Bajo Winarno",
    "id": "a916b0118a93",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/19/6afe16ba6a0cc-mauricio-pochettino-saat-masih-menjabat-sebagai-pelatih-chelsea_gemini_1265_711.jpg",
-   "penulis": "Bajo Winarno"
+   ]
   },
   {
    "judul": "Jadwal Timnas Indonesia U-17 vs Myanmar di Kualifikasi Piala Asia U-17 2027, Garuda Asia Bidik Penutup Sempurna!",
@@ -368,12 +1425,12 @@
    "waktu": "2026-11-19T22:04:00Z",
    "ringkasan": "Jadwal Timnas Indonesia U-17 vs Myanmar pada Jumat, 20 November 2026 di Stadion Thuwunna, dengan Garuda Muda membidik kemenangan keempat beruntun.",
    "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/timnas_indonesia_u_17_5.jpg",
+   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/timnas_indonesia_u_17_5.jpg",
+   "penulis": "Abdul Haris",
    "id": "bd556323c11e",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/timnas_indonesia_u_17_5.jpg",
-   "penulis": "Abdul Haris"
+   ]
   },
   {
    "judul": "18 Klub Bela Petinggi Premier League Jika Dituntut Sponsor Man City",
@@ -382,12 +1439,12 @@
    "waktu": "2026-11-19T22:00:00Z",
    "ringkasan": "Direksi Premier League terancam dituntut sponsor Manchester City, usai The Citizens didakwa melanggar aturan keuangan. 18 klub Liga Inggris langsung membela.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/09/11/logo-premier-league-1789107436502_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/11/logo-premier-league-1789107436502_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Yanu Arifin",
    "id": "4cfea08957c9",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/11/logo-premier-league-1789107436502_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   ]
   },
   {
    "judul": "Selebrasi Timnas Indonesia U-17 Viral di Medsos, Dipuji Warganet Dunia",
@@ -396,12 +1453,12 @@
    "waktu": "2026-11-19T21:00:56Z",
    "ringkasan": "Timnas Indonesia U-17 merayakan gol ke gawang Afganistan dengan selebrasi doa sesuai keyakinan pemain yang berbeda-beda. Aksi itu dipuji warganet dunia.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/dewa-majesta-1795104510640_169.webp?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/19/dewa-majesta-1795104510640_169.webp?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro",
    "id": "4e9bb80bb078",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/19/dewa-majesta-1795104510640_169.webp?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Bayu Baskoro"
+   ]
   },
   {
    "judul": "Kapten India Top Skor Kualifikasi Piala Asia U-17, Jadi Korban Rasisme",
@@ -410,10 +1467,10 @@
    "waktu": "2026-11-19T20:00:18Z",
    "ringkasan": "Kapten India Dallalmoun Gangte jadi top skor sementara kualifikasi Piala Asia U-17 2027. Dia jadi korban rasisme saat menghadapi Palestina.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/dallalmoun-gangte-1795106706522_169.png?w=640&q=90",
-   "id": "1520d1102938",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/19/dallalmoun-gangte-1795106706522_169.png?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Bayu Baskoro"
+   "penulis": "Bayu Baskoro",
+   "id": "1520d1102938",
+   "kategori": []
   },
   {
    "judul": "Kini Jadi Pelatih, Pochettino Bilang Dulu Dukung MU",
@@ -422,12 +1479,12 @@
    "waktu": "2026-11-19T19:00:11Z",
    "ringkasan": "Mauricio Pochettino resmi jadi pelatih baru Manchester United. Pria asal Argentina itu mengaku dulu mendukung Setan Merah.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/mauricio-pochettino-1794983746068_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/18/mauricio-pochettino-1794983746068_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Yanu Arifin",
    "id": "625feddc9dc3",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/18/mauricio-pochettino-1794983746068_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin"
+   ]
   },
   {
    "judul": "Hujan Deras Tak Hentikan Persib, Balsa Sekulic Ungkap Kunci Kemenangan 6-0 atas Shan United",
@@ -464,12 +1521,12 @@
    "waktu": "2026-11-19T18:00:45Z",
    "ringkasan": "Persib Bandung membantai Shan United di laga ASEAN Club Championship. Pangeran Biru tak mau merayakannya lama-lama dan langsung fokus menghadapi Bali United.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/persib-bandung-1795110042203_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/persib-bandung-1795110042203_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Bayu Baskoro",
    "id": "3de31f00da32",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/20/persib-bandung-1795110042203_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Bayu Baskoro"
+   ]
   },
   {
    "judul": "Fleksibilitas Xavi Espart Membuat Barcelona Temukan Bek dengan Profil Berbeda",
@@ -521,10 +1578,10 @@
    "waktu": "2026-11-19T17:00:50Z",
    "ringkasan": "Pemain Palestina Mohammed Jamhour mendapat kartu merah karena menendang tubuh pemain India di kualifikasi Piala Asia U-17 2027. Pelatih Palestina meminta maaf.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/timnas-palestina-u-17-1795101831545_169.webp?w=640&q=90",
-   "id": "db52c414e001",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/19/timnas-palestina-u-17-1795101831545_169.webp?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Bayu Baskoro"
+   "penulis": "Bayu Baskoro",
+   "id": "db52c414e001",
+   "kategori": []
   },
   {
    "judul": "Tertawa! Respons Jorge Jesus, Ibu Cristiano Ronaldo Bahagia Portugal Gagal Menang: Dia Bukan Ibu!",
@@ -547,10 +1604,10 @@
    "waktu": "2026-11-19T16:55:52Z",
    "ringkasan": "Putri Kusuma Wardani dan Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti bertemu unggulan pertama di masing-masing nomor.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/X04VhbxTgEIFXlqRHby4J7tU5f8=/0x412:3999x2666/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/7772554/original/008804200_1780584084-20260604BL_Putri_KW_Vs_Michelle_Li_Indonesia_Open_2026_10.jpg",
-   "id": "715676fc533f",
-   "kategori": [],
    "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/JXzv06SdLhhegI9CkctRW5eBW2s=/0x412:3999x2666/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,1100,20,0)/kly-media-production/medias/7772554/original/008804200_1780584084-20260604BL_Putri_KW_Vs_Michelle_Li_Indonesia_Open_2026_10.jpg",
-   "penulis": null
+   "penulis": null,
+   "id": "715676fc533f",
+   "kategori": []
   },
   {
    "judul": "Jadwal Timnas Indonesia di Kualifikasi Piala Asia U-17 2027: Tersisa Myanmar",
@@ -559,12 +1616,12 @@
    "waktu": "2026-11-19T16:53:50Z",
    "ringkasan": "Timnas Indonesia bertemu Myanmar pada laga terakhir Grup A kualifikasi Piala Asia U-17 2027.",
    "gambar": "https://cdn1-production-images-kly.akamaized.net/9gP7NGUPz2fAOjVWSHNUodwHJnM=/0x33:1088x646/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397741/original/058801400_1794652352-SaveInta.com_902621273_17998392639020020_7820935617710021432_n.jpg",
+   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/Ml4IcMVvmQMrVodcfwjVMyWG7Iw=/0x33:1088x646/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9397741/original/058801400_1794652352-SaveInta.com_902621273_17998392639020020_7820935617710021432_n.jpg",
+   "penulis": null,
    "id": "14fc15e9f4af",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/Ml4IcMVvmQMrVodcfwjVMyWG7Iw=/0x33:1088x646/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9397741/original/058801400_1794652352-SaveInta.com_902621273_17998392639020020_7820935617710021432_n.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "Pramono Anung Siapkan Kejutan 500 Tahun Jakarta, Klub Sepak Bola Dunia Bakal Diundang!",
@@ -638,12 +1695,12 @@
    "waktu": "2026-11-19T16:30:15Z",
    "ringkasan": "PSIM Yogyakarta masih berupaya memburu kemenangan kedua di Super League. Laskar Mataram pun akan bermain realistis.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2024/04/29/pss-sleman_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2024/04/29/pss-sleman_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya",
    "id": "7c03d1c0bd23",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2024/04/29/pss-sleman_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   ]
   },
   {
    "judul": "Timnas Indonesia U-17 Sudah Lolos, 5 Pemain Masih Menunggu Giliran",
@@ -652,12 +1709,12 @@
    "waktu": "2026-11-19T16:27:44Z",
    "ringkasan": "Jelang laga terakhir Grup A kontra Myanmar, lima pemain Timnas Indonesia belum bermain di kualifikasi Piala Asia U-17 2027.",
    "gambar": "https://cdn0-production-images-kly.akamaized.net/ycGgMkL238bFWrGkYtuoxzK-xWk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9397751/original/072528200_1794652771-SaveInta.com_902621337_17998395186020020_753111686053838714_n.jpg",
+   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/nmi5oEywh_P9sa6eGw_n7RZRaBk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9397751/original/072528200_1794652771-SaveInta.com_902621337_17998395186020020_753111686053838714_n.jpg",
+   "penulis": null,
    "id": "d823d0c5743e",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/nmi5oEywh_P9sa6eGw_n7RZRaBk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9397751/original/072528200_1794652771-SaveInta.com_902621337_17998395186020020_753111686053838714_n.jpg",
-   "penulis": null
+   ]
   },
   {
    "judul": "3 Bek yang Perlu Dilepas Manchester United",
@@ -708,12 +1765,12 @@
    "waktu": "2026-11-19T16:00:50Z",
    "ringkasan": "Amad Diallo lagi jadi sorotan di sosial media. Itu setelah sang winger Manchester United tantang balik netizen yang mengkritiknya.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/amad-diallomanchester-unitedman-unitedman-utdmuleeds-united-vs-man-united-1792456683217.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/20/amad-diallomanchester-unitedman-unitedman-utdmuleeds-united-vs-man-united-1792456683217_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan",
    "id": "413372dee608",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/20/amad-diallomanchester-unitedman-unitedman-utdmuleeds-united-vs-man-united-1792456683217_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   ]
   },
   {
    "judul": "Kisah Al Hamra Hehanussa, Antara Bisnis, Kuliah, hingga Pecel Jalan Dhoho",
@@ -734,12 +1791,12 @@
    "waktu": "2026-11-19T15:40:25Z",
    "ringkasan": "Mantan pemain Barcelona, Bojan Krkic, menilai El Barca tak perlu mendatangkan penyerang anyar karena sudah punya Raphinha. Raphinha tampil tajam di musim ini.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/03/raphinha-1790960902008_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/03/raphinha-1790960902008_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Putra Rusdi K",
    "id": "9883ab4bad5e",
    "kategori": [
     "Liga Spanyol"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/03/raphinha-1790960902008_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Putra Rusdi K"
+   ]
   },
   {
    "judul": "Yunus Nusi Kaget Dilaporkan ke Komite Etik PSSI, Singgung Alasan Bisa Laporkan Balik Eks Ketum FFI Michael Sianipar",
@@ -776,12 +1833,12 @@
    "waktu": "2026-11-19T15:20:45Z",
    "ringkasan": "Seiring masa depan Bruno Fernandes yang dispekulasikan, Manchester United kabarnya mulai memikirkan pengganti. Nico Paz salah satu yang dipertimbangkan.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/05/nico-paz-1793831763692_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/05/nico-paz-1793831763692_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Rifqi Ardita Widianto",
    "id": "d3f418e96352",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/05/nico-paz-1793831763692_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Rifqi Ardita Widianto"
+   ]
   },
   {
    "judul": "Klasemen Grup B ASEAN Club Championship 2026/2027 usai Persib Bantai Shan United 6-0",
@@ -819,12 +1876,12 @@
    "waktu": "2026-11-19T15:00:25Z",
    "ringkasan": "Vincent Kompany bakal kembali memimpin Bayern Munich usai sempat pingsan di lapangan. Ia menegaskan kondisi saat ini sudah sangat sehat.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/vincent-kompany-1795046121693_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/19/vincent-kompany-1795046121693_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Putra Rusdi K",
    "id": "fda2672109fb",
    "kategori": [
     "Liga Jerman"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/19/vincent-kompany-1795046121693_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Putra Rusdi K"
+   ]
   },
   {
    "judul": "STY Blak-blakan Usai Arly Dipanggil Timnas, Masa Depannya di Persija: Akan Jadi Pemain ...",
@@ -904,10 +1961,10 @@
    "waktu": "2026-11-19T14:40:45Z",
    "ringkasan": "Hajime Moriyasu sudahi perjalanan delapan tahun jadi pelatih Timnas Jepang. Meski gagal raih trofi, Samurai Biru di bawanya ke panggung tertinggi dunia.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2022/12/28/hajime-moriyasu.jpeg?w=640&q=90",
-   "id": "996834adc6ba",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2022/12/28/hajime-moriyasu_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   "penulis": "Afif Farhan",
+   "id": "996834adc6ba",
+   "kategori": []
   },
   {
    "judul": "Persib Menang 6-0, Cuan Rp9 Miliar Menanti Maung Bandung di ASEAN Club Championship 2026/2027",
@@ -944,12 +2001,12 @@
    "waktu": "2026-11-19T14:31:38Z",
    "ringkasan": "Di bawah guyuran hujan deras, Persib Bandung 'membanjiri' gawang Shan United dengan gol. Pangeran Biru berpesta 6-0.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/08/para-pemain-persib-bandung-1794126286276_169.webp?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/08/para-pemain-persib-bandung-1794126286276_169.webp?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Rifqi Ardita Widianto",
    "id": "729a24939e5e",
    "kategori": [
     "Liga Indonesia"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/08/para-pemain-persib-bandung-1794126286276_169.webp?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Rifqi Ardita Widianto"
+   ]
   },
   {
    "judul": "Derby Banten Memanas, Dewa United Waspadai Kebangkitan Persita",
@@ -972,12 +2029,12 @@
    "waktu": "2026-11-19T14:17:50Z",
    "ringkasan": "Agenda uji coba Timnas Futsal Indonesia di Jakarta International Stadium (JIS) kemungkinan batal. Diduga ada kesalahan prosedur dalam mengundang tim lawan.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/07/28/timnas-futsal-indonesia-1785228330146_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/07/28/timnas-futsal-indonesia-1785228330146_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Muhammad Robbani",
    "id": "34ae1d191e7b",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/07/28/timnas-futsal-indonesia-1785228330146_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Muhammad Robbani"
+   ]
   },
   {
    "judul": "PSSI Buka Kesempatan bagi Siapa Pun jadi Ketum FFI, Termasuk Michael Sianipar Bisa Maju Lagi",
@@ -1000,12 +2057,12 @@
    "waktu": "2026-11-19T14:00:45Z",
    "ringkasan": "Mauricio Pochettino sudah memulai era di Manchester United. Berikut enam pemain yang disebut Gary Neville akan dilego manajer asal Argentina itu.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/mauricio-pochettino-1794983746068_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/15/lisandro-martinez-1792031205720_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "dok.Pool",
    "id": "43ae458ee6fa",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/15/lisandro-martinez-1792031205720_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "dok.Pool"
+   ]
   },
   {
    "judul": "[FULL] Pengakuan Kadu Monteiro Borneo, Pernah Ditawar MU Hingga Inter Milan: Tak Beri Izin Saya ...",
@@ -1058,12 +2115,12 @@
    "waktu": "2026-11-19T13:45:15Z",
    "ringkasan": "Deco membantah Frenkie de Jong berselisih dengan Barcelona. De Jong digosipkan berselisih dengan pihak Blaugrana terkait penanganan cedera.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/08/20/frenkie-de-jongbarcelonatrofeo-joan-gamper-1787199575871_169.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/08/20/frenkie-de-jongbarcelonatrofeo-joan-gamper-1787199575871_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Putra Rusdi K",
    "id": "0ac72ff78dfa",
    "kategori": [
     "Liga Spanyol"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/08/20/frenkie-de-jongbarcelonatrofeo-joan-gamper-1787199575871_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Putra Rusdi K"
+   ]
   },
   {
    "judul": "Fajar/Fikri Tersingkir dari Hong Kong Open 2026, Akui Kondisi Belum 100 Persen",
@@ -1084,12 +2141,12 @@
    "waktu": "2026-11-19T13:30:45Z",
    "ringkasan": "Sekjen PSSI Yunus Nusi menolak istilah ikan besar Vs Ikan Kecil dalam kisruh di tubuh Federasi Futsal Indonesia (FFI). Aspirasi insan futsal terjadi organik.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2022/10/02/pssi-buka-suara-terkait-tragedi-kanjuruhan-2_43.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2022/10/02/pssi-buka-suara-terkait-tragedi-kanjuruhan-2_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Muhammad Robbani",
    "id": "aa4c3f6f533c",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2022/10/02/pssi-buka-suara-terkait-tragedi-kanjuruhan-2_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Muhammad Robbani"
+   ]
   },
   {
    "judul": "Pemain Juventus Juventus Jawab Rumor Gabung Manchester United",
@@ -1127,12 +2184,12 @@
    "waktu": "2026-11-19T13:15:10Z",
    "ringkasan": "Real Madrid mau berikan perpanjangan kontrak lebih lama ke Jude Bellingham. Sang gelandang digoda kenaikan gaji.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/10/04/2237531957-1759561133846.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/10/04/2237531957-1759561133846_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan",
    "id": "febd4aff29bc",
    "kategori": [
     "Liga Spanyol"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/10/04/2237531957-1759561133846_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   ]
   },
   {
    "judul": "Hasil Persib Bandung vs Shan United: Balsa Sekulic dan Mariano Peralta Bawa Maung Bandung Unggul 2 Gol di Babak Pertama",
@@ -1183,12 +2240,12 @@
    "waktu": "2026-11-19T13:00:10Z",
    "ringkasan": "Diogo Dalot bermain sebagai bek sayap kiri Manchester United di awal musim ini. Dalot pantang mengeluh!",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/diogo-dalotmanchester-unitedman-unitedman-utdmu-1794938636245.jpeg?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/18/diogo-dalotmanchester-unitedman-unitedman-utdmu-1794938636245_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Afif Farhan",
    "id": "cf910d1f7de4",
    "kategori": [
     "Liga Inggris"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/18/diogo-dalotmanchester-unitedman-unitedman-utdmu-1794938636245_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   ]
   },
   {
    "judul": "Pertama Datang Ke RI, Kocak Pedro Monteiro Kaget: Warga Jakarta Aja Lebih Banyak dari Satu Portugal",
@@ -1211,12 +2268,12 @@
    "waktu": "2026-11-19T12:45:45Z",
    "ringkasan": "Timnas Indonesia U-17 sudah memastikan tiket ke Piala Asia U-17 2027. Ada lima pemain Garuda Muda yang menyumbangkan gol sepanjang kualifikasi, siapa saja?",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027-dok-timnasindonesiakitagaruda-1794635088403_43.webp?w=640&q=90",
+   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/14/timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027-dok-timnasindonesiakitagaruda-1794635088403_169.webp?wid=54&w=1200&v=1&t=jpeg",
+   "penulis": "Lucas Aditya",
    "id": "1c8078201f5d",
    "kategori": [
     "Timnas"
-   ],
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/14/timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027-dok-timnasindonesiakitagaruda-1794635088403_169.webp?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   ]
   },
   {
    "judul": "Argentina Buka Pintu buat Messi di Piala Dunia 2030",
@@ -1225,10 +2282,10 @@
    "waktu": "2026-11-19T12:30:30Z",
    "ringkasan": "Lionel Messi sudah pensiun dari Timnas Argentina. Jika Messi mau jadi bagian Tim Tango di Piala Dunia 2030 sebagai asisten pelatih, silakan!",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2023/06/15/lionel-messi-lionel-scaloni.jpeg?w=640&q=90",
-   "id": "d1948deda08d",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2023/06/15/lionel-messi-lionel-scaloni_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan"
+   "penulis": "Afif Farhan",
+   "id": "d1948deda08d",
+   "kategori": []
   },
   {
    "judul": "Pratama Arhan Masuk 12 Pelempar Bola Terbaik Sepanjang Sejarah, Ungguli Bintang Liverpool dan Arsenal!",
@@ -1251,10 +2308,10 @@
    "waktu": "2026-11-19T12:15:40Z",
    "ringkasan": "Michael Sianipar dipersilakan untuk maju bursa pencalonan Ketua Umun FFI. Kepengurusan federasi pilihan FFI akan menggelar Kongres Luar Biasa (KLB).",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2025/03/18/ketua-umum-ffi-michael-sianipar-brigittadetikcom-1742282368603.jpeg?w=640&q=90",
-   "id": "dbc6fa2ae4ea",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2025/03/18/ketua-umum-ffi-michael-sianipar-brigittadetikcom-1742282368603_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Muhammad Robbani"
+   "penulis": "Muhammad Robbani",
+   "id": "dbc6fa2ae4ea",
+   "kategori": []
   },
   {
    "judul": "3 Kandidat Presiden FIFA, Siapa Saja?",
@@ -1263,10 +2320,10 @@
    "waktu": "2026-11-19T12:00:45Z",
    "ringkasan": "Pendaftaran calon Presiden FIFA periode 2027 sampai 2031 sudah ditutup. Berikut ini daftar nama yang diserahkan Sekjen FIFA.",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/09/08/presiden-fifa-gianni-infantino-1788813158997_169.jpeg?w=640&q=90",
-   "id": "f46900ace7a2",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/08/presiden-fifa-gianni-infantino-1788813158997_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya"
+   "penulis": "Lucas Aditya",
+   "id": "f46900ace7a2",
+   "kategori": []
   },
   {
    "judul": "Jelang KLB, Anak Buah Erick Tantang Balik Michael Sianipar Calonkan Diri Jadi Ketum: Voters Suruhan",
@@ -1343,10 +2400,10 @@
    "waktu": "2026-11-19T11:40:10Z",
    "ringkasan": "Federasi Futsal Indonesia (FFI) akan menggelar Kongres Luar Biasa (KLB) pada 11 Desember 2026. Agenda ini digelar untuk mencari ketua umum",
    "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/vivin-cahyani-1795085954003.jpeg?w=640&q=90",
-   "id": "ef60bcf53a02",
-   "kategori": [],
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/19/vivin-cahyani-1795085954003_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Muhammad Robbani"
+   "penulis": "Muhammad Robbani",
+   "id": "ef60bcf53a02",
+   "kategori": []
   },
   {
    "judul": "PSSI dan Federasi Futsal Indonesia Tetapkan KLB 11 Desember 2026, Michael Sianipar Dipersilakan Maju",
@@ -5833,1062 +6890,6 @@
    "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/timnas-jerman-1794887799987_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
    "penulis": "Mohammad Resha Pratama",
    "id": "b1dec513fac8",
-   "kategori": []
-  },
-  {
-   "judul": "Lolos ke Piala Asia 2027, David Nascimento Tegaskan Perjuangan Timnas Indonesia U-17 Belum Selesai",
-   "link": "https://www.viva.co.id/bola/1944404-lolos-ke-piala-asia-2027-david-nascimento-tegaskan-perjuangan-timnas-indonesia-u-17-belum-selesai",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T14:30:00Z",
-   "ringkasan": "Timnas Indonesia U-17 lolos ke Piala Asia 2027 usai menang 4-0 atas Afghanistan. David Nascimento menegaskan perjuangan Garuda Muda belum selesai karena masih ada satu la",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc5b3cbc24a-skuad-timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc5b3cbc24a-skuad-timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "7e90a7c3c25e",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Le Minerale Kembali Jadi Official Mineral Water Borobudur Marathon 2026, Perkuat Dukungan Ajang Lari Berstandar Dunia",
-   "link": "https://www.liputan6.com/bola/read/8337249/le-minerale-kembali-jadi-official-mineral-water-borobudur-marathon-2026-perkuat-dukungan-ajang-lari-berstandar-dunia",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T14:27:25Z",
-   "ringkasan": "Le Minerale kembali menunjukan sebagai produk air mineral asli Indonesia pada ajang lari berstandar internasional di Borobudur Marathon 2026.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/jrke-00ol4z9AtS9iuzE5BRsUX8=/0x0:1247x702/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9399852/original/065247900_1794924572-Borobudur_Marathon_2026.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/gmzBV36X1zonr_kzBVWTJkHox0o=/0x0:1247x702/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9399852/original/065247900_1794924572-Borobudur_Marathon_2026.jpg",
-   "penulis": null,
-   "id": "1c474277ffa0",
-   "kategori": []
-  },
-  {
-   "judul": "Timnas Indonesia U-17 Lolos Piala Asia 2027, Pelatih David Nascimento Malah Belum Puas",
-   "link": "https://www.inews.id/sport/soccer/timnas-indonesia-u-17-lolos-piala-asia-2027-pelatih-david-nascimento-malah-belum-puas",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T14:21:00Z",
-   "ringkasan": "Timnas Indonesia U-17 lolos Piala Asia 2027 usai menang 4-0 atas Afganistan, tetapi David Nascimento justru menyoroti kelemahan Garuda Muda.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/pelatih_timnas_indonesia_u_17_david_nascimento.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/pelatih_timnas_indonesia_u_17_david_nascimento.jpg",
-   "penulis": "Abdul Haris",
-   "id": "e4c699c6b2ee",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Mariano Peralta Sudah Beradaptasi dengan Tekanan di Persib",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8757280/mariano-peralta-sudah-beradaptasi-dengan-tekanan-di-persib",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T14:15:40Z",
-   "ringkasan": "Mariano Peralta mulai memberi kontribusi positif untuk Persib Bandung. Dia mengaku sudah beradaptasi dengan tekanan besar di skuad Maung Bandung.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/04/pemain-persib-bandung-1793794254244_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/04/pemain-persib-bandung-1793794254244_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya",
-   "id": "39b040435c28",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "PSSI DKI Jakarta Umumkan Jadwal KLB, Pemilihan Ketua Jadi Agenda Utama",
-   "link": "https://www.viva.co.id/bola/1944415-pssi-dki-jakarta-umumkan-jadwal-klb-pemilihan-ketua-jadi-agenda-utama",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T14:14:28Z",
-   "ringkasan": "PSSI DKI Jakarta resmi mengumumkan tahapan dan jadwal pelaksanaan Kongres Luar Biasa (KLB). Agenda utama kongres tersebut adalah pemilihan Ketua PSSI DKI Jakarta.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc611089dbf-pssi-dki-jakarta-umumkan-jadwal-klb-pemilihan-ketua-jadi-agenda-utama_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc611089dbf-pssi-dki-jakarta-umumkan-jadwal-klb-pemilihan-ketua-jadi-agenda-utama_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto",
-   "id": "3b9bd1190981",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Davor Suker Yakin Mourinho Bakal Bawa Madrid Kembali Berjaya",
-   "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-8757277/davor-suker-yakin-mourinho-bakal-bawa-madrid-kembali-berjaya",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T14:00:50Z",
-   "ringkasan": "Jose Mourinho kembali menangani Real Madrid sejak awal musim ini. Davor Suker yakin The Special One akan kembali membawa El Real meraih gelar juara.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/15/jose-mourinho-1792039542268_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/15/jose-mourinho-1792039542268_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya",
-   "id": "ab2523ea58b2",
-   "kategori": [
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Panas! Rebutan Kursi Presiden FIFA, Bos Federasi Prancis Tantang Gianni Infantino",
-   "link": "https://enamplus.liputan6.com/bola/read/8337127/panas-rebutan-kursi-presiden-fifa-bos-federasi-prancis-tantang-gianni-infantino",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T14:00:00Z",
-   "ringkasan": "Pemilihan Presiden FIFA tahun depan dipastikan akan menjadi salah satu konstelasi politik paling panas dalam sejarah sepak bola modern. Presiden Federasi Sepak Bola Prancis (FFF), Philippe Diallo, resmi maju sebagai kandidat penantang petahana Gianni Infantino, dengan mengantongi dukungan penuh dari asosiasi anggota UEFA yang menginginkan perubahan arah tata kelola organisasi. Dukungan bulat UEFA…",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/Pk-j24W4wfouJVRK2WwKYVz5mPw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9399709/original/001534500_1794915109-gianni-infantino-mau-diganti-76abab.png",
-   "gambar_besar": null,
-   "penulis": null,
-   "id": "d1f1a174d2d3",
-   "kategori": [
-    "Liga Champions"
-   ]
-  },
-  {
-   "judul": "Dewa Majesta Bongkar Kerasnya Latihan Timnas Indonesia U-17 Sebelum Bantai Afghanistan",
-   "link": "https://www.viva.co.id/bola/1944401-dewa-majesta-bongkar-kerasnya-latihan-timnas-indonesia-u-17-sebelum-bantai-afghanistan",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T14:00:00Z",
-   "ringkasan": "Dewa Majesta mengungkap kerasnya latihan fisik Timnas Indonesia U-17 selama berbulan-bulan sebelum menang 4-0 atas Afghanistan di Kualifikasi Piala Asia U-17 2027.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc338d60db6-i-dewa-gede-majesta-sandhya_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc338d60db6-i-dewa-gede-majesta-sandhya_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "e9ff1d00d207",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Klopp: Havertz Pemain Top, Wajar Jadi Andalan Arteta",
-   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8757191/klopp-havertz-pemain-top-wajar-jadi-andalan-arteta",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T13:45:35Z",
-   "ringkasan": "Kai Havertz menjadi andalan utama di lini depan Arsenal. Pelatih Timnas Jerman, Juergen Klopp, mengaku tidak kaget dengan peran krusial sang pemain tersebut.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/02/kai-havertz-1793596686621_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/02/kai-havertz-1793596686621_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya",
-   "id": "2e5a9c0ee6c9",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Indonesia Punya 4 Wakil di Piala Asia 2027, Timnas U-17 Lengkapi Kebanggaan Garuda",
-   "link": "https://www.inews.id/sport/soccer/indonesia-punya-4-wakil-di-piala-asia-2027-timnas-u-17-lengkapi-kebanggaan-garuda",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T13:44:00Z",
-   "ringkasan": "Indonesia memiliki empat wakil di Piala Asia 2027 setelah Timnas U-17 lolos, menyusul timnas senior, U-20, dan U-17 putri.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/timnas_indonesia_u_17_5.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/timnas_indonesia_u_17_5.jpg",
-   "penulis": "Abdul Haris",
-   "id": "5cfbf6447fc9",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Calon Lawan Timnas Indonesia di Piala Asia U-17 2027",
-   "link": "https://www.liputan6.com/bola/read/8337155/calon-lawan-timnas-indonesia-di-piala-asia-u-17-2027",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T13:30:40Z",
-   "ringkasan": "Piala Asia U-17 2027 jadi partisipasi kesembilan timnas Indonesia.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/bKyybkdyuwWXH84Aw9i_UnuSAVI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9399661/original/061378900_1794911259-idn_u17.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/Fik9mIh5LFoNIm8PE8o9rEt18lw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9399661/original/061378900_1794911259-idn_u17.jpg",
-   "penulis": null,
-   "id": "4035c65942bb",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Luka Menalo Mulai Nyetel di Persib, Sempat Terkendala...",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8757195/luka-menalo-mulai-nyetel-di-persib-sempat-terkendala",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T13:30:10Z",
-   "ringkasan": "Luka Menalo mulai kerasan bermain di Indonesia bersama Persib Bandung. Ia mengakui sempat kesulitan beradaptasi terkait cuaca.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/03/pemain-persib-bandung-luka-menalo-1791007893421.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/03/pemain-persib-bandung-luka-menalo-1791007893421_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Muhammad Robbani",
-   "id": "532bf39d263c",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Persija Pimpin Klasemen, Shin Tae-yong Tak Ingin Target Juara Jadi Beban",
-   "link": "https://www.inews.id/sport/soccer/persija-pimpin-klasemen-shin-tae-yong-tak-ingin-target-juara-jadi-beban",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T13:28:00Z",
-   "ringkasan": "Persija Jakarta memimpin klasemen dengan 21 poin, tetapi Shin Tae-yong ingin pemain tetap menikmati pertandingan agar target juara tidak menjadi beban.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/10/07/pelatih_persija_jakarta_shin_tae_yong.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/10/07/pelatih_persija_jakarta_shin_tae_yong.jpg",
-   "penulis": "Abdul Haris",
-   "id": "8c197b44462f",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "David Nascimento Bongkar Momen Tegang di Ruang Ganti Timnas Indonesia U-17",
-   "link": "https://www.viva.co.id/bola/1944397-david-nascimento-bongkar-momen-tegang-di-ruang-ganti-timnas-indonesia-u-17",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T13:27:48Z",
-   "ringkasan": "David Nascimento mengungkap momen tegang di ruang ganti Timnas Indonesia U-17 setelah mentalitas pemain menurun pada babak pertama melawan Afghanistan.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc55cd0ec1f-pelatih-timnas-indonesia-u-17-david-nascimento_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc55cd0ec1f-pelatih-timnas-indonesia-u-17-david-nascimento_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "0a192730db35",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Timnas Indonesia U-17 Masih Sempurna, Belum Kebobolan",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8757402/timnas-indonesia-u-17-masih-sempurna-belum-kebobolan",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T13:15:57Z",
-   "ringkasan": "Kemenangan telak atas Afganistan melanjutkan kesempurnaan Timnas Indonesia U-17 di Kualifikasi Piala Asia U-17 2027. Indonesia menang clean sheet di tiga laga.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027-dok-timnasindonesiakitagaruda-1794635088403_169.webp?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/14/timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027-dok-timnasindonesiakitagaruda-1794635088403_169.webp?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Okdwitya Karina Sari",
-   "id": "28930a61d3e0",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "1.000 Hari Absennya Ferland Mendy di Real Madrid",
-   "link": "https://www.liputan6.com/bola/read/8337205/1000-hari-absennya-ferland-mendy-di-real-madrid",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T13:15:02Z",
-   "ringkasan": "Ferland Mendy sudah absen 1.000 hari akibat cedera selama membela Real Madrid. Bek Prancis itu kini menghadapi ketidakpastian masa depan di Santiago Bernabeu.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/6OL39iMFFqzZJ25uY4Z8xCuYq-Q=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5556712/original/008400200_1776299239-6.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/Nk-yZT0fKvBiigBsbJTO9OqW5BE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5556712/original/008400200_1776299239-6.jpg",
-   "penulis": null,
-   "id": "733600b91195",
-   "kategori": [
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Detail Kontrak JJ Gabriel di Real Madrid: Durasi 3 Tahun, MU Dapat Kompensasi",
-   "link": "https://www.liputan6.com/bola/read/8337199/detail-kontrak-jj-gabriel-di-real-madrid-durasi-3-tahun-mu-dapat-kompensasi",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T13:08:39Z",
-   "ringkasan": "JJ Gabriel segera bergabung dengan Real Madrid lewat kontrak tiga tahun. MU akan menerima kompensasi pelatihan sebesar €360.000.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/5LxLKu62mkD5P47SNZeLgKo3F9E=/0x112:1079x720/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5181371/original/029068300_1743944756-Snapins.ai_488234653_18027316040652533_8814711496011655741_n_1080.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/O-dsJXSLJeTKIZzPew1UUo-eHmY=/0x112:1079x720/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5181371/original/029068300_1743944756-Snapins.ai_488234653_18027316040652533_8814711496011655741_n_1080.jpg",
-   "penulis": null,
-   "id": "b4b0c8c72244",
-   "kategori": [
-    "Liga Inggris",
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Zanetti: Serie A Seimbang, Inter Bukan Satu-satunya Unggulan",
-   "link": "https://sport.detik.com/sepakbola/liga-italia/d-8757198/zanetti-serie-a-seimbang-inter-bukan-satu-satunya-unggulan",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T13:00:10Z",
-   "ringkasan": "Wakil presiden Inter Milan Javier Zanetti menilai timnya punya banyak pesaing di Serie A musim ini. Serie A kali ini disebutnya lebih kompetitif.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/11/inter-milan-vs-parma-1791653466746_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/11/inter-milan-vs-parma-1791653466746_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "e99b6d1a8cf7",
-   "kategori": [
-    "Liga Italia"
-   ]
-  },
-  {
-   "judul": "Highlights AFC U-17! Timnas Lolos Usai Bantai Afghanistan 4-0, Banjir Tiki-Taka & Umpan Cantik",
-   "link": "https://enamplus.liputan6.com/bola/read/8337120/highlights-afc-u-17-timnas-lolos-usai-bantai-afghanistan-4-0-banjir-tiki-taka-amp-umpan-cantik",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T13:00:00Z",
-   "ringkasan": "Timnas Indonesia U-17 menampilkan permainan luar biasa. Garuda Muda menang dengan skor besar 4-0 atas Timnas Afganistan U-17 dalam laga ketiga Grup A Kualifikasi Piala Asia U-17 2026 di Stadion Thuwunna, Yangon, Myanmar, Selasa (17/11/2026) sore WIB. Gol pertama Timnas Indonesia U-17 tercipta di menit kedelapan lewat I Dewa Gede Majesta Sandhya. Pemain berdarah Bali itu melakukan tendangan first…",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/HZUkeagbqPzKLalB9JI7qcxY6R0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9399703/original/038940900_1794914580-timnas-afghan-992326.png",
-   "gambar_besar": null,
-   "penulis": null,
-   "id": "3797ce61514a",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Klasemen Grup A Kualifikasi Piala Asia usai Timnas Indonesia U-17 Lumat Afghanistan 4-0",
-   "link": "https://www.viva.co.id/bola/1944370-klasemen-grup-a-kualifikasi-piala-asia-usai-timnas-indonesia-u-17-lumat-afghanistan-4-0",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T13:00:00Z",
-   "ringkasan": "Timnas Indonesia U-17 mengalahkan Afghanistan 4-0 dan memastikan juara Grup A Kualifikasi Piala Asia U-17 2027 dengan sembilan poin dari tiga pertandingan.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc2ccee8876-pemain-timnas-indonesia-u-17_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc2ccee8876-pemain-timnas-indonesia-u-17_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "96a8c7ae320f",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "AS Roma Ketagihan Belanja di Premier League",
-   "link": "https://www.liputan6.com/bola/read/8337191/as-roma-ketagihan-belanja-di-premier-league",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T12:57:39Z",
-   "ringkasan": "AS Roma kembali membidik pemain Premier League pada bursa transfer Januari 2027. Jamie Gittens dan Callum Hudson-Odoi masuk radar Giallorossi.",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/kAwdT8NCEGaxaMMGyAU0JPDBjnY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9392840/original/007693000_1794131219-roma.jpg",
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/FHIkfzLcPWU51PKExjjy8EkyYAQ=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9392840/original/007693000_1794131219-roma.jpg",
-   "penulis": null,
-   "id": "2e09a0b6bcaf",
-   "kategori": [
-    "Liga Inggris",
-    "Liga Italia"
-   ]
-  },
-  {
-   "judul": "Persebaya Tutup Tribune Utara GBT, Khawatir Denda Besar Terulang",
-   "link": "https://www.inews.id/sport/soccer/persebaya-tutup-tribune-utara-gbt-khawatir-denda-besar-terulang",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T12:51:00Z",
-   "ringkasan": "Persebaya menutup Tribun Utara GBT mulai laga melawan Java United untuk menjaga keamanan dan mencegah terulangnya denda besar seperti musim lalu.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/persebaya_menutup_tribune_utara_gbt_mulai_laga_mel.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/persebaya_menutup_tribune_utara_gbt_mulai_laga_mel.jpg",
-   "penulis": "Abdul Haris",
-   "id": "b03703209cb1",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Diego Moreira Bersinar Bersama AC Milan dan Timnas Belgia",
-   "link": "https://www.liputan6.com/bola/read/8337183/diego-moreira-bersinar-bersama-ac-milan-dan-timnas-belgia",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T12:49:18Z",
-   "ringkasan": "Diego Moreira tampil impresif bersama AC Milan dan Timnas Belgia",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/5cIAPrrvI_Sh4AX0xtIkH9kk8Ho=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9353600/original/002984100_1789970916-DIEGO.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/wTAjfjy91ZMLWXwHu-yTuNb60_I=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9353600/original/002984100_1789970916-DIEGO.jpg",
-   "penulis": null,
-   "id": "74d9ba3519b4",
-   "kategori": [
-    "Liga Italia"
-   ]
-  },
-  {
-   "judul": "Lumat Afghanistan 4-0, Pelatih Timnas Indonesia U-17 Justru Kritik Mentalitas Garuda Muda: Sangat Rendah",
-   "link": "https://www.viva.co.id/bola/1944386-lumat-afghanistan-4-0-pelatih-timnas-indonesia-u-17-justru-kritik-mentalitas-garuda-muda-sangat-rendah",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T12:47:18Z",
-   "ringkasan": "Timnas Indonesia U-17 menang 4-0 atas Afghanistan, tetapi David Nascimento menyoroti penurunan mentalitas pemain dan meminta Garuda Muda memperbaiki permainan.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/08/6a4ded4c5834f-pelatih-timnas-indonesia-u-17-david-nascimento_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/08/6a4ded4c5834f-pelatih-timnas-indonesia-u-17-david-nascimento_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "6fd31d72a0f6",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Daftar Negara yang Lolos Piala Asia U-17 2027: Timnas Indonesia Terbaru",
-   "link": "https://www.liputan6.com/bola/read/8337156/daftar-negara-yang-lolos-piala-asia-u-17-2027-timnas-indonesia-terbaru",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T12:46:03Z",
-   "ringkasan": "Sudah ada sebelas negara yang memastikan lolos Piala Asia U-17 2027.",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/A-bbfIn1_Uj--Z7KJ-g9lEeZ6IU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9399596/original/063612300_1794906801-u-17.jpg",
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/G637pomfgPBRhTrdALMYJ24T1IU=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9399596/original/063612300_1794906801-u-17.jpg",
-   "penulis": null,
-   "id": "b20a2f498dde",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Kecewanya Xavi usai Belanda Dipermak Jerman Lima Gol",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8756242/kecewanya-xavi-usai-belanda-dipermak-jerman-lima-gol",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T12:45:30Z",
-   "ringkasan": "Belanda digilas Jerman lima gol tanpa balas di UEFA Nations League. Pelatih Xavi Hernandez kecewa betul.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/xavi-hernandeztimnas-belandajerman-vs-belandauefa-nations-leagueuefa-nations-league-20262026pelatih-timnas-belanda-1794880092495_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/xavi-hernandeztimnas-belandajerman-vs-belandauefa-nations-leagueuefa-nations-league-20262026pelatih-timnas-belanda-1794880092495_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin",
-   "id": "cdd6127b9a77",
-   "kategori": [
-    "Liga Champions"
-   ]
-  },
-  {
-   "judul": "Pique Pertanyakan Skors 12 Laga Kiper Andorra: Ini kan Kecelakaan",
-   "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-8757007/pique-pertanyakan-skors-12-laga-kiper-andorra-ini-kan-kecelakaan",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T12:30:10Z",
-   "ringkasan": "Kiper Andorra Jesus Owono diskors 12 laga terkait kematian striker Tenerife Jesus de Miguel. Pemilik Andorra, Gerard Pique, percaya sanksi itu tidak adil.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/05/jesus-owono-1793847199419_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/05/jesus-owono-1793847199419_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Okdwitya Karina Sari",
-   "id": "c0ea230b54e0",
-   "kategori": []
-  },
-  {
-   "judul": "Reaksi Erick Thohir usai Timnas Indonesia U-17 Bantai Afghanistan 4-0: Bangga dengan Kalian",
-   "link": "https://www.viva.co.id/bola/1944379-reaksi-erick-thohir-usai-timnas-indonesia-u-17-bantai-afghanistan-4-0-bangga-dengan-kalian",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T12:28:14Z",
-   "ringkasan": "Erick Thohir mengapresiasi Timnas Indonesia U-17 yang lolos ke Piala Asia 2027 usai menang 4-0 atas Afghanistan, dengan catatan tiga kemenangan, sembilan gol, dan nirbobo",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/09/6af1ae861a5af-pelatih-timnas-putri-indonesia-alen-stajcic-kiri-dan-ketum-pssi-erick-thohir-kanan_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/09/6af1ae861a5af-pelatih-timnas-putri-indonesia-alen-stajcic-kiri-dan-ketum-pssi-erick-thohir-kanan_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "9b070d4d0c7f",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Bukan Serangan Balik, Ini Instruksi Pelatih yang Bikin Indonesia Bantai Afghanistan 4-0",
-   "link": "https://www.inews.id/sport/soccer/bukan-serangan-balik-ini-instruksi-pelatih-yang-bikin-indonesia-bantai-afghanistan-4-0",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T12:16:00Z",
-   "ringkasan": "Majesta mengungkap instruksi bertahan kuat dan menjaga bola menjadi kunci Indonesia mengalahkan Afghanistan 4-0 dan lolos Piala Asia U-17 2027.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/timnas_indonesia_u_17_2.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/timnas_indonesia_u_17_2.jpg",
-   "penulis": "Abdul Haris",
-   "id": "0b77bda3195c",
-   "kategori": []
-  },
-  {
-   "judul": "STY Bangga Arlyansyah Langsung Cetak Gol Bersama Timnas Indonesia",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8756993/sty-bangga-arlyansyah-langsung-cetak-gol-bersama-timnas-indonesia",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T12:15:20Z",
-   "ringkasan": "Pelatih Persija Jakarta Shin Tae-yong bangga Arlyansyah Abdulmanan langsung mencetak gol buat Timnas Indonesia dalam laga kontra Bali United.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/arlyansyah-abdulmanan-persija-jakarta-1789884814063.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/09/20/arlyansyah-abdulmanan-persija-jakarta-1789884814063_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Muhammad Robbani",
-   "id": "87903fb2a695",
-   "kategori": [
-    "Timnas",
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Tragis, Singapura Hancur Lebur Dibantai Timnas Brasil",
-   "link": "https://www.viva.co.id/bola/1944375-tragis-singapura-hancur-lebur-dibantai-timnas-brasil",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T12:14:21Z",
-   "ringkasan": "Timnas Brasil tampil menggila saat menghadapi Singapura dalam laga FIFA Matchday bertajuk Mizuho Blue Challenge The Kallang Football Series. Bermain di Stadion Nasional S",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/25/6a3cd47eae12c-vinicius-junior-di-timnas-brasil_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/06/25/6a3cd47eae12c-vinicius-junior-di-timnas-brasil_gemini_1265_711.jpg",
-   "penulis": "Robbi Yanto",
-   "id": "639270baad92",
-   "kategori": []
-  },
-  {
-   "judul": "Brasil Pesta 7 Gol ke Gawang Singapura, Vinicius Junior Hattrick",
-   "link": "https://www.viva.co.id/bola/1944367-brasil-pesta-7-gol-ke-gawang-singapura-vinicius-junior-hattrick",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T12:01:14Z",
-   "ringkasan": "Brasil menghancurkan Singapura 7-0 pada FIFA Matchday November 2026. Vinicius Jr mencetak hattrick, sementara Endrick, Estevao, dan Rayan turut menyumbang gol.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/02/6a4602dd4d773-vinicius-jr_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/07/02/6a4602dd4d773-vinicius-jr_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "708d5a4b4078",
-   "kategori": []
-  },
-  {
-   "judul": "Singapura Vs Brasil: Vinicius Junior Hat-trick, Selecao Pesta 7 Gol",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8757389/singapura-vs-brasil-vinicius-junior-hat-trick-selecao-pesta-7-gol",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T12:01:03Z",
-   "ringkasan": "Brasil tak mengalami hambatan berarti saat menghadapi Singapura di laga uji coba. Brasil pesta gol 7-0, Vinicius Junior menyumbang hat-trick alias tiga gol.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/soccer-mizuhocup-sgp-bra-1794916659216_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/soccer-mizuhocup-sgp-bra-1794916659216_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Okdwitya Karina Sari",
-   "id": "22057ddb54c9",
-   "kategori": []
-  },
-  {
-   "judul": "Indonesia Resmi Lolos Piala Asia U-17 2027, Tiket Dikunci sebelum Laga Terakhir!",
-   "link": "https://www.inews.id/sport/soccer/indonesia-resmi-lolos-piala-asia-u-17-2027-tiket-dikunci-sebelum-laga-terakhir",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T12:01:00Z",
-   "ringkasan": "Indonesia resmi lolos Piala Asia U-17 2027 sebagai juara Grup A setelah menang 4-0 atas Afghanistan, meski masih menyisakan laga melawan Myanmar.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/timnas_indonesia_u_17.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/timnas_indonesia_u_17.jpg",
-   "penulis": "Abdul Haris",
-   "id": "aa823c501375",
-   "kategori": []
-  },
-  {
-   "judul": "Arsenal Kejar Endrick, Ini Sikap Real Madrid",
-   "link": "https://www.liputan6.com/bola/read/8336817/arsenal-kejar-endrick-ini-sikap-real-madrid",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T12:00:24Z",
-   "ringkasan": "Real Madrid menolak meminjamkan Endrick pada Januari 2027. Arsenal harus mengalihkan perhatian ke target transfer lainnya.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/snHvDec-qcS9XwOkpzIUys0f6S4=/0x42:1024x619/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4946352/original/059302200_1726615907-000_36GG9EP.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/Spc1jfWITAi1-eKjFL1cqmvcMdE=/0x42:1024x619/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4946352/original/059302200_1726615907-000_36GG9EP.jpg",
-   "penulis": null,
-   "id": "6113f59cc24d",
-   "kategori": [
-    "Liga Inggris",
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Brasil Cukur Singapura 7-0",
-   "link": "https://www.liputan6.com/bola/read/8337141/brasil-cukur-singapura-7-0",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T11:55:26Z",
-   "ringkasan": "Brasil bangkit dengan mencukur Singapura di National Stadium.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/Y4l1uyJQYcI0e6kZPC3qB9MD19E=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9399728/original/096966200_1794916526-20261117_175404.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/e6GrQH4LJjg0_wvn9v5zhYJSXTk=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9399728/original/096966200_1794916526-20261117_175404.jpg",
-   "penulis": null,
-   "id": "955384f8da06",
-   "kategori": []
-  },
-  {
-   "judul": "Akhirnya Emi Martinez Bakal Main Lagi",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8756267/akhirnya-emi-martinez-bakal-main-lagi",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T11:45:50Z",
-   "ringkasan": "Emi Martinez dipastikan bisa kembali bermain usai cedera patah rahang. Kiper Chelsea itu akan tampil lagi untuk Argentina.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/emiliano-martineztimnas-argentinakiper-argentinaemi-martinez-1794880490495_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/emiliano-martineztimnas-argentinakiper-argentinaemi-martinez-1794880490495_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Yanu Arifin",
-   "id": "84d6ffc45dcb",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Klasemen Kualifikasi Piala Asia U-17 2027 Grup A: Timnas Indonesia U-17 di Puncak",
-   "link": "https://www.liputan6.com/bola/read/8337130/klasemen-kualifikasi-piala-asia-u-17-2027-grup-a-timnas-indonesia-u-17-di-puncak",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T11:35:05Z",
-   "ringkasan": "Timnas Indonesia U-17 menekuk Afghanistan 4-0 di Yangon dan memastikan tiket Piala Asia U-17 2027. Puncak Grup A kini digenggam dengan jarak tiga poin.",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/A-bbfIn1_Uj--Z7KJ-g9lEeZ6IU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9399596/original/063612300_1794906801-u-17.jpg",
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/G637pomfgPBRhTrdALMYJ24T1IU=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9399596/original/063612300_1794906801-u-17.jpg",
-   "penulis": null,
-   "id": "7939cb25efff",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Bahagianya Derry Scherhant: Cetak Gol Perdana di Kampung Halaman",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8757194/bahagianya-derry-scherhant-cetak-gol-perdana-di-kampung-halaman",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T11:30:20Z",
-   "ringkasan": "Derry Scherhant jadi salah satu pencetak gol saat Jerman membantai Belanda. Yang spesialnya adalah Scherhant mencetak gol itu di kampung halamannya.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/derry-scherhant-1794901936245_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/derry-scherhant-1794901936245_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Mohammad Resha Pratama",
-   "id": "b604b9b87033",
-   "kategori": []
-  },
-  {
-   "judul": "Dewa Majesta Bongkar Instruksi Coach David yang Bikin Timnas Indonesia U-17 Bantai Afghanistan 4-0",
-   "link": "https://www.viva.co.id/bola/1944354-dewa-majesta-bongkar-instruksi-coach-david-yang-bikin-timnas-indonesia-u-17-bantai-afghanistan-4-0",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T11:30:00Z",
-   "ringkasan": "Dewa Majesta mengungkap instruksi Coach David di ruang ganti yang membantu Timnas Indonesia U-17 mengalahkan Afghanistan 4-0 di Kualifikasi Piala Asia U-17 2027.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc338d60db6-i-dewa-gede-majesta-sandhya_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc338d60db6-i-dewa-gede-majesta-sandhya_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "2de59023fcc7",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Persija Jakarta Kembali Rotasi Lawan PSM Makassar",
-   "link": "https://www.liputan6.com/bola/read/8337115/persija-jakarta-kembali-rotasi-lawan-psm-makassar",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T11:17:27Z",
-   "ringkasan": "Persija Jakarta menyiapkan rotasi saat tandang ke PSM Makassar, Sabtu (21/11/2026).",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/tFYXA22l_wAbJcFrBpz_GyCohEo=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9392599/original/096549400_1794106654-sty_psja.jpg",
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/V72byyRJr6TuLLWcF56FoPEDxE8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9392599/original/096549400_1794106654-sty_psja.jpg",
-   "penulis": null,
-   "id": "f8e29c1c554d",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Messi Nggak Mau Dekat-dekat Federasi Sepakbola Argentina, Kenapa?",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8756968/messi-nggak-mau-dekat-dekat-federasi-sepakbola-argentina-kenapa",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T11:15:10Z",
-   "ringkasan": "Federasi Sepakbola Argentina (AFA) sedang dilanda isu pencucian uang. Lionel Messi pun tidak mau dekat-dekat dulu, takut kena salah paham.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/07/lionel-messi-1791345483536.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/07/lionel-messi-1791345483536_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan",
-   "id": "2c87c939ac63",
-   "kategori": []
-  },
-  {
-   "judul": "MU Paling Banyak Kebobolan, Pochettino Lirik Palang Pintu Baru",
-   "link": "https://www.inews.id/sport/soccer/mu-paling-banyak-kebobolan-pochettino-lirik-palang-pintu-baru",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T11:15:00Z",
-   "ringkasan": "Manchester United melirik palang pintu baru untuk membenahi pertahanan yang mencatat kebobolan terbanyak.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/14/mauricio_pochettino.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/14/mauricio_pochettino.jpg",
-   "penulis": "Abdul Haris",
-   "id": "33e42d84c628",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Masa Depan Liga Futsal Indonesia Jadi Sorotan, Dua Pelatih Ini Buka Suara soal Polemik Federasi",
-   "link": "https://enamplus.liputan6.com/bola/read/8337109/masa-depan-liga-futsal-indonesia-jadi-sorotan-dua-pelatih-ini-buka-suara-soal-polemik-federasi",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T11:03:12Z",
-   "ringkasan": "Polemik yang sedang terjadi di level federasi menjadi perhatian dalam perkembangan futsal Indonesia. Situasi ini turut memunculkan pertanyaan mengenai masa depan kompetisi dan keberlangsungan liga futsal di Tanah Air. Dua pelatih tim futsal mahasiswa, Mario Silitonga dari Institut Perbanas dan Adytya Brahmasty Panji dari Universitas Gunadarma, menyampaikan harapan mereka agar berbagai persoalan…",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/qvB40X0juQZ3iPXLUCmyuVlFkkM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9399688/original/038247000_1794913391-1117-1-359509.png",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/_ueHm6AiapmZmCbY9o22RtG1vU0=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/thumbnails/9399688/original/038247000_1794913391-1117-1-359509.png",
-   "penulis": "Arief Bagus Prasetiyo",
-   "id": "bffc8084f618",
-   "kategori": []
-  },
-  {
-   "judul": "Pengakuan Nova Arianto usai Timnas Indonesia U20 Kalah dari Yordania dan Imbang Lawan AS, Soroti Dua Hal",
-   "link": "https://www.viva.co.id/bola/1944331-pengakuan-nova-arianto-usai-timnas-indonesia-u20-kalah-dari-yordania-dan-imbang-lawan-as-soroti-dua-hal",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T11:00:00Z",
-   "ringkasan": "Nova Arianto mengungkap dua tantangan Timnas Indonesia U20 saat menghadapi Yordania dan Amerika Serikat di Turki sebagai bahan evaluasi menuju Piala Asia U20 2027.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/01/6a968c2ae9ed6-pelatih-timnas-indonesia-u-20-nova-arianto_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/09/01/6a968c2ae9ed6-pelatih-timnas-indonesia-u-20-nova-arianto_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "555debaa485d",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Shin Tae-yong Siapkan Rotasi Besar-besaran saat Persija Vs PSM",
-   "link": "https://www.inews.id/sport/soccer/shin-tae-yong-siapkan-rotasi-besar-besaran-saat-persija-vs-psm",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T11:00:00Z",
-   "ringkasan": "Shin Tae-yong membuka peluang rotasi pemain Persija Jakarta saat menghadapi PSM Makassar",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/01/pelatih_persija_jakarta_shin_tae_yong.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/01/pelatih_persija_jakarta_shin_tae_yong.jpg",
-   "penulis": "Reynaldi Hermawan",
-   "id": "53259f0a17eb",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Timnas Indonesia U-17 Lolos ke Piala Asia U-17 2027!",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8757262/timnas-indonesia-u-17-lolos-ke-piala-asia-u-17-2027",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T10:55:02Z",
-   "ringkasan": "Timnas Indonesia U-17 menang atas Afghanistan 4-0 di lanjutan Kualifikasi Piala Asia U-17 2027. Atas hasil itu, Garuda Muda terbang ke putaran final!",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027-dok-timnasindonesiakitagaruda-1794635088403.webp?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/14/timnas-indonesia-u-17-di-kualifikasi-piala-asia-u-17-2027-dok-timnasindonesiakitagaruda-1794635088403_169.webp?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan",
-   "id": "b8e4f7367952",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Klasemen Kualifikasi Piala Asia U-17 Usai Indonesia Hantam Afganistan",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8757235/klasemen-kualifikasi-piala-asia-u-17-usai-indonesia-hantam-afganistan",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T10:43:49Z",
-   "ringkasan": "Timnas Indonesia U-17 sukses menaklukkan Afganistan di Kualifikasi Piala Asia U-17 2027. Kemenangan ini membuat Garuda Muda memuncaki klasemen Grup A.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/timnas-indonesia-u-17-1794392324703_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/11/timnas-indonesia-u-17-1794392324703_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya",
-   "id": "27eafe236e9a",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Timnas Indonesia U-17 Bantai Afghanistan 4-0 di Kualifikasi Piala Asia 2027",
-   "link": "https://www.viva.co.id/bola/1944343-timnas-indonesia-u-17-bantai-afghanistan-4-0-di-kualifikasi-piala-asia-2027",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T10:38:37Z",
-   "ringkasan": "Timnas Indonesia U-17 menang telak 4-0 atas Afghanistan dalam lanjutan Grup A Kualifikasi Piala Asia U-17 2027. Majesta dan tiga pemain lainnya mencetak gol.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc2ccee8876-pemain-timnas-indonesia-u-17_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc2ccee8876-pemain-timnas-indonesia-u-17_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "b12b2561517c",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Timnas Indonesia U-17 Menang 4-0 Atas Afghanistan, Tiket Piala Asia U-17 2027 Terkunci",
-   "link": "https://www.liputan6.com/bola/read/8337090/timnas-indonesia-u-17-menang-4-0-atas-afghanistan-tiket-piala-asia-u-17-2027-terkunci",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T10:38:09Z",
-   "ringkasan": "Timnas Indonesia U-17 menang 4-0 atas Afghanistan di Yangon. Kemenangan ketiga di Grup A mengunci juara grup dan tiket Piala Asia U-17 2027.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/bKyybkdyuwWXH84Aw9i_UnuSAVI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9399661/original/061378900_1794911259-idn_u17.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/Fik9mIh5LFoNIm8PE8o9rEt18lw=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9399661/original/061378900_1794911259-idn_u17.jpg",
-   "penulis": null,
-   "id": "beebe62dcbc4",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Timnas Indonesia U-17 Hancurkan Afghanistan 4-0 di Kualifikasi Piala Asia U-17 2027",
-   "link": "https://www.inews.id/sport/soccer/timnas-indonesia-u-17-hancurkan-afghanistan-4-0-di-kualifikasi-piala-asia-u-17-2027",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T10:34:00Z",
-   "ringkasan": "Timnas Indonesia U-17 menang 4-0 atas Afghanistan di Kualifikasi Piala Asia U-17 2027, dengan Dzaky mencetak dua gol meski penalti sempat gagal.",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/para_pemain_timnas_indonesia_u_17.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/para_pemain_timnas_indonesia_u_17.jpg",
-   "penulis": "Abdul Haris",
-   "id": "e531400e8acb",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Fermin Lopez Jadi Rebutan 4 Klub Inggris, Barcelona Terima Tawaran Rp 2 Triliun",
-   "link": "https://www.liputan6.com/bola/read/8336742/fermin-lopez-jadi-rebutan-4-klub-inggris-barcelona-terima-tawaran-rp-2-triliun",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T10:30:11Z",
-   "ringkasan": "Fermin Lopez menarik minat empat klub Inggris. Barcelona dikabarkan menerima tawaran hingga 85 juta poundsterling untuk gelandang berusia 23 tahun itu.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/bClYHwNiLAEt_3gC9X4O1-EfMGQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5311275/original/051443700_1754858408-Barcelona-2.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/6fc5dF-E7PP65GFZYJlXXoJS3iU=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5311275/original/051443700_1754858408-Barcelona-2.jpg",
-   "penulis": null,
-   "id": "0332efdf0b64",
-   "kategori": [
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Shin Tae-yong Puji Arlyansyah Abdulmanan usai Cetak Gol untuk Timnas Indonesia",
-   "link": "https://www.viva.co.id/bola/1944324-shin-tae-yong-puji-arlyansyah-abdulmanan-usai-cetak-gol-untuk-timnas-indonesia",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T10:28:00Z",
-   "ringkasan": "Shin Tae-yong memuji Arlyansyah Abdulmanan yang mencetak gol untuk Timnas Indonesia saat melawan Bali United. Dia menyebut pemain muda Persija itu sebagai aset masa depan",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc1d634f8da-pemain-persija-jakarta-arlyansyah-abdulmanan_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc1d634f8da-pemain-persija-jakarta-arlyansyah-abdulmanan_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "581ebfb994a3",
-   "kategori": [
-    "Timnas",
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Hasil Kualifikasi Piala Asia U-17: Indonesia Lumat Afganistan 4-0",
-   "link": "https://sport.detik.com/sepakbola/liga-indonesia/d-8757196/hasil-kualifikasi-piala-asia-u-17-indonesia-lumat-afganistan-4-0",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T10:26:13Z",
-   "ringkasan": "Timnas Indonesia U-17 memetik kemenangan ketiga di Kualifikasi Piala Asia U-17 2027. Garuda Muda melumat Afganistan 4-0.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/timnas-indonesia-u-17-1794909052846_43.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/timnas-indonesia-u-17-1794909052846_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya",
-   "id": "3fc370db4867",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Chivu Kurang Suka Inter Dilabeli Favorit Scudetto",
-   "link": "https://sport.detik.com/sepakbola/liga-italia/d-8756777/chivu-kurang-suka-inter-dilabeli-favorit-scudetto",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T10:15:25Z",
-   "ringkasan": "Sebagai juara bertahan Serie A, Inter Milan kembali dijagokan meraih scudetto. Namun, Cristian Chivu sebisa mungkin ingin menghindari tekanan macam itu.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/10/14/cristian-chivu-1791938487315_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/10/14/cristian-chivu-1791938487315_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "9b10df8117a7",
-   "kategori": [
-    "Liga Italia"
-   ]
-  },
-  {
-   "judul": "Sedang Berlangsung, Ini Link Live Streaming Singapura vs Brasil di FIFA Matchday 2026",
-   "link": "https://www.viva.co.id/bola/1944334-sedang-berlangsung-ini-link-live-streaming-singapura-vs-brasil-di-fifa-matchday-2026",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T10:10:56Z",
-   "ringkasan": "Pertandingan Singapura vs Brasil dalam rangkaian uji coba internasional FIFA Matchday November 2026 sedang berlangsung di Stadion Nasional Kallang, Selasa (17/11).",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/03/6ac0b1f37d8fc-skuad-singapura-di-fifa-asean-cup-2026_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/10/03/6ac0b1f37d8fc-skuad-singapura-di-fifa-asean-cup-2026_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "eebee1ac3aec",
-   "kategori": []
-  },
-  {
-   "judul": "Perang Terbuka FFI vs PSSI! Michael Sianipar Seret Sengketa SK Ilegal hingga ke Komite Etik & CAS FIFA",
-   "link": "https://enamplus.liputan6.com/bola/read/8337065/perang-terbuka-ffi-vs-pssi-michael-sianipar-seret-sengketa-sk-ilegal-hingga-ke-komite-etik-amp-cas-fifa",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T10:00:21Z",
-   "ringkasan": "Kementerian Hukum (Kemenkum) melalui Direktorat Jenderal Administrasi Hukum Umum resmi memblokir sementara akses Sistem Administrasi Badan Hukum (SABH) atas nama Federasi Futsal Indonesia (FFI) menyusul surat permohonan dari PSSI. Langkah administratif ini diambil untuk mencegah perubahan data kepengurusan di tengah persoalan internal organisasi, namun langsung mendapat tanggapan tegas dari Ketua…",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/1jJjxP3WjtOBH-vt3Bb2fnSOWbk=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9399639/original/087048100_1794909620-peseturuan-ffi-dengan-pssi-e16142.png",
-   "gambar_besar": null,
-   "penulis": null,
-   "id": "65f781b6ca64",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Pochettino Kini Lebih Komplet, Bisa Bangkitkan MU?",
-   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8756773/pochettino-kini-lebih-komplet-bisa-bangkitkan-mu",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T10:00:10Z",
-   "ringkasan": "Mauricio Pochettino mengaku Timnas Amerika Serikat mendewasakannya sebagai pelatih. Kini Pochettino sudah siap untuk tantangan lebih besar di Manchester United.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/mauricio-pochettino-1794895855192_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/mauricio-pochettino-1794895855192_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Mohammad Resha Pratama",
-   "id": "ba97d97f80e3",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Persija Hadapi Jadwal Neraka, Shin Tae-yong Pusing Atur Kebugaran Pemain",
-   "link": "https://www.viva.co.id/bola/1944319-persija-hadapi-jadwal-neraka-shin-tae-yong-pusing-atur-kebugaran-pemain",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T10:00:00Z",
-   "ringkasan": "Shin Tae-yong menyiapkan rotasi pemain Persija Jakarta untuk menghadapi jadwal padat, termasuk laga melawan PSM Makassar dan Sumsel United dalam tiga hari.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc16868d68e-pelatih-persija-jakarta-shin-tae-yong_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc16868d68e-pelatih-persija-jakarta-shin-tae-yong_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "e5475f814051",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Weston McKennie Buka Suara soal Rumor Gabung MU, Pochettino Beri Sinyal",
-   "link": "https://www.inews.id/sport/soccer/weston-mckennie-buka-suara-soal-rumor-gabung-mu-pochettino-beri-sinyal",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T10:00:00Z",
-   "ringkasan": "Weston McKennie buka suara soal rumor gabung Manchester United",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/11/17/weston_mckennie_mauricio_pochettino.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/11/17/weston_mckennie_mauricio_pochettino.jpg",
-   "penulis": "Reynaldi Hermawan",
-   "id": "eadcef4e65a9",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "UEFA Nations League: Jerman Menang 5-0 Atas Belanda, Puncak Grup 2 Beralih",
-   "link": "https://www.liputan6.com/bola/read/8336578/uefa-nations-league-jerman-menang-5-0-atas-belanda-puncak-grup-2-beralih",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T09:56:26Z",
-   "ringkasan": "Jerman puncaki Grup 2 UEFA Nations League 2026/2027 usai menang 5-0 atas Belanda di Berlin. Yunani kalahkan Serbia 1-0 namun tetap di posisi ketiga.",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/xSLLEdaIZkoV4ASI1JlHGVktmKs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9399017/original/061437500_1794865252-AP26320767168194-fix.jpg",
-   "gambar_besar": "https://cdn1-production-images-kly.akamaized.net/Br7-7dSDw3fe0cSqyVf8NyBeV_w=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9399017/original/061437500_1794865252-AP26320767168194-fix.jpg",
-   "penulis": null,
-   "id": "7f91f9753e41",
-   "kategori": [
-    "Liga Champions"
-   ]
-  },
-  {
-   "judul": "Ikuti Taisei Marukawa, 7 Pemain Asing BRI Super League Bisa Jadi WNI",
-   "link": "https://www.liputan6.com/bola/read/8337060/ikuti-taisei-marukawa-7-pemain-asing-bri-super-league-bisa-jadi-wni",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T09:53:16Z",
-   "ringkasan": "Ada 199 pemain asing di BRI Super League 2026/2027. Tujuh di bawah 25 tahun berpeluang mengikuti proses naturalisasi ala Taisei Marukawa.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/B8qmRsdlexy0Gcdh9bcksMwhFZc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9378656/original/038300300_1792557232-Taisei_Marukawa.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/RyH-y-_6IsSoKoYgtuKpvDpsifc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9378656/original/038300300_1792557232-Taisei_Marukawa.jpg",
-   "penulis": null,
-   "id": "752ddc88e81a",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Belanda Beri Gol-gol Mudah untuk Jerman",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8756742/belanda-beri-gol-gol-mudah-untuk-jerman",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T09:45:15Z",
-   "ringkasan": "Belanda menelan kekalahan telak saat melawan Jerman pada ajang UEFA Nations League. De Oranje dinilai terlalu mudah memberikan gol-gol untuk Die Mannschaft.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/07/05/denzel-dumfries-1783270563370_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/07/05/denzel-dumfries-1783270563370_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Lucas Aditya",
-   "id": "929647869bfe",
-   "kategori": [
-    "Liga Champions"
-   ]
-  },
-  {
-   "judul": "Alexis Mac Allister Segera Teken Kontrak Baru?",
-   "link": "https://sport.detik.com/sepakbola/liga-inggris/d-8756534/alexis-mac-allister-segera-teken-kontrak-baru",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T09:30:40Z",
-   "ringkasan": "Ada perkembangan positif terkait masa depan Alexis Mac Allister. Gelandang Argentina itu kabarnya akan memulai diskusi kontrak baru dengan Liverpool.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/alexis-mac-allister-1794893235961_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/alexis-mac-allister-1794893235961_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Mohammad Resha Pratama",
-   "id": "20cc9c47d9f6",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Shin Tae-yong Siapkan Rotasi Pemain Persija usai FIFA Matchday, Ini Alasannya",
-   "link": "https://www.viva.co.id/bola/1944316-shin-tae-yong-siapkan-rotasi-pemain-persija-usai-fifa-matchday-ini-alasannya",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T09:30:00Z",
-   "ringkasan": "Shin Tae-yong mempertimbangkan rotasi pemain Persija Jakarta setelah FIFA Matchday. Jadwal padat melawan PSM dan Sumsel United membuat waktu pemulihan terbatas.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc16a5299a2-pelatih-persija-jakarta-shin-tae-yong_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/17/6afc16a5299a2-pelatih-persija-jakarta-shin-tae-yong_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "cf86362c81e8",
-   "kategori": [
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Gareth Bale Mau Beli Sevilla",
-   "link": "https://sport.detik.com/sepakbola/liga-spanyol/d-8756738/gareth-bale-mau-beli-sevilla",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T09:15:10Z",
-   "ringkasan": "Gareth Bale bersama investor Amerika Serikat berencana mau mengakuisisi klub LaLiga, Sevilla. Mereka akan bersaing dengan investor dari Arab Saudi.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2023/11/16/gareth-bale.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2023/11/16/gareth-bale_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Afif Farhan",
-   "id": "472e3bda55cf",
-   "kategori": [
-    "Liga Spanyol"
-   ]
-  },
-  {
-   "judul": "Arlyansyah Cetak Gol di TC Timnas Indonesia, Shin Tae-yong: Bisa Jadi Aset Berharga",
-   "link": "https://www.liputan6.com/bola/read/8337023/arlyansyah-cetak-gol-di-tc-timnas-indonesia-shin-tae-yong-bisa-jadi-aset-berharga",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T09:13:55Z",
-   "ringkasan": "Arlyansyah Abdulmanan menerima panggilan perdana ke TC Timnas Indonesia dan mencetak gol vs Bali United. Shin Tae-yong menyebutnya bisa jadi aset Persija.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/sN8lHyHChRzamcg-5iU8bS3LhMg=/0x0:0x0/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,573,20,0)/kly-media-production/medias/4730551/original/013359700_1706626064-20240130205613_2R8A3503.JPG",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/RLkmKnuKVLscaPlqzbs_w7Akqpc=/0x0:0x0/1200x675/filters:quality(75):strip_icc():format(jpeg):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-color-landscape-new.png,1100,20,0)/kly-media-production/medias/4730551/original/013359700_1706626064-20240130205613_2R8A3503.JPG",
-   "penulis": null,
-   "id": "3af5465c501b",
-   "kategori": [
-    "Timnas",
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Justin Hubner Ungkap 'Jomplangnya' Kehidupan di Belanda dan Indonesia",
-   "link": "https://www.viva.co.id/bola/1944314-justin-hubner-ungkap-jomplangnya-kehidupan-di-belanda-dan-indonesia",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T09:02:00Z",
-   "ringkasan": "Justin Hubner mengungkap perbedaan kehidupan sepak bola di Indonesia dan Belanda, mulai dari hadiah Rolex di Timnas hingga apresiasi sederhana di Fortuna Sittard.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/10/6af2a8641ee29-justin-hubner_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/10/6af2a8641ee29-justin-hubner_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "e61a90aca589",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "MU Dinanti Liverpool, Pochettino Yakin Bisa Cepat Ganti Fokus",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8756747/mu-dinanti-liverpool-pochettino-yakin-bisa-cepat-ganti-fokus",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T09:00:20Z",
-   "ringkasan": "Mauricio Pochettino masih harus memimpin timnas AS sebelum menuju MU. Meski laga melawan Liverpool menanti, Pochettino yakin fokusnya tidak akan terganggu.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/mauricio-pochettino-1794886368566_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/mauricio-pochettino-1794886368566_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "eb6b1bd4518e",
-   "kategori": [
-    "Timnas",
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "Ibunda Cristiano Ronaldo Akui Senang Portugal Kalah dari Denmark",
-   "link": "https://www.liputan6.com/bola/read/8336769/ibunda-cristiano-ronaldo-akui-senang-portugal-kalah-dari-denmark",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T09:00:20Z",
-   "ringkasan": "Dolores Aveiro mengaku senang Portugal kalah 1-4 dari Denmark. Dia juga mengkritik penghormatan timnas kepada Cristiano Ronaldo.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/2J_MBb0RN-PtlRoxc3ARMFS2M-A=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9372511/original/034874100_1791881076-ronaldo_3.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/dn3q_WYrMg2r9jOjdadxl8RDNY0=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9372511/original/034874100_1791881076-ronaldo_3.jpg",
-   "penulis": null,
-   "id": "e66d06927d1b",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Terungkap! MU Sempat Lirik Fabregas untuk Gantikan Carrick, tapi Takut Ditolak Bos Indonesia",
-   "link": "https://www.inews.id/sport/soccer/terungkap-mu-sempat-lirik-fabregas-untuk-gantikan-carrick-tapi-takut-ditolak-bos-indonesia",
-   "sumber": "iNews",
-   "waktu": "2026-11-17T09:00:00Z",
-   "ringkasan": "Cesc Fabregas sempat masuk pembahasan Manchester United",
-   "gambar": "https://img.inews.id/media/600/files/inews_new/2026/09/11/cesc_fabregas.jpg",
-   "gambar_besar": "https://img.inews.id/media/1200/files/inews_new/2026/09/11/cesc_fabregas.jpg",
-   "penulis": "Reynaldi Hermawan",
-   "id": "c6868217d9a2",
-   "kategori": [
-    "Liga Inggris"
-   ]
-  },
-  {
-   "judul": "5 Pemain Persija Pulang dari Timnas, Shin Tae-yong Siapkan Pemulihan Jelang Hadapi PSM",
-   "link": "https://enamplus.liputan6.com/bola/read/8336995/5-pemain-persija-pulang-dari-timnas-shin-tae-yong-siapkan-pemulihan-jelang-hadapi-psm",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T08:45:17Z",
-   "ringkasan": "Setelah menjalani masa libur selama FIFA Matchday November, Persija Jakarta akhirnya kembali menggelar latihan untuk mempersiapkan kelanjutan kompetisi BRI Super League 2026/2027. Sejumlah pemain Macan Kemayoran yang sebelumnya memperkuat Timnas Indonesia juga sudah kembali bergabung. Mereka di antaranya Rizky Ridho, Rayhan Hannan, Dony Tri Pamungkas, Shayne Pattynama, dan Nadeo Argawinata…",
-   "gambar": "https://cdn1-production-images-kly.akamaized.net/TcboBbSYQ_L6l5zL5JZFfIW6Wfs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/thumbnails/9399568/original/071282000_1794905116-5-pemain-persija-pulang-dari-timnas-shin-tae-yong-siapkan-pemulihan-jelang-hadapi-psm-75d8dd.png",
-   "gambar_besar": null,
-   "penulis": null,
-   "id": "8ad6e59a3299",
-   "kategori": [
-    "Timnas",
-    "Liga Indonesia"
-   ]
-  },
-  {
-   "judul": "Amarah Kiper Belanda: Kami Bisa Saja Kebobolan 8 Gol!",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8756646/amarah-kiper-belanda-kami-bisa-saja-kebobolan-8-gol",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T08:40:35Z",
-   "ringkasan": "Kiper Belanda Bart Verbruggen geram timnya dibantai Jerman 5-0. De Oranje disebutnya main buruk, hingga bisa saja kebobolan lebih dari 5 gol.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/bart-verbruggen-1794879720544_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/17/bart-verbruggen-1794879720544_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Bayu Baskoro",
-   "id": "40cd002ba1b3",
-   "kategori": []
-  },
-  {
-   "judul": "Sedang Berlangsung, Ini Link Live Streaming Timnas Indonesia U-17 vs Afghanistan di Laga Penentu Kualifikasi Piala Asia",
-   "link": "https://www.viva.co.id/bola/1944308-sedang-berlangsung-ini-link-live-streaming-timnas-indonesia-u-17-vs-afghanistan-di-laga-penentu-kualifikasi-piala-asia",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T08:34:50Z",
-   "ringkasan": "Pertandingan antara Timnas Indonesia U-17 menghadapi Afghanistan dalam laga penentuan Grup A Kualifikasi Piala Asia U-17 2027, sedang berlangsung di Stadion Thuwunna, Yan",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/12/6af5501c091c2-timnas-indonesia-u-17_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/12/6af5501c091c2-timnas-indonesia-u-17_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "1ee8e6893c51",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Afghanistan vs Indonesia Sudah Mulai, Dapatkan Link Live Streaming SCTV, Indosiar, dan Vidio",
-   "link": "https://www.liputan6.com/bola/read/8336428/afghanistan-vs-indonesia-sudah-mulai-dapatkan-link-live-streaming-sctv-indosiar-dan-vidio",
-   "sumber": "Liputan6",
-   "waktu": "2026-11-17T08:30:05Z",
-   "ringkasan": "Laga Afghanistan vs Indonesia di Grup A kualifikasi Piala Asia U-17 2027 bisa ditonton melalui Emtek Group.",
-   "gambar": "https://cdn0-production-images-kly.akamaized.net/CqRga3US71MnqY0E-pYkfuamzbk=/280x319:2169x1384/673x379/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9395437/original/084287000_1794390240-HW1Rqp0bsAAwb4x.jpg",
-   "gambar_besar": "https://cdn0-production-images-kly.akamaized.net/I16cShJGaiJLoA8iLlzFeUnzmtY=/280x319:2169x1384/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/9395437/original/084287000_1794390240-HW1Rqp0bsAAwb4x.jpg",
-   "penulis": null,
-   "id": "5dea2d02499e",
-   "kategori": []
-  },
-  {
-   "judul": "FFI Laporkan Erick Thohir dan Yunus Nusi ke Komite Etik PSSI, Ini Masalahnya",
-   "link": "https://www.viva.co.id/bola/1944304-ffi-laporkan-erick-thohir-dan-yunus-nusi-ke-komite-etik-pssi-ini-masalahnya",
-   "sumber": "VIVA",
-   "waktu": "2026-11-17T08:27:31Z",
-   "ringkasan": "FFI melaporkan Erick Thohir dan Yunus Nusi ke Komite Etik PSSI terkait pencopotan Michael Victor Sianipar dan penunjukan Vivin Cahyani sebagai Plt Ketua Umum FFI.",
-   "gambar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/13/6af6c936c0dbf-ketua-umum-federasi-futsal-indonesia-ffi-michael-sianipar-dan-ketum-pssi-erick-thohir_gemini_665_374.jpg",
-   "gambar_besar": "https://thumb.viva.co.id/media/frontend/thumbs3/2026/11/13/6af6c936c0dbf-ketua-umum-federasi-futsal-indonesia-ffi-michael-sianipar-dan-ketum-pssi-erick-thohir_gemini_1265_711.jpg",
-   "penulis": "Surya Aditiya",
-   "id": "b3574ed36f8a",
-   "kategori": [
-    "Timnas"
-   ]
-  },
-  {
-   "judul": "Pelatih Wales: Rayakan Ronaldo, Bukan Kontroversinya",
-   "link": "https://sport.detik.com/sepakbola/bola-dunia/d-8756649/pelatih-wales-rayakan-ronaldo-bukan-kontroversinya",
-   "sumber": "detikSport",
-   "waktu": "2026-11-17T08:20:30Z",
-   "ringkasan": "Pelatih Wales Craig Bellamy menilai dunia sepakbola akan kehilangan Cristiano Ronaldo. Ia menyerukan untuk merayakan kariernya, bukan kontroversinya.",
-   "gambar": "https://akcdn.detik.net.id/community/media/visual/2026/11/05/cristiano-ronaldo-1793875780106_169.jpeg?w=640&q=90",
-   "gambar_besar": "https://awsimages.detik.net.id/api/wm/2026/11/05/cristiano-ronaldo-1793875780106_169.jpeg?wid=54&w=1200&v=1&t=jpeg",
-   "penulis": "Novitasari Dewi Salusi",
-   "id": "ae8b5cd2bd32",
    "kategori": []
   }
  ]
