@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-21T02:13:34Z",
+ "diperbarui": "2026-11-21T11:03:10Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -130,6 +130,46 @@
     },
     {
      "posisi": 7,
+     "tim": "idn-java-united",
+     "main": 10,
+     "menang": 4,
+     "seri": 4,
+     "kalah": 2,
+     "gm": 15,
+     "gk": 12,
+     "sg": 3,
+     "poin": 14,
+     "form": [
+      "S",
+      "S",
+      "M",
+      "M",
+      "S"
+     ],
+     "potong_poin": 2
+    },
+    {
+     "posisi": 8,
+     "tim": "idn-persebaya-surabaya",
+     "main": 10,
+     "menang": 3,
+     "seri": 5,
+     "kalah": 2,
+     "gm": 11,
+     "gk": 9,
+     "sg": 2,
+     "poin": 14,
+     "form": [
+      "K",
+      "M",
+      "S",
+      "K",
+      "S"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 9,
      "tim": "idn-garudayaksa",
      "main": 10,
      "menang": 4,
@@ -145,46 +185,6 @@
       "M",
       "M",
       "M"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 8,
-     "tim": "idn-java-united",
-     "main": 9,
-     "menang": 4,
-     "seri": 3,
-     "kalah": 2,
-     "gm": 14,
-     "gk": 11,
-     "sg": 3,
-     "poin": 13,
-     "form": [
-      "M",
-      "S",
-      "S",
-      "M",
-      "M"
-     ],
-     "potong_poin": 2
-    },
-    {
-     "posisi": 9,
-     "tim": "idn-persebaya-surabaya",
-     "main": 9,
-     "menang": 3,
-     "seri": 4,
-     "kalah": 2,
-     "gm": 10,
-     "gk": 8,
-     "sg": 2,
-     "poin": 13,
-     "form": [
-      "S",
-      "K",
-      "M",
-      "S",
-      "K"
      ],
      "potong_poin": 0
     },
@@ -230,6 +230,26 @@
     },
     {
      "posisi": 12,
+     "tim": "idn-persik-kediri",
+     "main": 10,
+     "menang": 3,
+     "seri": 2,
+     "kalah": 5,
+     "gm": 11,
+     "gk": 16,
+     "sg": -5,
+     "poin": 11,
+     "form": [
+      "M",
+      "K",
+      "K",
+      "K",
+      "S"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 13,
      "tim": "idn-borneo-fc-samarinda",
      "main": 8,
      "menang": 3,
@@ -249,7 +269,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 13,
+     "posisi": 14,
      "tim": "idn-psm-makassar",
      "main": 9,
      "menang": 2,
@@ -269,27 +289,27 @@
      "potong_poin": 0
     },
     {
-     "posisi": 14,
-     "tim": "idn-persik-kediri",
-     "main": 9,
-     "menang": 3,
-     "seri": 1,
-     "kalah": 5,
-     "gm": 9,
-     "gk": 14,
-     "sg": -5,
-     "poin": 10,
+     "posisi": 15,
+     "tim": "idn-psim-yogyakarta",
+     "main": 10,
+     "menang": 1,
+     "seri": 3,
+     "kalah": 6,
+     "gm": 8,
+     "gk": 16,
+     "sg": -8,
+     "poin": 6,
      "form": [
       "K",
+      "S",
       "M",
       "K",
-      "K",
-      "K"
+      "S"
      ],
      "potong_poin": 0
     },
     {
-     "posisi": 15,
+     "posisi": 16,
      "tim": "idn-isenmulang-kalteng",
      "main": 9,
      "menang": 2,
@@ -309,7 +329,7 @@
      "potong_poin": 2
     },
     {
-     "posisi": 16,
+     "posisi": 17,
      "tim": "idn-pss-sleman",
      "main": 10,
      "menang": 1,
@@ -324,26 +344,6 @@
       "K",
       "K",
       "S",
-      "K"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 17,
-     "tim": "idn-psim-yogyakarta",
-     "main": 9,
-     "menang": 1,
-     "seri": 2,
-     "kalah": 6,
-     "gm": 6,
-     "gk": 14,
-     "sg": -8,
-     "poin": 5,
-     "form": [
-      "K",
-      "K",
-      "S",
-      "M",
       "K"
      ],
      "potong_poin": 0
@@ -970,22 +970,28 @@
     },
     {
      "id": "idn-2026-11-21-idn-persik-kediri-idn-psim-yogyakarta",
-     "waktu": "2026-11-21T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-20T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-persik-kediri",
      "tamu": "idn-psim-yogyakarta",
-     "skor": null,
+     "skor": [
+      2,
+      2
+     ],
      "stadion": "Gelora Joko Samudro"
     },
     {
      "id": "idn-2026-11-21-idn-persebaya-surabaya-idn-java-united",
-     "waktu": "2026-11-21T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-20T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-persebaya-surabaya",
      "tamu": "idn-java-united",
-     "skor": null,
+     "skor": [
+      1,
+      1
+     ],
      "stadion": "Gelora Bung Tomo"
     },
     {
