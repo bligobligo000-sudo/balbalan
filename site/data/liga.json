@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-22T01:15:23Z",
+ "diperbarui": "2026-11-22T11:26:21Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -230,6 +230,26 @@
     },
     {
      "posisi": 12,
+     "tim": "idn-borneo-fc-samarinda",
+     "main": 9,
+     "menang": 3,
+     "seri": 2,
+     "kalah": 4,
+     "gm": 8,
+     "gk": 10,
+     "sg": -2,
+     "poin": 11,
+     "form": [
+      "K",
+      "M",
+      "K",
+      "S",
+      "S"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 13,
      "tim": "idn-psm-makassar",
      "main": 10,
      "menang": 2,
@@ -249,7 +269,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 13,
+     "posisi": 14,
      "tim": "idn-persik-kediri",
      "main": 10,
      "menang": 3,
@@ -269,27 +289,27 @@
      "potong_poin": 0
     },
     {
-     "posisi": 14,
-     "tim": "idn-borneo-fc-samarinda",
-     "main": 8,
-     "menang": 3,
-     "seri": 1,
-     "kalah": 4,
-     "gm": 8,
-     "gk": 10,
-     "sg": -2,
-     "poin": 10,
+     "posisi": 15,
+     "tim": "idn-isenmulang-kalteng",
+     "main": 10,
+     "menang": 2,
+     "seri": 3,
+     "kalah": 5,
+     "gm": 4,
+     "gk": 16,
+     "sg": -12,
+     "poin": 7,
      "form": [
-      "M",
+      "S",
+      "S",
       "K",
       "M",
-      "K",
       "S"
      ],
-     "potong_poin": 0
+     "potong_poin": 2
     },
     {
-     "posisi": 15,
+     "posisi": 16,
      "tim": "idn-psim-yogyakarta",
      "main": 10,
      "menang": 1,
@@ -307,26 +327,6 @@
       "S"
      ],
      "potong_poin": 0
-    },
-    {
-     "posisi": 16,
-     "tim": "idn-isenmulang-kalteng",
-     "main": 9,
-     "menang": 2,
-     "seri": 2,
-     "kalah": 5,
-     "gm": 4,
-     "gk": 16,
-     "sg": -12,
-     "poin": 6,
-     "form": [
-      "M",
-      "S",
-      "S",
-      "K",
-      "M"
-     ],
-     "potong_poin": 2
     },
     {
      "posisi": 17,
@@ -1022,12 +1022,15 @@
     },
     {
      "id": "idn-2026-11-22-idn-isenmulang-kalteng-idn-borneo-fc-samarinda",
-     "waktu": "2026-11-22T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-21T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-isenmulang-kalteng",
      "tamu": "idn-borneo-fc-samarinda",
-     "skor": null,
+     "skor": [
+      0,
+      0
+     ],
      "stadion": "Tuah Pahoe"
     },
     {
