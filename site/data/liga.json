@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-22T19:37:19Z",
+ "diperbarui": "2026-11-23T01:42:59Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -2930,14 +2930,14 @@
     {
      "posisi": 3,
      "tim": "fd-78",
-     "main": 12,
-     "menang": 9,
+     "main": 13,
+     "menang": 10,
      "seri": 1,
      "kalah": 2,
-     "gm": 23,
+     "gm": 26,
      "gk": 10,
-     "sg": 13,
-     "poin": 28,
+     "sg": 16,
+     "poin": 31,
      "form": [],
      "grup": null
     },
@@ -3111,20 +3111,6 @@
     },
     {
      "posisi": 16,
-     "tim": "fd-82",
-     "main": 12,
-     "menang": 3,
-     "seri": 3,
-     "kalah": 6,
-     "gm": 8,
-     "gk": 18,
-     "sg": -10,
-     "poin": 12,
-     "form": [],
-     "grup": null
-    },
-    {
-     "posisi": 17,
      "tim": "fd-95",
      "main": 13,
      "menang": 3,
@@ -3133,6 +3119,20 @@
      "gm": 9,
      "gk": 20,
      "sg": -11,
+     "poin": 12,
+     "form": [],
+     "grup": null
+    },
+    {
+     "posisi": 17,
+     "tim": "fd-82",
+     "main": 13,
+     "menang": 3,
+     "seri": 3,
+     "kalah": 7,
+     "gm": 8,
+     "gk": 21,
+     "sg": -13,
      "poin": 12,
      "form": [],
      "grup": null
@@ -3997,10 +3997,13 @@
      "id": "fd-564753",
      "waktu": "2026-11-22T20:00:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-82",
      "tamu": "fd-78",
-     "skor": null,
+     "skor": [
+      0,
+      3
+     ],
      "stadion": "",
      "pekan": 13
     },
