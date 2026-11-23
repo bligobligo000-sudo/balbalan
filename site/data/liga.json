@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-23T01:42:59Z",
+ "diperbarui": "2026-11-23T12:27:01Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -4534,14 +4534,14 @@
     {
      "posisi": 3,
      "tim": "fd-108",
-     "main": 11,
+     "main": 12,
      "menang": 9,
-     "seri": 1,
+     "seri": 2,
      "kalah": 1,
-     "gm": 28,
-     "gk": 13,
+     "gm": 32,
+     "gk": 17,
      "sg": 15,
-     "poin": 28,
+     "poin": 29,
      "form": [],
      "grup": null
     },
@@ -4660,14 +4660,14 @@
     {
      "posisi": 12,
      "tim": "fd-102",
-     "main": 11,
+     "main": 12,
      "menang": 4,
-     "seri": 2,
+     "seri": 3,
      "kalah": 5,
-     "gm": 17,
-     "gk": 20,
+     "gm": 21,
+     "gk": 24,
      "sg": -3,
-     "poin": 14,
+     "poin": 15,
      "form": [],
      "grup": null
     },
@@ -5741,10 +5741,13 @@
      "id": "fd-558520",
      "waktu": "2026-11-22T19:45:00Z",
      "jam_pasti": true,
-     "status": "jadwal",
+     "status": "selesai",
      "kandang": "fd-102",
      "tamu": "fd-108",
-     "skor": null,
+     "skor": [
+      4,
+      4
+     ],
      "stadion": "",
      "pekan": 12
     },
