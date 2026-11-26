@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-26T03:33:42Z",
+ "diperbarui": "2026-11-26T16:51:58Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -30,6 +30,26 @@
     },
     {
      "posisi": 2,
+     "tim": "idn-persita",
+     "main": 10,
+     "menang": 6,
+     "seri": 3,
+     "kalah": 1,
+     "gm": 21,
+     "gk": 13,
+     "sg": 8,
+     "poin": 21,
+     "form": [
+      "S",
+      "M",
+      "K",
+      "M",
+      "M"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 3,
      "tim": "idn-dewa-united-banten",
      "main": 10,
      "menang": 6,
@@ -49,7 +69,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 3,
+     "posisi": 4,
      "tim": "idn-bali-united",
      "main": 10,
      "menang": 6,
@@ -69,7 +89,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 4,
+     "posisi": 5,
      "tim": "idn-persib-bandung",
      "main": 10,
      "menang": 6,
@@ -89,7 +109,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 5,
+     "posisi": 6,
      "tim": "idn-madura-united",
      "main": 10,
      "menang": 6,
@@ -105,26 +125,6 @@
       "M",
       "M",
       "K"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 6,
-     "tim": "idn-persita",
-     "main": 9,
-     "menang": 5,
-     "seri": 3,
-     "kalah": 1,
-     "gm": 18,
-     "gk": 11,
-     "sg": 7,
-     "poin": 18,
-     "form": [
-      "M",
-      "S",
-      "M",
-      "K",
-      "M"
      ],
      "potong_poin": 0
     },
@@ -231,20 +231,20 @@
     {
      "posisi": 12,
      "tim": "idn-borneo-fc-samarinda",
-     "main": 9,
+     "main": 10,
      "menang": 3,
      "seri": 2,
-     "kalah": 4,
-     "gm": 8,
-     "gk": 10,
-     "sg": -2,
+     "kalah": 5,
+     "gm": 10,
+     "gk": 13,
+     "sg": -3,
      "poin": 11,
      "form": [
-      "K",
       "M",
       "K",
       "S",
-      "S"
+      "S",
+      "K"
      ],
      "potong_poin": 0
     },
@@ -944,12 +944,15 @@
     },
     {
      "id": "idn-2026-11-26-idn-borneo-fc-samarinda-idn-persita",
-     "waktu": "2026-11-26T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-25T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-borneo-fc-samarinda",
      "tamu": "idn-persita",
-     "skor": null,
+     "skor": [
+      2,
+      3
+     ],
      "stadion": "Segiri"
     },
     {
@@ -2766,6 +2769,61 @@
      "skor": null,
      "stadion": "",
      "pekan": 16
+    },
+    {
+     "id": "fd-560702",
+     "waktu": "2026-12-26T12:30:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-58",
+     "tamu": "fd-341",
+     "skor": null,
+     "stadion": "",
+     "pekan": 17
+    },
+    {
+     "id": "fd-560705",
+     "waktu": "2026-12-26T15:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-62",
+     "tamu": "fd-71",
+     "skor": null,
+     "stadion": "",
+     "pekan": 17
+    },
+    {
+     "id": "fd-560708",
+     "waktu": "2026-12-26T15:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-63",
+     "tamu": "fd-397",
+     "skor": null,
+     "stadion": "",
+     "pekan": 17
+    },
+    {
+     "id": "fd-560709",
+     "waktu": "2026-12-26T15:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-73",
+     "tamu": "fd-1044",
+     "skor": null,
+     "stadion": "",
+     "pekan": 17
+    },
+    {
+     "id": "fd-560711",
+     "waktu": "2026-12-26T15:00:00Z",
+     "jam_pasti": true,
+     "status": "jadwal",
+     "kandang": "fd-349",
+     "tamu": "fd-402",
+     "skor": null,
+     "stadion": "",
+     "pekan": 17
     }
    ]
   },
@@ -4553,20 +4611,6 @@
     }
    ],
    "laga": [
-    {
-     "id": "fd-558579",
-     "waktu": "2026-10-12T16:30:00Z",
-     "jam_pasti": true,
-     "status": "selesai",
-     "kandang": "fd-102",
-     "tamu": "fd-454",
-     "skor": [
-      3,
-      1
-     ],
-     "stadion": "",
-     "pekan": 6
-    },
     {
      "id": "fd-558587",
      "waktu": "2026-10-12T18:45:00Z",
