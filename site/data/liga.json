@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-28T03:21:26Z",
+ "diperbarui": "2026-11-28T11:53:06Z",
  "kompetisi": [
   {
    "slug": "liga-indonesia",
@@ -10,6 +10,46 @@
    "klasemen": [
     {
      "posisi": 1,
+     "tim": "idn-dewa-united-banten",
+     "main": 11,
+     "menang": 7,
+     "seri": 2,
+     "kalah": 2,
+     "gm": 19,
+     "gk": 13,
+     "sg": 6,
+     "poin": 23,
+     "form": [
+      "K",
+      "M",
+      "M",
+      "K",
+      "M"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 2,
+     "tim": "idn-bali-united",
+     "main": 11,
+     "menang": 7,
+     "seri": 1,
+     "kalah": 3,
+     "gm": 31,
+     "gk": 11,
+     "sg": 20,
+     "poin": 22,
+     "form": [
+      "S",
+      "M",
+      "M",
+      "K",
+      "M"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 3,
      "tim": "idn-persija-jakarta",
      "main": 10,
      "menang": 7,
@@ -29,7 +69,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 2,
+     "posisi": 4,
      "tim": "idn-persita",
      "main": 10,
      "menang": 6,
@@ -49,67 +89,7 @@
      "potong_poin": 0
     },
     {
-     "posisi": 3,
-     "tim": "idn-dewa-united-banten",
-     "main": 10,
-     "menang": 6,
-     "seri": 2,
-     "kalah": 2,
-     "gm": 16,
-     "gk": 13,
-     "sg": 3,
-     "poin": 20,
-     "form": [
-      "M",
-      "K",
-      "M",
-      "M",
-      "K"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 4,
-     "tim": "idn-bali-united",
-     "main": 10,
-     "menang": 6,
-     "seri": 1,
-     "kalah": 3,
-     "gm": 27,
-     "gk": 11,
-     "sg": 16,
-     "poin": 19,
-     "form": [
-      "M",
-      "S",
-      "M",
-      "M",
-      "K"
-     ],
-     "potong_poin": 0
-    },
-    {
      "posisi": 5,
-     "tim": "idn-persib-bandung",
-     "main": 10,
-     "menang": 6,
-     "seri": 1,
-     "kalah": 3,
-     "gm": 18,
-     "gk": 11,
-     "sg": 7,
-     "poin": 19,
-     "form": [
-      "K",
-      "M",
-      "M",
-      "K",
-      "M"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 6,
      "tim": "idn-madura-united",
      "main": 10,
      "menang": 6,
@@ -129,22 +109,42 @@
      "potong_poin": 0
     },
     {
+     "posisi": 6,
+     "tim": "idn-persib-bandung",
+     "main": 10,
+     "menang": 6,
+     "seri": 1,
+     "kalah": 3,
+     "gm": 18,
+     "gk": 11,
+     "sg": 7,
+     "poin": 19,
+     "form": [
+      "K",
+      "M",
+      "M",
+      "K",
+      "M"
+     ],
+     "potong_poin": 0
+    },
+    {
      "posisi": 7,
      "tim": "idn-bhayangkara-lampung",
-     "main": 10,
+     "main": 11,
      "menang": 3,
      "seri": 6,
-     "kalah": 1,
+     "kalah": 2,
      "gm": 13,
-     "gk": 11,
-     "sg": 2,
+     "gk": 15,
+     "sg": -2,
      "poin": 15,
      "form": [
-      "M",
       "S",
       "K",
       "S",
-      "M"
+      "M",
+      "K"
      ],
      "potong_poin": 0
     },
@@ -250,26 +250,6 @@
     },
     {
      "posisi": 13,
-     "tim": "idn-psm-makassar",
-     "main": 10,
-     "menang": 2,
-     "seri": 5,
-     "kalah": 3,
-     "gm": 11,
-     "gk": 15,
-     "sg": -4,
-     "poin": 11,
-     "form": [
-      "M",
-      "S",
-      "K",
-      "S",
-      "S"
-     ],
-     "potong_poin": 0
-    },
-    {
-     "posisi": 14,
      "tim": "idn-persik-kediri",
      "main": 10,
      "menang": 3,
@@ -289,61 +269,81 @@
      "potong_poin": 0
     },
     {
-     "posisi": 15,
-     "tim": "idn-isenmulang-kalteng",
-     "main": 10,
+     "posisi": 14,
+     "tim": "idn-psm-makassar",
+     "main": 11,
      "menang": 2,
-     "seri": 3,
-     "kalah": 5,
-     "gm": 4,
-     "gk": 16,
-     "sg": -12,
-     "poin": 7,
+     "seri": 5,
+     "kalah": 4,
+     "gm": 11,
+     "gk": 18,
+     "sg": -7,
+     "poin": 11,
      "form": [
       "S",
+      "K",
+      "S",
+      "S",
+      "K"
+     ],
+     "potong_poin": 0
+    },
+    {
+     "posisi": 15,
+     "tim": "idn-isenmulang-kalteng",
+     "main": 11,
+     "menang": 3,
+     "seri": 3,
+     "kalah": 5,
+     "gm": 8,
+     "gk": 18,
+     "sg": -10,
+     "poin": 10,
+     "form": [
       "S",
       "K",
       "M",
-      "S"
+      "S",
+      "M"
      ],
      "potong_poin": 2
     },
     {
      "posisi": 16,
      "tim": "idn-psim-yogyakarta",
-     "main": 10,
-     "menang": 1,
+     "main": 11,
+     "menang": 2,
      "seri": 3,
      "kalah": 6,
-     "gm": 8,
-     "gk": 16,
-     "sg": -8,
-     "poin": 6,
+     "gm": 10,
+     "gk": 17,
+     "sg": -7,
+     "poin": 9,
      "form": [
-      "K",
       "S",
       "M",
       "K",
-      "S"
+      "S",
+      "M"
      ],
      "potong_poin": 0
     },
     {
      "posisi": 17,
      "tim": "idn-pss-sleman",
-     "main": 10,
+     "main": 11,
      "menang": 1,
      "seri": 2,
-     "kalah": 7,
-     "gm": 12,
-     "gk": 20,
-     "sg": -8,
+     "kalah": 8,
+     "gm": 14,
+     "gk": 24,
+     "sg": -10,
      "poin": 5,
      "form": [
       "K",
       "K",
-      "K",
       "S",
+      "K",
       "K"
      ],
      "potong_poin": 0
@@ -351,18 +351,18 @@
     {
      "posisi": 18,
      "tim": "idn-persijap-jepara",
-     "main": 10,
+     "main": 11,
      "menang": 0,
      "seri": 2,
-     "kalah": 8,
-     "gm": 5,
-     "gk": 19,
-     "sg": -14,
+     "kalah": 9,
+     "gm": 6,
+     "gk": 21,
+     "sg": -15,
      "poin": 2,
      "form": [
+      "S",
+      "S",
       "K",
-      "S",
-      "S",
       "K",
       "K"
      ],
@@ -957,42 +957,54 @@
     },
     {
      "id": "idn-2026-11-28-idn-isenmulang-kalteng-idn-pss-sleman",
-     "waktu": "2026-11-28T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-27T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-isenmulang-kalteng",
      "tamu": "idn-pss-sleman",
-     "skor": null,
+     "skor": [
+      4,
+      2
+     ],
      "stadion": "Tuah Pahoe"
     },
     {
      "id": "idn-2026-11-28-idn-psm-makassar-idn-dewa-united-banten",
-     "waktu": "2026-11-28T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-27T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-psm-makassar",
      "tamu": "idn-dewa-united-banten",
-     "skor": null,
+     "skor": [
+      0,
+      3
+     ],
      "stadion": "Gelora B. J. Habibie"
     },
     {
      "id": "idn-2026-11-28-idn-psim-yogyakarta-idn-persijap-jepara",
-     "waktu": "2026-11-28T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-27T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-psim-yogyakarta",
      "tamu": "idn-persijap-jepara",
-     "skor": null,
+     "skor": [
+      2,
+      1
+     ],
      "stadion": "Sultan Agung"
     },
     {
      "id": "idn-2026-11-28-idn-bali-united-idn-bhayangkara-lampung",
-     "waktu": "2026-11-28T08:30:00Z",
-     "jam_pasti": true,
-     "status": "jadwal",
+     "waktu": "2026-11-27T17:00:00Z",
+     "jam_pasti": false,
+     "status": "selesai",
      "kandang": "idn-bali-united",
      "tamu": "idn-bhayangkara-lampung",
-     "skor": null,
+     "skor": [
+      4,
+      0
+     ],
      "stadion": "Kapten I Wayan Dipta"
     },
     {
